@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workbook original-version="10.5" source-platform="win" version="10.5" xmlns:user="http://www.tableausoftware.com/xml/user">
+  <preferences/>
+  <datasources>
+    <datasource caption="Deck comparisons" inline="true" name="comparisons" version="10.5">
+      <connection class="textscan" directory="../../results" filename="deck_comparisons.csv" password="" server="">
+        <relation name="deck_comparisons" table="[deck_comparisons#csv]" type="table">
+          <columns header="yes" separator="," charset="UTF-8">
+            <column datatype="string" name="user_deck" ordinal="0"/>
+            <column datatype="string" name="reference_deck" ordinal="1"/>
+            <column datatype="string" name="reference_label" ordinal="2"/>
+            <column datatype="string" name="reference_group" ordinal="3"/>
+            <column datatype="string" name="source_bracket" ordinal="4"/>
+            <column datatype="integer" name="shared_card_names" ordinal="5"/>
+            <column datatype="string" name="source_url" ordinal="6"/>
+          </columns>
+        </relation>
+      </connection>
+      <column caption="Your deck" datatype="string" name="[user_deck]" role="dimension" type="nominal"/>
+      <column caption="Reference deck" datatype="string" name="[reference_label]" role="dimension" type="nominal"/>
+      <column caption="Shared card names" datatype="integer" name="[shared_card_names]" role="measure" type="quantitative"/>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name="Shared card names">
+      <layout-options><title><formatted-text><run bold="true">Shared card names</run><run> | </run><run>[comparisons].[attr:user_deck:nk]</run></formatted-text></title></layout-options>
+      <table>
+        <view>
+          <datasources><datasource caption="Deck comparisons" name="comparisons"/></datasources>
+          <datasource-dependencies datasource="comparisons">
+            <column caption="Reference deck" datatype="string" name="[reference_label]" role="dimension" type="nominal"/>
+            <column caption="Shared card names" datatype="integer" name="[shared_card_names]" role="measure" type="quantitative"/>
+            <column caption="Your deck" datatype="string" name="[user_deck]" role="dimension" type="nominal"/>
+            <column-instance column="[reference_label]" derivation="None" name="[none:reference_label:nk]" pivot="key" type="nominal"/>
+            <column-instance column="[shared_card_names]" derivation="Max" name="[max:shared_card_names:qk]" pivot="key" type="quantitative"/>
+            <column-instance column="[user_deck]" derivation="Attribute" name="[attr:user_deck:nk]" pivot="key" type="nominal"/>
+          </datasource-dependencies>
+          <aggregation value="true"/>
+        </view>
+        <style><style-rule element="mark"><format attr="mark-color" value="#237868"/></style-rule></style>
+        <panes><pane selection-relaxation-option="selection-relaxation-allow"><view><breakdown value="auto"/></view><mark class="Bar"/><encodings><lod column="[comparisons].[attr:user_deck:nk]"/></encodings></pane></panes>
+        <rows>[comparisons].[none:reference_label:nk]</rows>
+        <cols>[comparisons].[max:shared_card_names:qk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name="Deck comparison">
+      <style/>
+      <size maxheight="512" maxwidth="900" minheight="512" minwidth="900" sizing-mode="fixed"/>
+      <zones><zone h="100000" id="1" name="Shared card names" w="100000" x="0" y="0"/></zones>
+    </dashboard>
+  </dashboards>
+</workbook>

@@ -1,0 +1,2013 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workbook original-version="10.5" source-platform="win" version="10.5">
+  <preferences />
+  <datasources>
+    <datasource caption="Gameplay comparison" inline="true" name="gameplay" version="10.5">
+      <connection class="textscan" directory="../../results" filename="gameplay_dashboard.csv" password="" server="">
+        <relation name="gameplay_dashboard" table="[gameplay_dashboard#csv]" type="table">
+          <columns header="yes" separator="," charset="UTF-8">
+            <column datatype="string" name="view" ordinal="0" />
+            <column datatype="string" name="deck" ordinal="1" />
+            <column datatype="string" name="group" ordinal="2" />
+            <column datatype="string" name="metric" ordinal="3" />
+            <column datatype="string" name="display" ordinal="4" />
+            <column datatype="string" name="value" ordinal="5" />
+            <column datatype="string" name="detail" ordinal="6" />
+          </columns>
+        </relation>
+      </connection>
+      <column datatype="string" name="[view]" role="dimension" type="nominal" />
+      <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+      <column datatype="string" name="[group]" role="dimension" type="nominal" />
+      <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+      <column datatype="string" name="[display]" role="dimension" type="nominal" />
+      <column datatype="string" name="[value]" role="dimension" type="nominal" />
+      <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+    </datasource>
+    <datasource caption="Deck capabilities" inline="true" name="strategy" version="10.5">
+      <connection class="textscan" directory="../../results" filename="strategy_cells.csv" password="" server="">
+        <relation name="strategy_cells" table="[strategy_cells#csv]" type="table">
+          <columns header="yes" separator="," charset="UTF-8">
+            <column datatype="string" name="view" ordinal="0" />
+            <column datatype="string" name="deck" ordinal="1" />
+            <column datatype="string" name="group" ordinal="2" />
+            <column datatype="string" name="category" ordinal="3" />
+            <column datatype="integer" name="position" ordinal="4" />
+            <column datatype="integer" name="count" ordinal="5" />
+            <column datatype="real" name="slot_share" ordinal="6" />
+            <column datatype="string" name="symbol_equivalents" ordinal="7" />
+            <column datatype="string" name="colored_symbol_total" ordinal="8" />
+            <column datatype="string" name="cards" ordinal="9" />
+            <column datatype="string" name="deck_order" ordinal="10" />
+            <column datatype="string" name="group_order" ordinal="11" />
+            <column datatype="string" name="field_label" ordinal="12" />
+          </columns>
+        </relation>
+      </connection>
+      <column datatype="string" name="[view]" role="dimension" type="nominal" />
+      <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+      <column datatype="string" name="[group]" role="dimension" type="nominal" />
+      <column datatype="string" name="[category]" role="dimension" type="nominal" />
+      <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+      <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+      <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+      <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+      <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+      <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+      <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+      <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+      <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+    </datasource>
+    <datasource caption="Player and public reference" inline="true" name="pairs" version="10.5">
+      <connection class="textscan" directory="../../results" filename="strategy_pairs.csv" password="" server="">
+        <relation name="strategy_pairs" table="[strategy_pairs#csv]" type="table">
+          <columns header="yes" separator="," charset="UTF-8">
+            <column name="view" datatype="string" ordinal="0" />
+            <column name="reference" datatype="string" ordinal="1" />
+            <column name="reference_choice" datatype="string" ordinal="2" />
+            <column name="cohort" datatype="string" ordinal="3" />
+            <column name="side" datatype="string" ordinal="4" />
+            <column name="deck" datatype="string" ordinal="5" />
+            <column name="category" datatype="string" ordinal="6" />
+            <column name="position" datatype="integer" ordinal="7" />
+            <column name="count" datatype="integer" ordinal="8" />
+            <column name="cards" datatype="string" ordinal="9" />
+          </columns>
+        </relation>
+      </connection>
+      <column name="[view]" datatype="string" role="dimension" type="nominal" />
+      <column name="[reference]" datatype="string" role="dimension" type="nominal" />
+      <column name="[reference_choice]" datatype="string" role="dimension" type="nominal" />
+      <column name="[cohort]" datatype="string" role="dimension" type="nominal" />
+      <column name="[side]" datatype="string" role="dimension" type="nominal" />
+      <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+      <column name="[category]" datatype="string" role="dimension" type="nominal" />
+      <column name="[position]" datatype="integer" role="measure" type="quantitative" />
+      <column name="[count]" datatype="integer" role="measure" type="quantitative" />
+      <column name="[cards]" datatype="string" role="dimension" type="nominal" />
+    </datasource>
+    <datasource caption="Gameplay evidence" inline="true" name="review" version="10.5">
+      <connection class="textscan" directory="../../results" filename="review_details.csv" password="" server="">
+        <relation name="review_details" table="[review_details#csv]" type="table">
+          <columns header="yes" separator="," charset="UTF-8">
+            <column name="section" datatype="string" ordinal="0" />
+            <column name="deck" datatype="string" ordinal="1" />
+            <column name="deck_label" datatype="string" ordinal="2" />
+            <column name="deck_order" datatype="integer" ordinal="3" />
+            <column name="heading" datatype="string" ordinal="4" />
+            <column name="detail" datatype="string" ordinal="5" />
+            <column name="cost" datatype="string" ordinal="6" />
+            <column name="timing" datatype="string" ordinal="7" />
+            <column name="conditions" datatype="string" ordinal="8" />
+            <column name="url" datatype="string" ordinal="9" />
+          </columns>
+        </relation>
+      </connection>
+      <column name="[section]" datatype="string" role="dimension" type="nominal" />
+      <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+      <column name="[deck_label]" datatype="string" role="dimension" type="nominal" />
+      <column name="[deck_order]" datatype="integer" role="dimension" type="nominal" />
+      <column name="[heading]" datatype="string" role="dimension" type="nominal" />
+      <column name="[detail]" datatype="string" role="dimension" type="nominal" />
+      <column name="[cost]" datatype="string" role="dimension" type="nominal" />
+      <column name="[timing]" datatype="string" role="dimension" type="nominal" />
+      <column name="[conditions]" datatype="string" role="dimension" type="nominal" />
+      <column name="[url]" datatype="string" role="dimension" type="nominal" />
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name="Head-to-head marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Your deck vs. public reference | card count</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Player and public reference" name="pairs" />
+          </datasources>
+          <datasource-dependencies datasource="pairs">
+            <column name="[view]" datatype="string" role="dimension" type="nominal" />
+            <column name="[reference]" datatype="string" role="dimension" type="nominal" />
+            <column name="[reference_choice]" datatype="string" role="dimension" type="nominal" />
+            <column name="[cohort]" datatype="string" role="dimension" type="nominal" />
+            <column name="[side]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+            <column name="[category]" datatype="string" role="dimension" type="nominal" />
+            <column name="[position]" datatype="integer" role="measure" type="quantitative" />
+            <column name="[count]" datatype="integer" role="measure" type="quantitative" />
+            <column name="[cards]" datatype="string" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[reference]" derivation="None" name="[none:reference:nk]" pivot="key" type="nominal" />
+            <column-instance column="[reference_choice]" derivation="None" name="[none:reference_choice:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cohort]" derivation="None" name="[none:cohort:nk]" pivot="key" type="nominal" />
+            <column-instance column="[side]" derivation="None" name="[none:side:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[pairs].[none:reference_choice:nk]">
+            <groupfilter function="member" level="[none:reference_choice:nk]" member="&quot;02 | Bracket 4 | Fire Lord Azula&quot;" />
+          </filter>
+          <filter class="categorical" column="[pairs].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Deployment routes&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Bar" />
+            <encodings>
+              <color column="[pairs].[none:side:nk]" />
+              <text column="[pairs].[sum:count:qk]" />
+              <tooltip column="[pairs].[none:cards:nk]" />
+              <lod column="[pairs].[none:deck:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run>[pairs].[none:deck:nk] | [pairs].[none:category:nk]
+[pairs].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>([pairs].[none:category:nk] / [pairs].[none:side:nk])</rows>
+        <cols>[pairs].[sum:count:qk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Deployment routes marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Deployment routes</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Deployment routes&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Printed curve marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Printed curve</run>
+            <run>  |  Nonland library slots</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Printed curve&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Interaction targets marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Interaction targets</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Interaction targets&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Interaction methods marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Interaction methods</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Interaction methods&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Recovery routes marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Recovery routes</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Recovery routes&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Card types marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Card types</run>
+            <run>  |  Slots in the full deck</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Card types&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Creature types marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Creature types</run>
+            <run>  |  Printed subtypes leading at least one deck</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Creature types&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Mana and access marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Mana and access</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Mana and access&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Timing and setup marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Timing and setup</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Timing and setup&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Interaction readiness marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Interaction readiness</run>
+            <run>  |  Distinct cards with this capability</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Interaction readiness&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Commander identity marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Commander identity</run>
+            <run>  |  Color permitted by commander(s): 1 yes, 0 no</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Commander identity&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Printed card colors marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Printed card colors</run>
+            <run>  |  Share of nonland slots (including commander)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Printed card colors&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Bar" />
+            <encodings>
+              <color column="[strategy].[none:category:nk]" />
+              <tooltip column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[sum:slot_share:qk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Casting-cost emphasis marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Casting-cost emphasis</run>
+            <run>  |  Percent of colored casting symbols</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Casting-cost emphasis&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Creature composition marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Creature composition</run>
+            <run>  |  Exclusive creature-card slots by other types</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Creature composition&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Compare | Human-adjusted tribes marks">
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold="true">Human-adjusted tribes</run>
+            <run>  |  Creature slots; omit Human only when accompanied by another subtype</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Deck capabilities" name="strategy" />
+          </datasources>
+          <datasource-dependencies datasource="strategy">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[category]" role="dimension" type="nominal" />
+            <column datatype="integer" name="[position]" role="measure" type="quantitative" />
+            <column datatype="integer" name="[count]" role="measure" type="quantitative" />
+            <column datatype="real" name="[slot_share]" role="measure" type="quantitative" />
+            <column datatype="string" name="[symbol_equivalents]" role="dimension" type="nominal" />
+            <column datatype="string" name="[colored_symbol_total]" role="dimension" type="nominal" />
+            <column datatype="string" name="[cards]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group_order]" role="dimension" type="nominal" />
+            <column datatype="string" name="[field_label]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[category]" derivation="None" name="[none:category:nk]" pivot="key" type="nominal" />
+            <column-instance column="[position]" derivation="Sum" name="[sum:position:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[count]" derivation="Sum" name="[sum:count:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[slot_share]" derivation="Sum" name="[sum:slot_share:qk]" pivot="key" type="quantitative" />
+            <column-instance column="[symbol_equivalents]" derivation="None" name="[none:symbol_equivalents:nk]" pivot="key" type="nominal" />
+            <column-instance column="[colored_symbol_total]" derivation="None" name="[none:colored_symbol_total:nk]" pivot="key" type="nominal" />
+            <column-instance column="[cards]" derivation="None" name="[none:cards:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" derivation="None" name="[none:deck_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group_order]" derivation="None" name="[none:group_order:nk]" pivot="key" type="nominal" />
+            <column-instance column="[field_label]" derivation="None" name="[none:field_label:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[strategy].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Human-adjusted tribes&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[strategy].[sum:count:qk]" />
+              <text column="[strategy].[sum:count:qk]" />
+              <tooltip column="[strategy].[none:cards:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold="true">[strategy].[none:deck:nk] / [strategy].[none:category:nk]
+</run>
+                <run>[strategy].[sum:count:qk]  |  [strategy].[none:cards:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[strategy].[none:field_label:nk]</rows>
+        <cols>[strategy].[none:category:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Mana curve grid">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Gameplay comparison" name="gameplay" />
+          </datasources>
+          <datasource-dependencies datasource="gameplay">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+            <column datatype="string" name="[display]" role="dimension" type="nominal" />
+            <column datatype="string" name="[value]" role="dimension" type="nominal" />
+            <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[metric]" derivation="None" name="[none:metric:nk]" pivot="key" type="nominal" />
+            <column-instance column="[display]" derivation="None" name="[none:display:nk]" pivot="key" type="nominal" />
+            <column-instance column="[value]" derivation="None" name="[none:value:nk]" pivot="key" type="nominal" />
+            <column-instance column="[detail]" derivation="None" name="[none:detail:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[gameplay].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Mana curve&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style>
+          <style-rule element="cell">
+            <format attr="text-format" value="wrap" />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[gameplay].[none:display:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([gameplay].[none:group:nk] / [gameplay].[none:deck:nk])</rows>
+        <cols>[gameplay].[none:metric:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Card types grid">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Gameplay comparison" name="gameplay" />
+          </datasources>
+          <datasource-dependencies datasource="gameplay">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+            <column datatype="string" name="[display]" role="dimension" type="nominal" />
+            <column datatype="string" name="[value]" role="dimension" type="nominal" />
+            <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[metric]" derivation="None" name="[none:metric:nk]" pivot="key" type="nominal" />
+            <column-instance column="[display]" derivation="None" name="[none:display:nk]" pivot="key" type="nominal" />
+            <column-instance column="[value]" derivation="None" name="[none:value:nk]" pivot="key" type="nominal" />
+            <column-instance column="[detail]" derivation="None" name="[none:detail:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[gameplay].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Card types&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style>
+          <style-rule element="cell">
+            <format attr="text-format" value="wrap" />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[gameplay].[none:display:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([gameplay].[none:group:nk] / [gameplay].[none:deck:nk])</rows>
+        <cols>[gameplay].[none:metric:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Tribes grid">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Gameplay comparison" name="gameplay" />
+          </datasources>
+          <datasource-dependencies datasource="gameplay">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+            <column datatype="string" name="[display]" role="dimension" type="nominal" />
+            <column datatype="string" name="[value]" role="dimension" type="nominal" />
+            <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[metric]" derivation="None" name="[none:metric:nk]" pivot="key" type="nominal" />
+            <column-instance column="[display]" derivation="None" name="[none:display:nk]" pivot="key" type="nominal" />
+            <column-instance column="[value]" derivation="None" name="[none:value:nk]" pivot="key" type="nominal" />
+            <column-instance column="[detail]" derivation="None" name="[none:detail:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[gameplay].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Tribes&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style>
+          <style-rule element="cell">
+            <format attr="text-format" value="wrap" />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[gameplay].[none:display:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([gameplay].[none:group:nk] / [gameplay].[none:deck:nk])</rows>
+        <cols>[gameplay].[none:metric:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Commander roles grid">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Gameplay comparison" name="gameplay" />
+          </datasources>
+          <datasource-dependencies datasource="gameplay">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+            <column datatype="string" name="[display]" role="dimension" type="nominal" />
+            <column datatype="string" name="[value]" role="dimension" type="nominal" />
+            <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[metric]" derivation="None" name="[none:metric:nk]" pivot="key" type="nominal" />
+            <column-instance column="[display]" derivation="None" name="[none:display:nk]" pivot="key" type="nominal" />
+            <column-instance column="[value]" derivation="None" name="[none:value:nk]" pivot="key" type="nominal" />
+            <column-instance column="[detail]" derivation="None" name="[none:detail:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[gameplay].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Commander roles&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style>
+          <style-rule element="cell">
+            <format attr="text-format" value="wrap" />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[gameplay].[none:display:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([gameplay].[none:group:nk] / [gameplay].[none:deck:nk])</rows>
+        <cols>[gameplay].[none:metric:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Table fit grid">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Gameplay comparison" name="gameplay" />
+          </datasources>
+          <datasource-dependencies datasource="gameplay">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+            <column datatype="string" name="[display]" role="dimension" type="nominal" />
+            <column datatype="string" name="[value]" role="dimension" type="nominal" />
+            <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[metric]" derivation="None" name="[none:metric:nk]" pivot="key" type="nominal" />
+            <column-instance column="[display]" derivation="None" name="[none:display:nk]" pivot="key" type="nominal" />
+            <column-instance column="[value]" derivation="None" name="[none:value:nk]" pivot="key" type="nominal" />
+            <column-instance column="[detail]" derivation="None" name="[none:detail:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[gameplay].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Table fit&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style>
+          <style-rule element="cell">
+            <format attr="text-format" value="wrap" />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[gameplay].[none:display:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([gameplay].[none:group:nk] / [gameplay].[none:deck:nk])</rows>
+        <cols>[gameplay].[none:metric:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Seating note grid">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="Gameplay comparison" name="gameplay" />
+          </datasources>
+          <datasource-dependencies datasource="gameplay">
+            <column datatype="string" name="[view]" role="dimension" type="nominal" />
+            <column datatype="string" name="[deck]" role="dimension" type="nominal" />
+            <column datatype="string" name="[group]" role="dimension" type="nominal" />
+            <column datatype="string" name="[metric]" role="dimension" type="nominal" />
+            <column datatype="string" name="[display]" role="dimension" type="nominal" />
+            <column datatype="string" name="[value]" role="dimension" type="nominal" />
+            <column datatype="string" name="[detail]" role="dimension" type="nominal" />
+            <column-instance column="[view]" derivation="None" name="[none:view:nk]" pivot="key" type="nominal" />
+            <column-instance column="[deck]" derivation="None" name="[none:deck:nk]" pivot="key" type="nominal" />
+            <column-instance column="[group]" derivation="None" name="[none:group:nk]" pivot="key" type="nominal" />
+            <column-instance column="[metric]" derivation="None" name="[none:metric:nk]" pivot="key" type="nominal" />
+            <column-instance column="[display]" derivation="None" name="[none:display:nk]" pivot="key" type="nominal" />
+            <column-instance column="[value]" derivation="None" name="[none:value:nk]" pivot="key" type="nominal" />
+            <column-instance column="[detail]" derivation="None" name="[none:detail:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[gameplay].[none:view:nk]">
+            <groupfilter function="member" level="[none:view:nk]" member="&quot;Seating note&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <style>
+          <style-rule element="cell">
+            <format attr="text-format" value="wrap" />
+          </style-rule>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[gameplay].[none:display:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([gameplay].[none:group:nk] / [gameplay].[none:deck:nk])</rows>
+        <cols>[gameplay].[none:metric:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Evidence | Deck routes marks">
+      <table>
+        <view>
+          <datasources>
+            <datasource name="review" caption="Gameplay evidence" />
+          </datasources>
+          <datasource-dependencies datasource="review">
+            <column name="[section]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_label]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_order]" datatype="integer" role="dimension" type="nominal" />
+            <column name="[heading]" datatype="string" role="dimension" type="nominal" />
+            <column name="[detail]" datatype="string" role="dimension" type="nominal" />
+            <column name="[cost]" datatype="string" role="dimension" type="nominal" />
+            <column name="[timing]" datatype="string" role="dimension" type="nominal" />
+            <column name="[conditions]" datatype="string" role="dimension" type="nominal" />
+            <column name="[url]" datatype="string" role="dimension" type="nominal" />
+            <column-instance column="[section]" name="[none:section:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck]" name="[none:deck:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_label]" name="[none:deck_label:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" name="[none:deck_order:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[heading]" name="[none:heading:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[detail]" name="[none:detail:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[cost]" name="[none:cost:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[timing]" name="[none:timing:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[conditions]" name="[none:conditions:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[url]" name="[none:url:nk]" derivation="None" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[review].[none:section:nk]">
+            <groupfilter function="member" level="[none:section:nk]" member="&quot;Deck routes&quot;" />
+          </filter>
+          <filter class="categorical" column="[review].[none:deck_label:nk]">
+            <groupfilter function="member" level="[none:deck_label:nk]" member="&quot;01 | Who Killed Kenny - Creator's Base Deck&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[review].[none:detail:nk]" />
+              <tooltip column="[review].[none:cost:nk]" />
+              <tooltip column="[review].[none:conditions:nk]" />
+              <tooltip column="[review].[none:timing:nk]" />
+              <tooltip column="[review].[none:url:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run>[review].[none:heading:nk]
+[review].[none:cost:nk]
+[review].[none:timing:nk]
+[review].[none:conditions:nk]
+[review].[none:detail:nk]
+[review].[none:url:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>([review].[none:deck_label:nk] / [review].[none:heading:nk])</rows>
+        <cols />
+      </table>
+    </worksheet>
+    <worksheet name="Evidence | Card evidence marks">
+      <table>
+        <view>
+          <datasources>
+            <datasource name="review" caption="Gameplay evidence" />
+          </datasources>
+          <datasource-dependencies datasource="review">
+            <column name="[section]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_label]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_order]" datatype="integer" role="dimension" type="nominal" />
+            <column name="[heading]" datatype="string" role="dimension" type="nominal" />
+            <column name="[detail]" datatype="string" role="dimension" type="nominal" />
+            <column name="[cost]" datatype="string" role="dimension" type="nominal" />
+            <column name="[timing]" datatype="string" role="dimension" type="nominal" />
+            <column name="[conditions]" datatype="string" role="dimension" type="nominal" />
+            <column name="[url]" datatype="string" role="dimension" type="nominal" />
+            <column-instance column="[section]" name="[none:section:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck]" name="[none:deck:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_label]" name="[none:deck_label:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" name="[none:deck_order:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[heading]" name="[none:heading:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[detail]" name="[none:detail:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[cost]" name="[none:cost:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[timing]" name="[none:timing:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[conditions]" name="[none:conditions:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[url]" name="[none:url:nk]" derivation="None" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[review].[none:section:nk]">
+            <groupfilter function="member" level="[none:section:nk]" member="&quot;Card evidence&quot;" />
+          </filter>
+          <filter class="categorical" column="[review].[none:deck_label:nk]">
+            <groupfilter function="member" level="[none:deck_label:nk]" member="&quot;01 | Who Killed Kenny - Creator's Base Deck&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[review].[none:detail:nk]" />
+              <tooltip column="[review].[none:cost:nk]" />
+              <tooltip column="[review].[none:conditions:nk]" />
+              <tooltip column="[review].[none:timing:nk]" />
+              <tooltip column="[review].[none:url:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run>[review].[none:heading:nk]
+[review].[none:cost:nk]
+[review].[none:timing:nk]
+[review].[none:conditions:nk]
+[review].[none:detail:nk]
+[review].[none:url:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>([review].[none:heading:nk] / [review].[none:cost:nk] / [review].[none:timing:nk])</rows>
+        <cols />
+      </table>
+    </worksheet>
+    <worksheet name="Evidence | Bracket means marks">
+      <table>
+        <view>
+          <datasources>
+            <datasource name="review" caption="Gameplay evidence" />
+          </datasources>
+          <datasource-dependencies datasource="review">
+            <column name="[section]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_label]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_order]" datatype="integer" role="dimension" type="nominal" />
+            <column name="[heading]" datatype="string" role="dimension" type="nominal" />
+            <column name="[detail]" datatype="string" role="dimension" type="nominal" />
+            <column name="[cost]" datatype="string" role="dimension" type="nominal" />
+            <column name="[timing]" datatype="string" role="dimension" type="nominal" />
+            <column name="[conditions]" datatype="string" role="dimension" type="nominal" />
+            <column name="[url]" datatype="string" role="dimension" type="nominal" />
+            <column-instance column="[section]" name="[none:section:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck]" name="[none:deck:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_label]" name="[none:deck_label:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" name="[none:deck_order:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[heading]" name="[none:heading:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[detail]" name="[none:detail:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[cost]" name="[none:cost:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[timing]" name="[none:timing:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[conditions]" name="[none:conditions:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[url]" name="[none:url:nk]" derivation="None" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[review].[none:section:nk]">
+            <groupfilter function="member" level="[none:section:nk]" member="&quot;Bracket means&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[review].[none:detail:nk]" />
+              <tooltip column="[review].[none:cost:nk]" />
+              <tooltip column="[review].[none:conditions:nk]" />
+              <tooltip column="[review].[none:timing:nk]" />
+              <tooltip column="[review].[none:url:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run>[review].[none:heading:nk]
+[review].[none:cost:nk]
+[review].[none:timing:nk]
+[review].[none:conditions:nk]
+[review].[none:detail:nk]
+[review].[none:url:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[review].[none:heading:nk]</rows>
+        <cols>[review].[none:deck_label:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Evidence | Definitions marks">
+      <table>
+        <view>
+          <datasources>
+            <datasource name="review" caption="Gameplay evidence" />
+          </datasources>
+          <datasource-dependencies datasource="review">
+            <column name="[section]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_label]" datatype="string" role="dimension" type="nominal" />
+            <column name="[deck_order]" datatype="integer" role="dimension" type="nominal" />
+            <column name="[heading]" datatype="string" role="dimension" type="nominal" />
+            <column name="[detail]" datatype="string" role="dimension" type="nominal" />
+            <column name="[cost]" datatype="string" role="dimension" type="nominal" />
+            <column name="[timing]" datatype="string" role="dimension" type="nominal" />
+            <column name="[conditions]" datatype="string" role="dimension" type="nominal" />
+            <column name="[url]" datatype="string" role="dimension" type="nominal" />
+            <column-instance column="[section]" name="[none:section:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck]" name="[none:deck:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_label]" name="[none:deck_label:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[deck_order]" name="[none:deck_order:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[heading]" name="[none:heading:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[detail]" name="[none:detail:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[cost]" name="[none:cost:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[timing]" name="[none:timing:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[conditions]" name="[none:conditions:nk]" derivation="None" pivot="key" type="nominal" />
+            <column-instance column="[url]" name="[none:url:nk]" derivation="None" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[review].[none:section:nk]">
+            <groupfilter function="member" level="[none:section:nk]" member="&quot;Definitions&quot;" />
+          </filter>
+          <aggregation value="true" />
+        </view>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Text" />
+            <encodings>
+              <text column="[review].[none:detail:nk]" />
+              <tooltip column="[review].[none:cost:nk]" />
+              <tooltip column="[review].[none:conditions:nk]" />
+              <tooltip column="[review].[none:timing:nk]" />
+              <tooltip column="[review].[none:url:nk]" />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run>[review].[none:heading:nk]
+[review].[none:cost:nk]
+[review].[none:timing:nk]
+[review].[none:conditions:nk]
+[review].[none:detail:nk]
+[review].[none:url:nk]</run>
+              </formatted-text>
+            </customized-tooltip>
+          </pane>
+        </panes>
+        <rows>[review].[none:heading:nk]</rows>
+        <cols />
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name="Across the decks - all charts">
+      <style />
+      <size minwidth="1400" maxwidth="1400" minheight="8700" maxheight="8700" sizing-mode="fixed" />
+      <zones>
+        <zone id="1" x="0" y="0" w="100000" h="6667" name="Compare | Printed curve marks" />
+        <zone id="2" x="0" y="6667" w="100000" h="6666" name="Compare | Deployment routes marks" />
+        <zone id="3" x="0" y="13333" w="100000" h="6667" name="Compare | Interaction targets marks" />
+        <zone id="4" x="0" y="20000" w="100000" h="6667" name="Compare | Interaction methods marks" />
+        <zone id="5" x="0" y="26667" w="100000" h="6666" name="Compare | Recovery routes marks" />
+        <zone id="6" x="0" y="33333" w="100000" h="6667" name="Compare | Commander identity marks" />
+        <zone id="7" x="0" y="40000" w="100000" h="6667" name="Compare | Printed card colors marks" />
+        <zone id="8" x="0" y="46667" w="100000" h="6666" name="Compare | Casting-cost emphasis marks" />
+        <zone id="9" x="0" y="53333" w="100000" h="6667" name="Compare | Card types marks" />
+        <zone id="10" x="0" y="60000" w="100000" h="6667" name="Compare | Creature types marks" />
+        <zone id="11" x="0" y="66667" w="100000" h="6666" name="Compare | Creature composition marks" />
+        <zone id="12" x="0" y="73333" w="100000" h="6667" name="Compare | Human-adjusted tribes marks" />
+        <zone id="13" x="0" y="80000" w="100000" h="6667" name="Compare | Mana and access marks" />
+        <zone id="14" x="0" y="86667" w="100000" h="6666" name="Compare | Timing and setup marks" />
+        <zone id="15" x="0" y="93333" w="100000" h="6667" name="Compare | Interaction readiness marks" />
+      </zones>
+    </dashboard>
+    <dashboard name="Head-to-head">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Head-to-head marks" x="0" y="13000" w="100000" h="87000" />
+        <zone id="2" name="Head-to-head marks" type-v2="filter" param="[pairs].[none:reference_choice:nk]" mode="checkdropdown" x="0" y="0" w="50000" h="12500" />
+        <zone id="3" name="Head-to-head marks" type-v2="filter" param="[pairs].[none:view:nk]" mode="checkdropdown" x="50000" y="0" w="50000" h="12500" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Deployment routes">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Deployment routes marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Printed curve">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Printed curve marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Interaction targets">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Interaction targets marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Interaction methods">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Interaction methods marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Recovery routes">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Recovery routes marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Card types">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Card types marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Creature types">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Creature types marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Mana and access">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Mana and access marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Timing and setup">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Timing and setup marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Interaction readiness">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Interaction readiness marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Commander identity">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Commander identity marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Printed card colors">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Printed card colors marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Casting-cost emphasis">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Casting-cost emphasis marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Creature composition">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Creature composition marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Compare | Human-adjusted tribes">
+      <style />
+      <size minwidth="1150" maxwidth="1650" minheight="720" maxheight="920" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Compare | Human-adjusted tribes marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Mana curve">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="700" minwidth="1000" sizing-mode="range" />
+      <zones>
+        <zone h="100000" id="1" name="Mana curve grid" w="100000" x="0" y="0" />
+      </zones>
+    </dashboard>
+    <dashboard name="Card types">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="700" minwidth="1000" sizing-mode="range" />
+      <zones>
+        <zone h="100000" id="1" name="Card types grid" w="100000" x="0" y="0" />
+      </zones>
+    </dashboard>
+    <dashboard name="Tribes">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="700" minwidth="1000" sizing-mode="range" />
+      <zones>
+        <zone h="100000" id="1" name="Tribes grid" w="100000" x="0" y="0" />
+      </zones>
+    </dashboard>
+    <dashboard name="Commander roles">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="700" minwidth="1000" sizing-mode="range" />
+      <zones>
+        <zone h="100000" id="1" name="Commander roles grid" w="100000" x="0" y="0" />
+      </zones>
+    </dashboard>
+    <dashboard name="Table fit">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="700" minwidth="1000" sizing-mode="range" />
+      <zones>
+        <zone h="100000" id="1" name="Table fit grid" w="100000" x="0" y="0" />
+      </zones>
+    </dashboard>
+    <dashboard name="Seating note">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="700" minwidth="1000" sizing-mode="range" />
+      <zones>
+        <zone h="100000" id="1" name="Seating note grid" w="100000" x="0" y="0" />
+      </zones>
+    </dashboard>
+    <dashboard name="Evidence | Deck routes">
+      <style />
+      <size minwidth="1000" maxwidth="1600" minheight="700" maxheight="980" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Evidence | Deck routes marks" x="0" y="13000" w="100000" h="87000" />
+        <zone id="2" name="Evidence | Deck routes marks" type-v2="filter" param="[review].[none:deck_label:nk]" mode="checkdropdown" x="0" y="0" w="60000" h="12000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Evidence | Card evidence">
+      <style />
+      <size minwidth="1000" maxwidth="1600" minheight="700" maxheight="980" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Evidence | Card evidence marks" x="0" y="13000" w="100000" h="87000" />
+        <zone id="2" name="Evidence | Card evidence marks" type-v2="filter" param="[review].[none:deck_label:nk]" mode="checkdropdown" x="0" y="0" w="60000" h="12000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Evidence | Bracket means">
+      <style />
+      <size minwidth="1000" maxwidth="1600" minheight="700" maxheight="980" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Evidence | Bracket means marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+    <dashboard name="Evidence | Definitions">
+      <style />
+      <size minwidth="1000" maxwidth="1600" minheight="700" maxheight="980" sizing-mode="range" />
+      <zones>
+        <zone id="1" name="Evidence | Definitions marks" x="0" y="0" w="100000" h="100000" />
+      </zones>
+    </dashboard>
+  </dashboards>
+</workbook>

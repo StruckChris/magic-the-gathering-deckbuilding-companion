@@ -1,0 +1,48 @@
+.mast-title,.surface-tabs{display:flex;align-items:center}
+.mast-title{gap:24px;flex-wrap:wrap}
+.mast [hidden]{display:none}
+.surface-tabs{gap:4px}
+.surface-tabs button{font-size:14px;font-weight:600;background:none;color:var(--mute);border:0;border-bottom:3px solid transparent;padding:10px 9px}
+.surface-tabs button[aria-selected=true]{border-bottom-color:var(--blue);color:var(--blue)}
+.pack-heading{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:28px 0 24px}
+.pack-heading p:not(.kicker){max-width:76ch}
+.pack-access{max-width:245px}.pack-link{font-weight:600;font-size:14px}
+.pack-lesson,.pack-overview{border-top:1px solid var(--line);padding:20px 0}
+.pack-overview figcaption{margin:5px 0 8px}
+.role-key{display:flex;gap:5px 20px;flex-wrap:wrap;color:var(--mute);font-size:13px}
+.role-key span{display:flex;align-items:center;gap:6px}
+.role-dot{display:inline-block;width:12px;height:12px;color:#486278;border-radius:50%;vertical-align:middle}
+.role-dot.core{background:currentColor}
+.role-dot.build{border:2px solid currentColor}
+.role-dot.none{height:2px;width:9px;background:#97a8b4;border-radius:0}
+.role-map{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px;margin-top:12px}
+.role-map table{border-collapse:collapse;width:100%;table-layout:fixed;font-size:14px}
+.role-map th,.role-map td{vertical-align:middle;padding:3px 4px}
+.role-map th:first-child{width:49%;text-align:left}
+.role-map thead th,.role-map td{text-align:center}
+.role-map thead th{font-size:13px}
+.role-map tbody th{background:white;font-weight:400}
+.role-map tr:has(button[aria-pressed=true])>*{background:#edf4f6}
+.role-map button{font:inherit;text-align:left;background:none;border:0;padding:3px 4px;color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+.role-map .aggro{color:#a24c3c}.role-map .combo{color:#5267a0}.role-map .control{color:#2b765f}
+.role-reader{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.pack-lesson-head{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.pack-lesson-head label{display:grid;gap:3px}
+.pack-lesson-head select{min-height:38px;min-width:200px}
+.pack-view h2{margin-top:3px}
+.pack-plan h3{font-size:20px;color:var(--blue);margin:12px 0 2px}
+.pack-recognize{margin-bottom:15px}
+.play-sequence{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;padding:0;list-style:none;margin:0 0 18px}
+.play-sequence li{padding:9px 4px 0 0;border-top:3px solid #497e99}
+.play-sequence li:nth-child(2){border-color:#3b7b68}
+.play-sequence li:last-child{border-color:#91546d}
+.play-sequence h4{font-size:15px;margin:0 0 4px}
+.play-sequence h4 span{font-size:12px;font-weight:400;color:var(--mute);margin-right:7px}
+.play-question{border-left:3px solid #3b7b68;background:#f2f7f5;padding:8px 12px}
+.play-question strong{display:block;color:#345b50;font-size:12px;margin-bottom:2px}
+.pack-role-note{color:var(--mute);margin:4px 0 14px;max-width:95ch}
+.pack-combat{border-top:1px solid var(--line);padding:10px 0 12px;max-width:95ch}
+.pack-combat p{margin:4px 0}
+@media(max-width:820px){.mast-title{gap:5px 14px}.pack-heading{align-items:start;flex-direction:column;gap:10px}.play-sequence{grid-template-columns:1fr;gap:8px}.play-sequence li{border-top:0;border-left:3px solid #497e99;padding:2px 0 3px 12px}}
+@media(max-width:820px){.role-map{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){.pack-lesson-head{align-items:stretch;flex-direction:column}.role-map th:first-child{width:46%}.role-map th,.role-map td{padding-inline:2px}.role-map thead th{font-size:12px}}

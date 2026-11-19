@@ -1,0 +1,51 @@
+<main class="pack-view">
+  <div class="opening pack-heading">
+    <div><p class="kicker">Magic: The Gathering / Companion pack</p>
+      <h1>The Archmage's Companion</h1>
+      <p>A <strong>knowledge pack</strong> for learning how to pilot a deck. A <strong>context pack</strong> for an agent to talk through a turn with you.</p>
+      <p style="margin-top:8px">You can use the pack to learn Magic yourself, or share the full pack with an agent. As a <strong>context starter</strong>, it helps jumpstart the agent's understanding by showing how concepts from its training fit together in play. The agent can then apply those concepts to your cards to help you build a deck, learn to play it, or decide what to do on your turn.</p>
+    </div>
+    <div class="pack-access"><a id="packFolder" class="pack-link" href="../../archmages-companion/">Browse the context pack</a><p class="sub">Plain-text Markdown files only. No download required.</p></div>
+  </div>
+  <figure class="pack-overview" aria-labelledby="roleMapTitle">
+    <p class="kicker">Archetype overview</p><h2 id="roleMapTitle">Aggro, combo, and control</h2>
+    <p><b>Aggro</b> puts opponents on a clock. <b>Combo</b> assembles pieces for a decisive result. <b>Control</b> limits what opponents can do while preparing a finish.</p>
+    <figcaption>Read across a row to see where plans overlap. These are teaching distinctions, not power ratings or metagame frequencies.</figcaption>
+    <div class="role-key"><span><i class="role-dot core"></i>Defining role</span><span><i class="role-dot build"></i>Depends on the build</span><span><i class="role-dot none"></i>Not emphasized here</span></div>
+    <div class="role-map">@@ROLEMAP@@</div>
+  </figure>
+  <section class="pack-lesson" aria-labelledby="playTitle">
+    <div class="pack-lesson-head"><div><p class="kicker">Learning aid</p>
+      <h2 id="playTitle">How to play an archetype</h2></div>
+      <label for="playArchetype">Choose an archetype<select id="playArchetype" aria-controls="playLines">@@PLAYOPTIONS@@</select></label>
+    </div>
+    <div id="playLines" aria-live="polite">@@PLAYLINES@@</div>
+  </section>
+</main>
+<script>
+(() => {
+  const folder = document.getElementById('packFolder');
+  const owner = location.hostname.match(/^([a-z0-9-]+)\.github\.io$/i);
+  if (owner) {
+    const path = new URL(folder.href).pathname.split('/').filter(Boolean);
+    const repo = path.length > 1 ? path.shift() : location.hostname;
+    folder.href = 'https://github.com/' + owner[1] + '/' + repo + '/tree/HEAD/' + path.join('/');
+    folder.textContent = 'Browse the context pack on GitHub';
+  }
+  const menu = document.getElementById('playArchetype');
+  const lines = document.querySelectorAll('#playLines [data-primer]');
+  const rows = document.querySelectorAll('.role-map [data-choose]');
+  function chooseLine() {
+    for (const line of lines) line.hidden = line.dataset.primer !== menu.value;
+    for (const row of rows) row.setAttribute('aria-pressed', String(row.dataset.choose === menu.value));
+  }
+  for (const row of rows) row.addEventListener('click', () => {
+    menu.value = row.dataset.choose;
+    chooseLine();
+    menu.focus({preventScroll:true});
+    document.getElementById('playTitle').scrollIntoView({block:'start'});
+  });
+  menu.addEventListener('change', chooseLine);
+  chooseLine();
+})();
+</script>
