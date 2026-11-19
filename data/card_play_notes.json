@@ -1,0 +1,23 @@
+{
+  "Everflowing Chalice": "Blink removes charge counters; it returns with zero unless another effect supplies them. Copies likewise do not copy its counters.",
+  "Replicating Ring": "Blink removes night counters and delays its eight-counter payoff.",
+  "Kaalia of the Vast": "Put from hand, not cast. Requires declaring Kaalia as an attacker against an opponent and an eligible creature in hand.",
+  "Silence": "Stops future casts for the turn. Does not counter spells already on the stack or stop activated/triggered abilities.",
+  "Orim's Chant": "Stops the targeted player from casting; kicked mode also stops attacks. Not a counter to a spell already cast.",
+  "Venser, the Sojourner": "Removal coverage requires the -8 emblem and later spell casts. +2 blink is own-permanent reuse, not an immediate opposing-permanent answer.",
+  "Teferi, Hero of Dominaria": "Ordinary -3 reaches nonlands; land-exile coverage requires the -8 emblem and subsequent draws.",
+  "Shadowspear": "Can remove hexproof and indestructible from opposing permanents. Does not remove shroud and is not removal by itself.",
+  "Aether Vial": "Uses the number of charge counters as an exact mana-value match for a creature in hand. This puts the creature onto the battlefield without casting it.",
+  "Windbrisk Heights": "The hidden card is accessible only if you attacked with three or more creatures this turn and can pay the activation cost.",
+  "Snapcaster Mage": "Grants flashback to an instant or sorcery in your graveyard until end of turn. You still pay the flashback cost and follow the spell's timing restrictions.",
+  "Sun Titan": "An entry or attack can return a permanent card with mana value three or less. It does not recover instants or sorceries.",
+  "Force of Will": "The alternate payment requires a life and another blue card from hand. It avoids the mana cost, not the exchange of cards.",
+  "Kenrith, the Returned King": "Kenrith must be on the battlefield to activate his abilities. Reanimation costs 4B, needs a creature card in a graveyard, and returns it under its owner's control.",
+  "Sneak Attack": "Pay R and have a creature card in hand. It enters without being cast, gains haste and is sacrificed at the next end step.",
+  "Living Death": "Everyone exiles creature cards from their graveyards first, then sacrifices their creatures, then returns the exiled cards. Newly sacrificed creatures do not come back from this spell.",
+  "Tocasia's Welcome": "A creature of mana value three or less entering under your control can draw a card only once each turn. Multiple entries in the same turn cannot repeatedly draw.",
+  "Reanimate": "Returns a creature from a graveyard under your control; you lose life equal to its mana value.",
+  "Sevinne's Reclamation": "Requires a permanent card of mana value three or less in your own graveyard. Its copy option requires casting Reclamation from a graveyard.",
+  "The One Ring": "Its tap ability adds a burden counter before drawing for each counter. Repeated draw increases the life loss at upkeep.",
+  "Skullclamp": "An equipped creature must die for the two cards. Exiling it is not dying; equip also needs mana and normally sorcery timing."
+}

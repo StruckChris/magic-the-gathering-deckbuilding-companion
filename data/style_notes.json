@@ -1,0 +1,256 @@
+[
+  {
+    "name": "Atraxa",
+    "signature": "b9f393f4c5e4df82e45fba59ac0f0e0dda8ef213c56eac932008f89e0aace592",
+    "without": "Deepglow Skate and Evolution Sage add counters to existing permanents, so the planeswalkers can build loyalty without Atraxa.",
+    "adds": "At your end step Atraxa proliferates across the board. She advances several walkers at once, but needs counters already in place.",
+    "anchors": [
+      "Eternal Witness",
+      "Primevals' Glorious Rebirth"
+    ],
+    "resource": "Witness retrieves one card to hand; Rebirth returns legendary permanents directly to the field, provided a legendary creature or planeswalker lets you cast it.",
+    "failure": "Removing walkers before the end step leaves Atraxa fewer loyalty counters to proliferate. Proliferate cannot put the first counter on a permanent.",
+    "deployment_line": "Build loyalty before Atraxa arrives. A Deepglow Skate entry can double counters that already exist without waiting for Atraxa's end step."
+  },
+  {
+    "name": "Azula",
+    "signature": "2ecd862db9d7c7c70b84cb8102537694e47318e026e1cb26561ea6512071d628",
+    "without": "Archmage Emeritus refills the hand from spells and Storm-Kiln Artist makes Treasure from instants and sorceries. Neither needs combat.",
+    "adds": "While attacking, Azula copies spells cast in that window; firebending helps pay for them. Holding an instant for combat can now be worth more than casting it immediately.",
+    "anchors": [
+      "Kess, Dissident Mage",
+      "Cormela, Glamour Thief"
+    ],
+    "resource": "Kess can cast a graveyard spell on your turn; Cormela can return an instant or sorcery to hand when she dies. These are two different reuse windows.",
+    "failure": "Remove Azula before she attacks to deny the copying window. Removing her after a copy trigger is on the stack does not undo it.",
+    "deployment_line": "A generic discount from Goblin Electromancer reduces the cost of an instant or sorcery. Fire Lord Azula instead copies a spell during her attack: a copy is not a discount on the spell you had to cast."
+  },
+  {
+    "name": "Edgar Markov",
+    "signature": "39df3a8eee70b4d84ae7f76c53332f69356df84a5a326f3966333d50f7abcaab",
+    "without": "Even setting eminence aside, Blood Artist and Cruel Celebrant convert dying creatures into life swings. The sacrifice plan does not need Edgar on the battlefield.",
+    "adds": "Edgar already makes a token when you cast another Vampire from the command zone. Casting him adds an immediate hasty attack that can put a counter on every Vampire you control.",
+    "anchors": [
+      "Skullclamp",
+      "Blood Artist"
+    ],
+    "resource": "Skullclamp turns expendable 1/1s into two cards when they die. Blood Artist turns the same death into a life swing.",
+    "failure": "Exile can bypass death payoffs. Removing Edgar from the battlefield alone does not turn off eminence once he is back in the command zone.",
+    "deployment_line": "A cheap Vampire spell can produce its eminence token before Edgar is cast. That is deployment from the command zone without paying six mana for the commander; the original Vampire spell can still be countered."
+  },
+  {
+    "name": "Kaalia",
+    "signature": "f0f2c659ac80320e2c09e9cc5ef27d88900b2ffb7660103d233a64d51f55d68d",
+    "without": "Faithless Looting can put a large threat in the graveyard for Reanimate; it need not wait for Kaalia or enough mana to hard-cast it.",
+    "adds": "An attack on an opponent can put an Angel, Demon or Dragon such as Avacyn straight from hand into combat. She need not connect, but she does need an eligible card in hand.",
+    "anchors": [
+      "Sneak Attack",
+      "Reanimate",
+      "Animate Dead"
+    ],
+    "resource": "Sneak Attack uses a creature in hand even when Kaalia cannot attack. Reanimate and Animate Dead instead need a creature card already in a graveyard.",
+    "failure": "Precombat removal closes the attack route; graveyard hate closes the reanimation route. Neither by itself answers the other.",
+    "deployment_line": "Attacking with Kaalia puts a qualifying creature from hand onto the field tapped and attacking, not onto the stack as a spell. Sneak Attack spends red mana instead and carries a delayed sacrifice; Reanimate uses the graveyard and costs life."
+  },
+  {
+    "name": "Kalamax",
+    "signature": "cd56c7fbc7d3e24e45a37a306fdaf855dc0d60b0c8c6890db07c2094bdd165a0",
+    "without": "Counterspell and Beast Within answer threats while Guttersnipe converts instants and sorceries into damage around the table.",
+    "adds": "A tapped Kalamax copies the first instant you cast each turn, including opponents' turns. Copying instants also grows him into a combat threat.",
+    "anchors": [
+      "Mystic Sanctuary",
+      "Snapcaster Mage"
+    ],
+    "resource": "Sanctuary can put a used instant or sorcery on top if it enters untapped. Snapcaster can grant flashback now, but the spell still needs mana.",
+    "failure": "The copy requires a tapped Kalamax and the first instant that turn. Forcing an early, low-impact instant can consume that opportunity.",
+    "deployment_line": "A tapped Kalamax copies the first instant each turn. Mizzix's Mastery takes a different route: it exiles an instant or sorcery from the graveyard and allows its copy to be cast without its mana cost."
+  },
+  {
+    "name": "Krenko",
+    "signature": "d84b45197e907b79d3bd26d7c05b63f3687428420bcdbad9a05e9dab2c60b840",
+    "without": "Beetleback Chief supplies several bodies and Goblin Chieftain turns a small board into immediate pressure; Skirk Prospector can trade bodies for mana.",
+    "adds": "Krenko's tap ability makes a Goblin for each Goblin you control. Chieftain's haste lets him use it immediately, but an empty board limits the first activation.",
+    "anchors": [
+      "Goblin Warchief",
+      "Goblin Ringleader"
+    ],
+    "resource": "Warchief supplies haste and reduces Goblin spell costs. After a wipe, Ringleader can refill from Goblins in the top four; it does not return the lost board.",
+    "failure": "Krenko counts Goblins as his activation resolves. Removing bodies in response cuts the yield; removing only Krenko does not counter the activation.",
+    "deployment_line": "Goblin Warchief can reduce the generic cost of a Goblin spell and give the resulting creature haste. Krenko's activation creates bodies without casting them and benefits from having Goblins in place first."
+  },
+  {
+    "name": "Namor",
+    "signature": "2a09f9faa4e76b2106620bd75f2e317403fb68622b39fff34cd53af4189b4ef1",
+    "without": "Lord of Atlantis and Master of the Pearl Trident turn ordinary Merfolk into a threatening team; Harbinger of the Seas can make islandwalk relevant.",
+    "adds": "Blue symbols in your noncreature spells now produce Merfolk, and every Merfolk adds to Namor's power. A spell-heavy hand can still build a board.",
+    "anchors": [
+      "Kindred Discovery",
+      "Seafloor Oracle"
+    ],
+    "resource": "Discovery can draw on an entry or attack from the chosen type; Oracle needs Merfolk to deal combat damage to a player. Only one needs to connect.",
+    "failure": "A stalled attack hurts the combat-draw plan. Namor can still make Merfolk through the blue symbols in noncreature spells.",
+    "deployment_line": "Stonybrook Banneret discounts Merfolk and Wizard spells, while Sapphire Medallion discounts blue spells. Neither removes the blue mana symbols in a noncreature spell's cost that Namor checks."
+  },
+  {
+    "name": "Sauron",
+    "signature": "abf27d300ac2dd426e2523b664b28f3eaed7727f23c695823b053b95c621e211",
+    "without": "Dunland Crebain builds an Army, and Mauhur, Uruk-hai Captain can increase its counters. Massacre Wurm can punish smaller opposing boards without an attack.",
+    "adds": "Opponents' spells repeatedly grow your Army. If it hits a player, the Ring tempts you and Sauron can exchange your hand for four cards.",
+    "anchors": [
+      "Zombify",
+      "Extract from Darkness"
+    ],
+    "resource": "Zombify needs a creature card in your graveyard. Extract mills first and can use a creature card from any graveyard, even if your own has no good target.",
+    "failure": "Prevent Army combat damage to interrupt hand replacement. That does not prevent opposing spells from growing the Army.",
+    "deployment_line": "Nightscape Familiar discounts blue and red spells. Zombify instead deploys a creature from your graveyard; the printed mana value of the creature does not determine the cost of Zombify."
+  },
+  {
+    "name": "Suki",
+    "signature": "25256d37bd218ed9d1c5ebfe33b9f7199b9d87df73e851f7efb21dd223bcca1f",
+    "without": "Felidar Retreat and Court of Grace build tokens independently; Anointed Procession rewards either source.",
+    "adds": "Suki converts your creature count into her own power and adds an attacking Ally whenever she attacks. Going wide can also threaten one player with commander damage.",
+    "anchors": [
+      "Court of Grace",
+      "Divine Visitation",
+      "Fungal Rebirth"
+    ],
+    "resource": "Court creates bodies without another creature in play. Visitation upgrades token creation but produces none on its own. Fungal Rebirth can retrieve a permanent card to hand.",
+    "failure": "Clearing the creatures shrinks Suki. Removing the surviving token source matters more than destroying its latest token.",
+    "deployment_line": "Token production is the alternative to casting every attacker individually. Court of Grace can keep making bodies and Felidar Retreat can turn later land drops into bodies even after Suki is removed."
+  },
+  {
+    "name": "Teval",
+    "signature": "4c73b88e40a7bbb476fffad9d0659dce7fcd940e17a3e67a77b712b1915fb352",
+    "without": "Hedron Crab stocks the graveyard. Life from the Loam retrieves lands for more landfall triggers, including Evolution Sage's proliferate.",
+    "adds": "Attacking mills three and can put a land from the graveyard onto the field. When one or more cards leave your graveyard, Teval also supplies a Zombie Druid.",
+    "anchors": [
+      "Living Death",
+      "Ramunap Excavator",
+      "Life from the Loam"
+    ],
+    "resource": "Excavator plays lands from the graveyard; Loam moves them to hand. Living Death exchanges battlefield creatures for graveyard creatures, including opponents' creatures.",
+    "failure": "Exiling the graveyard before reanimation denies the stored threats. Ordinary destruction can instead stock the next recovery play.",
+    "deployment_line": "Unexpected Results tries to play the top card. Teval's attack returns a land card from the graveyard, not an arbitrary threat; Living Death is the much broader but symmetrical creature-deployment route."
+  },
+  {
+    "name": "The Ur-Dragon",
+    "signature": "4b910eb4d466920bacc1cc752c4fc91b76ddc18cd5107b4ca72f8038a6b4ccd8",
+    "without": "Gemhide Sliver lets changelings make mana, and Cloudshredder Sliver gives them haste and flying. Those shared-type payoffs work without resolving the commander.",
+    "adds": "Eminence already discounts other Dragon spells, including changelings. Once on the field, attacking Dragons draw cards and can put a permanent from hand onto the battlefield.",
+    "anchors": [
+      "Graveshifter",
+      "Haven of the Spirit Dragon",
+      "Mirror Entity"
+    ],
+    "resource": "Graveshifter can return a creature card to hand. Haven can sacrifice itself to recover a Dragon; neither pays to cast the recovered threat.",
+    "failure": "A resolved wipe removes the team that enables an attack payoff. The commander discount persists in the command zone but does not replace those cards.",
+    "deployment_line": "The Ur-Dragon's eminence reduces other Dragon spells by one generic mana. Its attack trigger is different: it can put a permanent from hand onto the field, but only after a Dragon attack."
+  },
+  {
+    "name": "Vivi",
+    "signature": "8549b26fe22a41d6710b02ff4f59b754f1985f29dd724432107400776c0f7eab",
+    "without": "Goblin Electromancer discounts instants and sorceries, and Guttersnipe damages each opponent as you cast them. The spellslinger plan can run without Vivi.",
+    "adds": "Noncreature casts grow Vivi and ping the table. Once on your turn, Vivi converts that power into blue and/or red mana for another sequence of spells.",
+    "anchors": [
+      "Goblin Electromancer",
+      "Exalted Flamer of Tzeentch"
+    ],
+    "resource": "Electromancer reduces generic costs on instants and sorceries. The Flamer can return a random instant or sorcery at upkeep, not necessarily the spell you need.",
+    "failure": "Interrupt before Vivi's mana activation or remove the payoffs for repeated casting. Cheap spells alone are not a sustained draw engine.",
+    "deployment_line": "Goblin Electromancer can make the first spell easier to cast. Vivi produces mana based on power after the deck has already started casting noncreature spells; that mana burst is not a permanent discount."
+  },
+  {
+    "name": "Witherbloom",
+    "signature": "6abc95e2a4193c040c28489a1ff611a2da7cc249bad47905230dd10e7accf1f1",
+    "without": "Deep Forest Hermit produces bodies and Fyndhorn Elves supplies mana. An existing board can pressure opponents or fund an expensive spell.",
+    "adds": "Affinity for creatures helps cast Witherbloom and then discounts instants and sorceries such as Army of the Damned. Losing the board makes that high end expensive again.",
+    "anchors": [
+      "Grim Haruspex",
+      "Seasons Past"
+    ],
+    "resource": "Haruspex can draw from another nontoken creature dying. Seasons Past rebuilds a hand with different mana values; those cards still need casting.",
+    "failure": "Reducing the creature count makes affinity less effective. Exile also denies the death-trigger draw that a destroy effect may allow.",
+    "deployment_line": "Each creature used for affinity reduces generic cost without tapping. A large creature board can make Army of the Damned cheaper; it cannot pay the black pips."
+  },
+  {
+    "name": "Yeva",
+    "signature": "084e8ae7f4551ef5d3def09cd0658a69af8859d5f8f8339c698d28ab8abfb85b",
+    "without": "Arbor Elf and Circle of Dreams Druid accelerate creature deployment; Beast Whisperer can refill while you build toward Craterhoof Behemoth.",
+    "adds": "Yeva lets green creatures be cast at instant speed. The same mana can represent an answer during combat or an end-step threat if no answer is needed.",
+    "anchors": [
+      "Beast Whisperer",
+      "Guardian Project",
+      "Peerless Recycling"
+    ],
+    "resource": "Whisperer rewards casting a creature; Project rewards a qualifying nontoken creature entering. Returning a creature card to hand with Peerless Recycling is access, not free deployment.",
+    "failure": "Removal before the next spell closes Yeva's timing permission. A spell already cast with flash stays on the stack.",
+    "deployment_line": "Yeva changes when green creatures can be cast, not what they cost. Arbor Elf or Circle of Dreams Druid funds development while Yeva lets the player wait to see whether that mana is needed elsewhere."
+  },
+  {
+    "name": "Yshtola",
+    "signature": "3dbc2948f246462e95c947b07a999b3d2d64116f0837d22fa72a4ef10aeb7d8a",
+    "without": "Archmage Emeritus draws off instants and sorceries, while Kambal, Consul of Allocation drains life on opposing noncreature casts.",
+    "adds": "Y'shtola turns your noncreature spells of mana value three or more into table damage and lifegain. If any player lost at least four life that turn, she draws at the end step.",
+    "anchors": [
+      "Reanimate",
+      "Sevinne's Reclamation"
+    ],
+    "resource": "Reanimate can restore a creature; Reclamation brings back a permanent of mana value three or less. The recovery targets are not interchangeable.",
+    "failure": "Holding life loss below four for each player denies the end-step draw. Countering a noncreature spell after it is cast does not undo its cast trigger.",
+    "deployment_line": "The commander rewards noncreature spells by mana value, not mana spent. Reanimate is another route to a high-value creature, but its own low mana value does not meet the commander's damage-trigger threshold."
+  },
+  {
+    "name": "Ahoy Mateys",
+    "signature": "a113ce555d0d94af322c851f2da875ec46cf4d992bacc02b4551415a34789aed",
+    "without": "Malcolm, Keen-Eyed Navigator and Breeches, Brazen Plunderer turn Pirate combat damage into Treasure and access to opposing cards.",
+    "adds": "Admiral Brass mills four on entry and can bring a Pirate back at the beginning of your combat as a hasty 4/4. The graveyard becomes a second source of attackers.",
+    "anchors": [
+      "The Indomitable",
+      "Malcolm, Keen-Eyed Navigator"
+    ],
+    "resource": "Malcolm turns Pirate damage to opponents into Treasure. The Indomitable provides a draw payoff on combat damage and can be cast from the graveyard while you control at least three tapped Pirates and/or Vehicles.",
+    "failure": "Exile the relevant Pirates before the beginning-of-combat return resolves. Preventing combat damage also shuts down several payoffs, but not the return itself.",
+    "deployment_line": "Herald's Horn can discount Pirates cast from hand. Admiral Brass instead returns a Pirate for combat with a finality counter: if it would die it is exiled rather than stocked for another return."
+  },
+  {
+    "name": "Blood Rites",
+    "signature": "fc457056ecd44f3b878cfdee90ec476437de30a81e61ce3fe92609f67e5a3c42",
+    "without": "Blood Artist and Cruel Celebrant reward creatures dying, so sacrifice and combat trades advance the game without the commander.",
+    "adds": "Clavileño marks an attacking non-Demon Vampire. When that creature later dies, it draws a card and leaves a tapped flying 4/3 behind.",
+    "anchors": [
+      "Bloodline Necromancer",
+      "Bloodghast"
+    ],
+    "resource": "Necromancer's entry can restore another Vampire or Wizard. Bloodghast returns itself on landfall; a single land can restart a sacrifice outlet.",
+    "failure": "Clavileño needs a qualifying Vampire attack to mark a creature, and the marked creature must die for its payoff. Exile separates those two events.",
+    "deployment_line": "Windbrisk Heights depends on attacking with three or more creatures. Bloodline Necromancer instead needs a Vampire or Wizard card in the graveyard; a large board and a stocked graveyard fuel different routes."
+  },
+  {
+    "name": "Explorers of the Deep",
+    "signature": "ca703ee4d678fe43ddd249d36fa581edeb6ad5e0a6597d05f9892891103fee9c",
+    "without": "Master of the Pearl Trident boosts Merfolk and Seafloor Oracle rewards combat damage with cards. A wide board already has a way to pay off.",
+    "adds": "Hakbal makes each of your Merfolk explore at the beginning of your combat. Attacking with Hakbal adds another choice: put a land from hand onto the field or draw.",
+    "anchors": [
+      "Kindred Discovery",
+      "Seafloor Oracle",
+      "Bygone Marvels"
+    ],
+    "resource": "Discovery can draw before blockers; Oracle needs combat damage. Bygone Marvels recovers a permanent card to hand rather than replacing the Merfolk already in play.",
+    "failure": "Clearing Merfolk before beginning of combat reduces the number of explores. Preventing combat damage alone does not stop exploring.",
+    "deployment_line": "Stonybrook Banneret discounts Merfolk and Wizard spells. Realmwalker offers access to eligible creatures on top of the library but does not make those creatures free."
+  },
+  {
+    "name": "Veloci-Ramp-Tor",
+    "signature": "c1a404aabc7961ad370f2bbe26bde811afd4bb777f4faf5e913b58d4f4ab72e5",
+    "without": "Regisaur Alpha adds a Dinosaur and grants other Dinosaurs haste. Return of the Wildspeaker can turn a large non-Human into a fresh hand.",
+    "adds": "Pantlaza can discover from a Dinosaur's toughness when it enters, once each turn. More large bodies can therefore mean another spell without paying its mana cost.",
+    "anchors": [
+      "Otepec Huntmaster",
+      "From the Rubble",
+      "Descendants' Path"
+    ],
+    "resource": "Huntmaster discounts Dinosaurs cast from hand. From the Rubble can instead return a creature of the chosen type at your end step; Path uses the top card, not the graveyard.",
+    "failure": "Pantlaza's discover is limited to once each turn. Graveyard exile checks the reanimation route, not the cast discount or the discover trigger.",
+    "deployment_line": "Otepec Huntmaster reduces Dinosaur costs. Descendants' Path instead needs both a qualifying creature on top and a shared type already on the field; it is not guaranteed ramp."
+  }
+]

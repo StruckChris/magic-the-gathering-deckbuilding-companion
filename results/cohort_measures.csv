@@ -1,0 +1,81 @@
+group,metric,value,lists,group_order
+Your deck,Mean library MV,2.73,1,0
+Your deck,Nonland library slots,69,1,0
+Your deck,Front-face lands,30,1,0
+Your deck,Repeatable mana rocks,4,1,0
+Your deck,Interaction-capable cards,26,1,0
+Your deck,Instant / flash interaction,11,1,0
+Your deck,MV 0-1,16,1,0
+Your deck,MV 6+,5,1,0
+Your deck,Deploy other cards,2,1,0
+Your deck,Spell discounts,0,1,0
+Your deck,Stack abilities,1,1,0
+Your deck,Multi-permanent reset,2,1,0
+Your deck,Taxes / restrictions,3,1,0
+Your deck,Recover other cards,3,1,0
+Your deck,Blink / return,1,1,0
+Your deck,Entry draw,4,1,0
+Bracket 4,Mean library MV,2.99,5,1
+Bracket 4,Nonland library slots,64.8,5,1
+Bracket 4,Front-face lands,34.2,5,1
+Bracket 4,Repeatable mana rocks,4.6,5,1
+Bracket 4,Interaction-capable cards,18.4,5,1
+Bracket 4,Instant / flash interaction,9.8,5,1
+Bracket 4,MV 0-1,14.8,5,1
+Bracket 4,MV 6+,7,5,1
+Bracket 4,Deploy other cards,2.2,5,1
+Bracket 4,Spell discounts,1.6,5,1
+Bracket 4,Stack abilities,0,5,1
+Bracket 4,Multi-permanent reset,1.2,5,1
+Bracket 4,Taxes / restrictions,1,5,1
+Bracket 4,Recover other cards,2.8,5,1
+Bracket 4,Blink / return,0,5,1
+Bracket 4,Entry draw,0.6,5,1
+Bracket 3,Mean library MV,3.29,5,2
+Bracket 3,Nonland library slots,62.4,5,2
+Bracket 3,Front-face lands,36.6,5,2
+Bracket 3,Repeatable mana rocks,3.6,5,2
+Bracket 3,Interaction-capable cards,20.2,5,2
+Bracket 3,Instant / flash interaction,10.8,5,2
+Bracket 3,MV 0-1,6.4,5,2
+Bracket 3,MV 6+,6.2,5,2
+Bracket 3,Deploy other cards,2.4,5,2
+Bracket 3,Spell discounts,1.2,5,2
+Bracket 3,Stack abilities,0.2,5,2
+Bracket 3,Multi-permanent reset,2.6,5,2
+Bracket 3,Taxes / restrictions,1.4,5,2
+Bracket 3,Recover other cards,4.8,5,2
+Bracket 3,Blink / return,0.6,5,2
+Bracket 3,Entry draw,0,5,2
+Bracket 2,Mean library MV,3.17,5,3
+Bracket 2,Nonland library slots,64.4,5,3
+Bracket 2,Front-face lands,34.6,5,3
+Bracket 2,Repeatable mana rocks,3.4,5,3
+Bracket 2,Interaction-capable cards,16.4,5,3
+Bracket 2,Instant / flash interaction,5.2,5,3
+Bracket 2,MV 0-1,8.2,5,3
+Bracket 2,MV 6+,4.8,5,3
+Bracket 2,Deploy other cards,1.4,5,3
+Bracket 2,Spell discounts,1.2,5,3
+Bracket 2,Stack abilities,0.2,5,3
+Bracket 2,Multi-permanent reset,1.4,5,3
+Bracket 2,Taxes / restrictions,2.2,5,3
+Bracket 2,Recover other cards,3,5,3
+Bracket 2,Blink / return,0.4,5,3
+Bracket 2,Entry draw,0.4,5,3
+Stock precon,Mean library MV,3.4,4,4
+Stock precon,Nonland library slots,61.75,4,4
+Stock precon,Front-face lands,37.25,4,4
+Stock precon,Repeatable mana rocks,4.75,4,4
+Stock precon,Interaction-capable cards,16.25,4,4
+Stock precon,Instant / flash interaction,4.25,4,4
+Stock precon,MV 0-1,5,4,4
+Stock precon,MV 6+,6.5,4,4
+Stock precon,Deploy other cards,3.5,4,4
+Stock precon,Spell discounts,1,4,4
+Stock precon,Stack abilities,0.25,4,4
+Stock precon,Multi-permanent reset,2.25,4,4
+Stock precon,Taxes / restrictions,1.25,4,4
+Stock precon,Recover other cards,2,4,4
+Stock precon,Blink / return,0,4,4
+Stock precon,Entry draw,1.5,4,4

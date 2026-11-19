@@ -1,0 +1,5 @@
+jupyterlab>=3,<5
+altair>=4.2,<5
+numpy>=1.21,<2
+pandas>=1.4,<2
+requests>=2.27,<3

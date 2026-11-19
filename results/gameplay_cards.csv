@@ -1,0 +1,1745 @@
+deck,zone,quantity,name,oracle_id,mv,curve_bin,types,subtypes,optional_land_back
+Who Killed Kenny - Creator's Base Deck,Commander,1,"Kenrith, the Returned King",d209b948-9afb-4fd1-a961-72c87282878c,5.0,,Creature,Human; Noble,False
+Who Killed Kenny - Creator's Base Deck,Deck,4,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,3,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,2,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Snow-Covered Plains,ac8cc74d-e43b-4118-bba0-dfa8b9c04d45,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Snow-Covered Island,5b2460a5-6ae5-4cad-ba94-1a9e98e6e4c0,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Evolving Wilds,a75445d3-1303-4bb5-89ad-26ea93fecd48,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Terramorphic Expanse,1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Glacial Floodplain,5d3563dd-a2c1-463c-a0ed-5ac22388bdbe,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Reliquary Tower,c23e5b80-08d2-4e24-9908-fe2aa4f30f6f,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Watery Grave,fc9ec820-4245-4a96-b009-5308a818ca58,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Hallowed Fountain,f1750962-a87c-49f6-b731-02ae971ac6ea,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Flooded Strand,f3c7af78-a77d-4134-82a2-a5ce84285a84,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Demolition Field,93953926-a644-49bb-9b5a-4c8f19114c7e,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Snowfield Sinkhole,749c2c8e-9588-4e83-b07f-3c37eb63338b,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Sejiri Refuge,73b3e242-075d-4c4d-9b09-6fef1633c348,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Ancient Den,02f16726-f2f6-4943-b71a-93f8e26251d3,0.0,,Artifact; Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Ice Tunnel,40c5d6fe-854a-436d-9f80-13eb5f1f8f68,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,River of Tears,8a83d284-75a0-4901-b7d9-c4b7586ee327,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Windbrisk Heights,3589bcfc-42b0-414a-adce-bc690dc631c8,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Glacial Fortress,027dd013-baa7-4111-b3c9-f4d1414e9c45,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Path of Ancestry,b473e293-59e3-4e04-acf2-622604aeb25f,0.0,,Land,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Angel of Mercy,a2daaf32-dbfe-4618-892e-0da24f63a44a,5.0,5,Creature,Angel,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Baneslayer Angel,0e11792b-7fe5-4208-aa0b-e5d09b2b65fe,5.0,5,Creature,Angel,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Serra Avenger,b91b65b3-b35c-460e-a49b-333000a9a519,2.0,2,Creature,Angel,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,"Giada, Font of Hope",48e6d3d8-2f27-4017-acdd-40bce8cdbc02,2.0,2,Creature,Angel,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Inspiring Overseer,d646e42b-5635-4798-b633-29c093b66a55,3.0,3,Creature,Angel; Cleric,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Platinum Angel,b148578c-c0bf-4785-b97c-4b6f83028008,7.0,6+,Artifact; Creature,Angel,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Sun Titan,b2e950fb-cb7e-40a0-a311-5bbdd0477b29,6.0,6+,Creature,Giant,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Sylvan Ranger,29a90fda-541e-4923-b3ed-e2b35d02c74b,2.0,2,Creature,Elf; Ranger; Scout,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Wall of Omens,5f601f48-d24b-4883-9fde-b3f620e7c9ea,2.0,2,Creature,Wall,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Auriok Steelshaper,e3ee8b0e-9bdc-4b9a-b4f9-59189dd6a80d,2.0,2,Creature,Human; Soldier,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Meddling Mage,a5d02339-9f6d-486e-87d8-5ec2274cf680,2.0,2,Creature,Human; Wizard,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Snapcaster Mage,2bb2eda7-3b38-4c56-870f-c3218a1056f5,2.0,2,Creature,Human; Wizard,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Soul Warden,f3fad295-1af2-4ecc-8546-b121ad6be27b,1.0,0-1,Creature,Cleric; Human,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Soul's Attendant,045a9d3d-c20d-427f-a77b-0bffc6f55526,1.0,0-1,Creature,Cleric; Human,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Knight of the White Orchid,7d0efc64-151f-45b4-8c0b-c32609f9d862,2.0,2,Creature,Human; Knight,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Obscura Interceptor,b0870f91-c544-446a-8f7b-a8d03fdb0a2a,4.0,4,Creature,Octopus; Wizard,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Hero of Oxid Ridge,f18799c4-ec54-4435-be51-03ea25809289,4.0,4,Creature,Human; Knight,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Fiend Hunter,cb9d557a-fc06-428c-8be6-7d28add33028,3.0,3,Creature,Cleric; Human,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Gold Myr,bd6af7b3-b30f-4a65-a18f-8655f778e76a,2.0,2,Artifact; Creature,Myr,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Grand Architect,7af1d7f9-058a-4ccb-96b7-fc391b615c09,3.0,3,Creature,Artificer; Vedalken,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Mulldrifter,24d0f5e7-0d9e-4b76-900e-a7274e80312d,5.0,5,Creature,Elemental,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Pili-Pala,ad97333e-733c-402f-8ca3-e836c96b843c,2.0,2,Artifact; Creature,Scarecrow,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Brainstorm,36cd2364-d113-47d1-b2c4-b088d9eb88dd,1.0,0-1,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Swords to Plowshares,b1544f21-7e98-461b-aed5-e748b0168c52,1.0,0-1,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Lightning Bolt,4457ed35-7c10-48c8-9776-456485fdf070,1.0,0-1,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Think Twice,fa85c5a2-8e83-4624-a35a-a0bbf17ecbb4,2.0,2,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Mana Leak,c61fe162-2202-4e56-9ba0-393547f9875f,2.0,2,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Commit // Memory,56fd8895-3be2-4591-86fa-87567d9cdc14,10.0,6+,Instant; Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Mindbreak Trap,48712d36-5c13-4ded-87a4-68106da4a5cd,4.0,4,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Despark,bd16434d-55ea-4c5a-a9ef-752971a4af16,2.0,2,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Disallow,88b51e15-6630-4e14-a6b8-db0aa12e34ef,3.0,3,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Counterspell,cc187110-1148-4090-bbb8-e205694a39f5,2.0,2,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Force of Will,956381ba-6d37-4a8a-846c-bad79222dbee,5.0,5,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Quicken,cf188dd3-1927-481b-b8c0-93b1222dbf53,1.0,0-1,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Angel's Grace,66ca8a60-e028-4a5f-8177-860b888cb9d1,1.0,0-1,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Anguished Unmaking,ad09b3c3-c8e7-481c-8c45-e7f234935117,3.0,3,Instant,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Preordain,ac641490-ca14-48d7-8cc4-b69ce984befa,1.0,0-1,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Terminus,3dd196b6-a85a-4e3e-bb57-ec34241f8117,6.0,6+,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Day of Judgment,d057289d-5e28-43d5-8ff3-4a1bc723477d,4.0,4,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Vindicate,63c1ac21-e3d8-40c2-8c09-3f31c52992ef,3.0,3,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Serum Visions,56956afd-db53-4542-816b-490c8b0bbcf7,1.0,0-1,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Steelshaper's Gift,d9abda7e-6ca2-42ea-ab24-c542e57014f1,1.0,0-1,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Idyllic Tutor,57c9ff89-dd30-467b-bb3e-499eeea8cb94,3.0,3,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Rampant Growth,8539f295-5d58-4436-a73a-b9277c4c7795,2.0,2,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Reap and Sow,efce3575-66ee-412f-af5b-961fd242bbde,4.0,4,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Starnheim Unleashed,495ebe60-f0e5-4f0f-9d99-b2c64c95dbf4,4.0,4,Sorcery,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Lotus Bloom,04cf02dc-f053-414e-87d8-1537f25bcbf4,0.0,0-1,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Isochron Scepter,ddd649f4-dbaf-48ec-8ff7-95581257772d,2.0,2,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Sunbeam Spellbomb,014c94d8-2c39-4d33-902b-fa2398406fd5,1.0,0-1,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Everflowing Chalice,0a79237e-0811-4a8a-bd4d-db3ca91bff22,0.0,0-1,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Expedition Map,8fcf50cd-e6d0-4516-850f-d42ee75dcc3a,1.0,0-1,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Umezawa's Jitte,1da10d5c-36a8-473f-a5d4-782ad61d8057,2.0,2,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Aether Vial,fc148e1e-dff0-448e-9f16-625341754356,1.0,0-1,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Contagion Engine,482bd55a-ba73-4722-8643-94fa12818515,6.0,6+,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Whispersilk Cloak,9ad4f730-a18e-4a7c-a468-a926c718c741,3.0,3,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Azorius Cluestone,27e04c41-f42c-4d60-8a71-ec2d7c326f64,3.0,3,Artifact,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Detention Sphere,0a0b376d-7824-4ba5-8bc9-bc0be12800c5,3.0,3,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Omen of the Sea,41960d32-ddb5-42be-94b2-3a2e77ca148d,2.0,2,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Tocasia's Welcome,25c983e0-a8c9-4784-91a4-8fe04c6df882,3.0,3,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Journey to Nowhere,2bfec482-be0d-4768-84e7-1c2c74ea1373,2.0,2,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Oblivion Ring,bd9b9772-f5f9-4c6b-913e-7193bea5d0a7,3.0,3,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Court of Grace,f63c2438-27d4-449a-828f-f0a2ea86ff16,4.0,4,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Luminarch Ascension,90076bf5-aa9a-4a6e-9035-9aa97fd5561e,2.0,2,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Ghostly Prison,e828b189-0e8f-43b8-b909-4c23e742e028,3.0,3,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,Honor of the Pure,eb4188bb-62df-4309-bde1-f66318fe2f05,2.0,2,Enchantment,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,"Venser, the Sojourner",a8bf8ff8-d924-4fd2-b5ed-05b38f55325a,5.0,5,Planeswalker,,False
+Who Killed Kenny - Creator's Base Deck,Deck,1,"Teferi, Time Raveler",ae7604bb-4818-45a3-960c-cf3d83f15964,3.0,3,Planeswalker,,False
+"Witherbloom, the Balancer",Commander,1,"Witherbloom, the Balancer",fbb04a21-e513-4317-aac8-fa6df91c3438,8.0,,Creature,Dragon; Elder,False
+"Witherbloom, the Balancer",Deck,1,Beledros Witherbloom,90194ff1-db61-463f-b5a3-15cd85311d0e,7.0,6+,Creature,Dragon; Elder,False
+"Witherbloom, the Balancer",Deck,1,Cankerbloom,d5b80895-621a-40df-bf48-6c7295658f21,2.0,2,Creature,Fungus; Phyrexian,False
+"Witherbloom, the Balancer",Deck,1,"Cleopatra, Exiled Pharaoh",e7a80464-1522-48d7-bf82-f9894f5c3ae0,4.0,4,Creature,Human; Noble,False
+"Witherbloom, the Balancer",Deck,1,Deathrite Shaman,22f1a4a4-c423-4d1c-8775-0ed604a9fa51,1.0,0-1,Creature,Elf; Shaman,False
+"Witherbloom, the Balancer",Deck,1,Deep Forest Hermit,80e9a42e-f4f4-4bfc-91a2-ad124737dca2,5.0,5,Creature,Druid; Elf,False
+"Witherbloom, the Balancer",Deck,1,Elvish Visionary,c6a3a882-a127-4590-93d7-679ef4313efe,2.0,2,Creature,Elf; Shaman,False
+"Witherbloom, the Balancer",Deck,1,Farhaven Elf,4ce2357f-93e6-40ca-beca-8f4e15adc464,3.0,3,Creature,Druid; Elf,False
+"Witherbloom, the Balancer",Deck,1,Fyndhorn Elves,df317532-7d36-40fd-938f-e972749c8792,1.0,0-1,Creature,Druid; Elf,False
+"Witherbloom, the Balancer",Deck,1,Ghoulcaller Gisa,0dd894cb-1968-471c-af08-ea7ec5ce8428,5.0,5,Creature,Human; Wizard,False
+"Witherbloom, the Balancer",Deck,1,"Goreclaw, Terror of Qal Sisma",befb211f-37ca-4083-98d4-9ff1f28be3f2,4.0,4,Creature,Bear,False
+"Witherbloom, the Balancer",Deck,1,Grim Haruspex,72aef1d8-11df-4bc2-af83-907b05df73a8,3.0,3,Creature,Human; Wizard,False
+"Witherbloom, the Balancer",Deck,1,"Gwenna, Eyes of Gaea",7d95e72a-461e-4993-a190-847466a4b17c,3.0,3,Creature,Druid; Elf; Scout,False
+"Witherbloom, the Balancer",Deck,1,Haywire Mite,749d2994-44e7-40d3-8630-7bebed239e9e,1.0,0-1,Artifact; Creature,Insect,False
+"Witherbloom, the Balancer",Deck,1,Insidious Fungus,0a8d0217-ff24-4177-b6be-707eb2b6b9e9,1.0,0-1,Creature,Fungus,False
+"Witherbloom, the Balancer",Deck,1,Llanowar Elves,68954295-54e3-4303-a6bc-fc4547a4e3a3,1.0,0-1,Creature,Druid; Elf,False
+"Witherbloom, the Balancer",Deck,1,Midnight Reaper,e8c7566d-7cc0-48af-a986-83223ec7e06c,3.0,3,Creature,Knight; Zombie,False
+"Witherbloom, the Balancer",Deck,1,Mosswood Dreadknight // Dread Whispers,5783facf-d26e-4aae-a753-b9dc553361c1,2.0,2,Creature,Human; Knight,False
+"Witherbloom, the Balancer",Deck,1,Nine-Lives Familiar,5049da27-f38b-4fe6-a387-51510bd1f44e,3.0,3,Creature,Cat,False
+"Witherbloom, the Balancer",Deck,1,Reclusive Taxidermist,7a0168c5-e258-4c50-96aa-95deb2198e6f,2.0,2,Creature,Druid; Human,False
+"Witherbloom, the Balancer",Deck,1,Sapling of Colfenor,0c1e2bb8-0629-466c-b435-c4c71cdc755d,5.0,5,Creature,Shaman; Treefolk,False
+"Witherbloom, the Balancer",Deck,1,Sifter of Skulls,688e5e19-8f28-45c4-ace4-a38144f494f1,4.0,4,Creature,Eldrazi,False
+"Witherbloom, the Balancer",Deck,1,Sinister Gnarlbark,fcd2142e-ba84-4693-9b29-ecc43feba2b8,3.0,3,Creature,Treefolk; Warlock,False
+"Witherbloom, the Balancer",Deck,1,Sinkhole Surveyor,83a47724-b8d1-4884-9442-b62aa1510dc3,2.0,2,Creature,Bird; Scout,False
+"Witherbloom, the Balancer",Deck,1,Spinner of Souls,6883e79e-0b4f-4fb8-aee3-a3905246a408,3.0,3,Creature,Spider; Spirit,False
+"Witherbloom, the Balancer",Deck,1,Springheart Nantuko,8a3ad2ef-8bcb-40c0-85de-f03328c2b644,2.0,2,Creature; Enchantment,Insect; Monk,False
+"Witherbloom, the Balancer",Deck,1,Stensian Sanguinist // Exsanguinate,25877c41-39a4-4cc3-ac4b-8f3dd06d579b,2.0,2,Creature,Cleric; Vampire,False
+"Witherbloom, the Balancer",Deck,1,Studious First-Year // Rampant Growth,58b0c737-0a84-4f9a-b3b7-300c5de43874,1.0,0-1,Creature,Bear; Wizard,False
+"Witherbloom, the Balancer",Deck,1,Sylvan Caryatid,13d4c46b-c2d6-44cc-a252-4a991d471854,2.0,2,Creature,Plant,False
+"Witherbloom, the Balancer",Deck,1,"The Gitrog, Ravenous Ride",7739311a-682b-48a6-8db2-c07f44141751,5.0,5,Creature,Frog; Horror; Mount,False
+"Witherbloom, the Balancer",Deck,1,"Toski, Bearer of Secrets",a8e707ec-ce77-4bc5-8c76-5ea3e81e8c7f,4.0,4,Creature,Squirrel,False
+"Witherbloom, the Balancer",Deck,1,Transdimensional Bovine,eaa6b294-ac66-4fe2-b694-97b0a04f7be1,3.0,3,Creature,Avatar; Ox,False
+"Witherbloom, the Balancer",Deck,1,Undergrowth Leopard,511fa8a3-0a65-47fc-9f3b-57eaef2698cd,2.0,2,Creature,Cat,False
+"Witherbloom, the Balancer",Deck,1,Unstoppable Slasher,6662968e-ca9e-454c-be44-24ad10e43d3e,3.0,3,Creature,Assassin; Zombie,False
+"Witherbloom, the Balancer",Deck,1,Wall of Roots,3a21a6ae-b2f2-4f0c-acfd-5f3e8d63fd2f,2.0,2,Creature,Plant; Wall,False
+"Witherbloom, the Balancer",Deck,1,Wood Elves,8973bd99-20f8-4867-90ef-50392147ee1b,3.0,3,Creature,Elf; Scout,False
+"Witherbloom, the Balancer",Deck,1,Arachnogenesis,b655bee5-52d3-467e-b16c-cfc2edf2b1a1,3.0,3,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Curious Herd,e6f2e363-e361-4571-af37-6c63da04bdbf,4.0,4,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Go for the Throat,2f092562-9e17-43cd-aeb8-d0567f99363e,2.0,2,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Golgari Charm,f0ab7166-9fcf-46e5-af2c-b7f628db4789,2.0,2,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Heroic Intervention,24882fa2-3fe9-4c1b-aa3d-0e6488b9db27,2.0,2,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Infernal Grasp,94f0a572-e91c-4b56-a5d1-6cbbeabd210d,2.0,2,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Kamahl's Will,a32860dd-e8df-4a3c-bdc2-948dcd07cf9a,4.0,4,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Sprout Swarm,8b33d890-7d67-44a8-a253-e2b171d7ca9d,2.0,2,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Stinging Study,115bc79e-a109-42d7-ac58-2ee8dc0a959f,5.0,5,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Szat's Will,f0d8bde1-76db-4bd2-ae90-3e3a3418de0b,5.0,5,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Tear Asunder,610af0f7-b5e3-43fb-9d02-7c59bd99034c,2.0,2,Instant,,False
+"Witherbloom, the Balancer",Deck,1,Army of the Damned,75d667ec-86f4-4850-a3b6-e7a9fc7053b0,8.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Awaken the Woods,3cc79d36-1a24-4395-8ad1-915a65db8a60,2.0,2,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Majestic Genesis,15039c85-31e2-4a2b-82f8-2f8270ff9a00,8.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Overwhelming Forces,bdccceb6-ad3c-4a75-a8a6-ca796ede4185,8.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Pest Infestation,1b704798-0c69-4c18-ac7e-42933ce90028,1.0,0-1,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Preposterous Proportions,1e03aad2-6426-4d18-a0e5-bc3d8e6b7b11,7.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Rise of the Dark Realms,e5223a09-f732-4747-8914-e6546ab0ef4c,9.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Sadistic Shell Game,88c3fc46-f2f5-440c-80a6-fed5b42cd340,5.0,5,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Saproling Symbiosis,69d22037-fbf7-44d2-81a7-7ce8e32f06ec,4.0,4,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Season of Gathering,3ea060d8-449c-4a5e-8883-b45bd7707b5b,6.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Seasons Past,c46738a4-e0d4-41dc-a20d-4800f00cea62,6.0,6+,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Spider Spawning,da113cc9-bb2b-4af4-9c43-32c165b87363,5.0,5,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,Spontaneous Generation,d5b021e3-a0c1-471b-9088-a76816806354,4.0,4,Sorcery,,False
+"Witherbloom, the Balancer",Deck,1,"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",ea9c459a-6047-43aa-968f-a582be4000e8,3.0,3,Enchantment,,False
+"Witherbloom, the Balancer",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Witherbloom, the Balancer",Deck,1,Ba Sing Se,de1ae205-ca5b-4d26-8194-ca85f1406e53,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Blighted Woodland,02679a2e-303d-412f-87d8-0a37a8ca259c,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Castle Locthwain,be811e70-aaaa-41f3-bf9e-5d3f9f719b49,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Darkbore Pathway // Slitherbore Pathway,868e6e68-4367-4073-a864-235d5961ae56,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Deathcap Glade,f6d24565-5b32-4eff-b2e0-6e2c25516ff0,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Festering Thicket,bdb9b2ce-342c-4935-8943-d0c3971b1e38,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,10,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Hissing Quagmire,7fff5224-c002-4a32-86fe-9a4b18d78b50,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Homeward Path,cb8ec2e4-8223-4172-8f2c-37c918a573fa,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Kishla Village,4eb428ab-f5b0-46ca-98dd-b3466a91ef97,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Llanowar Wastes,32116127-cf96-4a1b-8896-a1ebc087b597,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Myriad Landscape,2549bc57-9ffb-4053-9f10-f2a5f792b845,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Necroblossom Snarl,761ee6f9-b0fa-43c9-8d1f-9591ea18e52d,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Overgrown Tomb,975ec9a3-6f20-4177-8211-82526e092538,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Restless Cottage,7e16595f-bdeb-422e-b99a-bfc0ed52e9f8,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,"Susur Secundi, Void Altar",50d6cadc-07e4-479e-90f4-e3a20f769bab,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,3,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Temple of Malady,dc55421f-dee8-4263-9df0-2365df5f14bb,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Turbulent Fen,114dd40d-5ad8-4913-a08f-572b9521eb5b,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Twilight Mire,db623754-e078-4030-ba07-818803c348a8,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Underground Mortuary,840119bf-e60f-4ff7-9c9b-d420d09df545,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Undergrowth Stadium,7c69f718-acc8-4851-8e5d-0cbaaa86192c,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Verdant Catacombs,67d60b24-d429-4ded-90d9-06e49f28c396,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Vernal Fen,40544d12-0391-4a61-af95-9b8ec01ed8fc,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Wastewood Verge,c6e0574c-3e2b-4c40-b17a-05bce3d49309,0.0,,Land,,False
+"Witherbloom, the Balancer",Deck,1,Woodland Cemetery,c9fe1383-1331-4a58-a45a-3320250221a9,0.0,,Land,,False
+Namor the Sub-Mariner,Commander,1,Namor the Sub-Mariner,dff11626-ad4d-443a-b7db-f508790b5fd2,3.0,,Creature,Merfolk; Mutant; Villain,False
+Namor the Sub-Mariner,Deck,1,"Attuma, Atlantean Warlord",e3b70a85-4296-411f-a673-7992b0c8a9aa,4.0,4,Creature,Merfolk; Villain; Warrior,False
+Namor the Sub-Mariner,Deck,1,Emperor Mihail II,6c901ff4-15c3-468f-9a1b-4c69a7bbc31a,3.0,3,Creature,Merfolk; Noble,False
+Namor the Sub-Mariner,Deck,1,Floodpits Drowner,43c69d19-c06c-470a-bdba-a0335ff2d655,2.0,2,Creature,Merfolk,False
+Namor the Sub-Mariner,Deck,1,Forensic Researcher,75e7f7c7-fa98-497b-bf5e-8f74571e190c,3.0,3,Creature,Detective; Merfolk,False
+Namor the Sub-Mariner,Deck,1,Harbinger of the Seas,84910453-e5dc-4bff-8554-86a5f4ab2746,3.0,3,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Junk Winder,5b677e88-bcc9-4a55-9c89-8bbd0e2344dc,7.0,6+,Creature,Serpent,False
+Namor the Sub-Mariner,Deck,1,"Kopala, Warden of Waves",0237cccc-3161-4d91-8e69-e3d315dcb246,3.0,3,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Lord of Atlantis,cc7f290f-ca00-4285-9bdb-4b4402444f30,2.0,2,Creature,Merfolk,False
+Namor the Sub-Mariner,Deck,1,Lullmage Mentor,752566b4-d3f5-4f10-b6f5-7185809f7a9d,3.0,3,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Master of the Pearl Trident,9f6ea9fe-eee5-4dca-a34e-c66d3e218716,2.0,2,Creature,Merfolk,False
+Namor the Sub-Mariner,Deck,1,Merfolk Sovereign,16aba9af-7a12-4c3d-87eb-06278921cb7c,3.0,3,Creature,Merfolk; Noble,False
+Namor the Sub-Mariner,Deck,1,Merrow Harbinger,035ee753-232f-4ba2-afbf-8d1eb162e6f8,4.0,4,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Merrow Reejerey,6b7e6ae4-2ee1-44bf-ac93-79fc87494515,3.0,3,Creature,Merfolk; Soldier,False
+Namor the Sub-Mariner,Deck,1,Metallic Mimic,1f91297a-ec2b-4ea8-9198-aa1daac20ff8,2.0,2,Artifact; Creature,Shapeshifter,False
+Namor the Sub-Mariner,Deck,1,Mindspring Merfolk,35142b01-4b8d-4335-a943-a3172fa04573,1.0,0-1,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,River Sneak,678095cc-ec8f-471a-b675-e59905d65c33,2.0,2,Creature,Merfolk; Warrior,False
+Namor the Sub-Mariner,Deck,1,Seafloor Oracle,f9f719cb-7778-4109-bbd3-4504ee1b5f49,4.0,4,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Seahunter,59e1899f-a9e8-48aa-b3fb-0b7d9fd6859c,4.0,4,Creature,Human; Mercenary,False
+Namor the Sub-Mariner,Deck,1,Silvergill Douser,b24f2917-b96c-4348-b033-4926df3bd4b0,2.0,2,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Stonybrook Banneret,0d6202c7-b19c-429a-85c4-332024381dd7,2.0,2,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Summon: Leviathan,b38d1811-64d7-4a35-a86c-3291eecd8391,6.0,6+,Creature; Enchantment,Leviathan; Saga,False
+Namor the Sub-Mariner,Deck,1,Svyelun of Sea and Sky,872bebff-720d-459b-8f86-fb9129a8d1fb,3.0,3,Creature,God; Merfolk,False
+Namor the Sub-Mariner,Deck,1,"Talrand, Sky Summoner",ea1eb902-a23c-44ff-9169-19baf71de238,4.0,4,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Thieving Skydiver,f509ac02-f22e-4d1a-9fe1-afa96dd7806d,2.0,2,Creature,Merfolk; Rogue,False
+Namor the Sub-Mariner,Deck,1,Tishana's Tidebinder,2993dc7d-723d-4a9b-94bd-4bb02a9f7243,3.0,3,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Titan of Littjara,f62250c6-0832-46c8-a800-806589504f5f,6.0,6+,Creature,Illusion,False
+Namor the Sub-Mariner,Deck,1,Triton Wavebreaker,d2309fba-4273-4084-b206-642a43975c34,1.0,0-1,Creature; Enchantment,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Vodalian Hexcatcher,4246b503-0da8-4de7-9343-9dfb3c3672df,2.0,2,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Wanderwine Prophets,9ab36915-b600-4970-961a-403f5da0dba1,6.0,6+,Creature,Merfolk; Wizard,False
+Namor the Sub-Mariner,Deck,1,Aquitect's Will,d02befcb-3e2c-4cfe-a913-9bb648e5bb2c,1.0,0-1,Sorcery,,False
+Namor the Sub-Mariner,Deck,1,Distant Melody,ac6c5852-71c7-4f19-8c87-ccb345052862,4.0,4,Sorcery,,False
+Namor the Sub-Mariner,Deck,1,Mnemonic Deluge,56de4cdc-4db0-48ec-8a16-f66086507233,9.0,6+,Sorcery,,False
+Namor the Sub-Mariner,Deck,1,Raise the Palisade,f55a3781-fe33-4301-9bb5-6a54b9c13c4f,5.0,5,Sorcery,,False
+Namor the Sub-Mariner,Deck,1,Secret of Bloodbending,743fa824-18cb-4225-ba7b-5b0bbc3c8d41,4.0,4,Sorcery,,False
+Namor the Sub-Mariner,Deck,1,Sorcerous Squall,a986d83d-22f1-45c3-bc2d-f5b210c539fb,9.0,6+,Sorcery,,False
+Namor the Sub-Mariner,Deck,1,Archmage's Charm,85cbb035-25df-43bb-ae06-ab098f448b02,3.0,3,Instant,,False
+Namor the Sub-Mariner,Deck,1,Consider,4c9bcba6-87b5-4fb3-97ee-6fe5b739337d,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Counterspell,cc187110-1148-4090-bbb8-e205694a39f5,2.0,2,Instant,,False
+Namor the Sub-Mariner,Deck,1,Cryptic Command,a3e51a35-09df-4189-b131-08a21e6a557d,4.0,4,Instant,,False
+Namor the Sub-Mariner,Deck,1,Fated Infatuation,ae771e78-1d29-4b8c-8511-9da196a78dcf,3.0,3,Instant,,False
+Namor the Sub-Mariner,Deck,1,Fierce Guardianship,d09c9cba-fdd2-479b-ad5d-d05181c3e3f9,3.0,3,Instant,,False
+Namor the Sub-Mariner,Deck,1,Filter Out,8c95d823-6bbd-4484-8f38-b1bb20403085,3.0,3,Instant,,False
+Namor the Sub-Mariner,Deck,1,Frantic Search,16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c,3.0,3,Instant,,False
+Namor the Sub-Mariner,Deck,1,Into the Flood Maw,8cb36a67-9206-4665-a03f-64f52ba559c4,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Mental Note,e8d5f31c-7abf-4fbb-977e-8353a97daf7a,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Misdirection,c39e5fb0-6de3-4105-ad3c-0ecb8951a1d5,5.0,5,Instant,,False
+Namor the Sub-Mariner,Deck,1,Mission Briefing,c3a68018-9eff-47e6-a612-182886d28fe3,2.0,2,Instant,,False
+Namor the Sub-Mariner,Deck,1,Opt,713332c1-5bd8-400f-bfff-c1ca0697a043,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Pongify,05849bd6-8f38-4031-be2b-e2aa03beb8cc,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Rapid Hybridization,06692cd9-ac2f-4a32-8fd1-043ba3c0fe71,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Reenact the Crime,ebb88893-427f-496c-82a8-94d2bafb5e4c,4.0,4,Instant,,False
+Namor the Sub-Mariner,Deck,1,Resculpt,814e321d-16fd-4f7b-a8d8-2b089be76f2c,2.0,2,Instant,,False
+Namor the Sub-Mariner,Deck,1,Sink into Stupor // Soporific Springs,bcc6eece-75ea-494c-b33a-d4477d504e0b,3.0,3,Instant,,True
+Namor the Sub-Mariner,Deck,1,Thought Scour,83101ba8-a569-4827-8c53-9ca0dfcd59a7,1.0,0-1,Instant,,False
+Namor the Sub-Mariner,Deck,1,Transcendent Message,1f7f7765-aeb9-4e47-a6b9-ce823bb29e33,4.0,4,Instant,,False
+Namor the Sub-Mariner,Deck,1,Combat Research,fbfd7f38-be9a-49bf-8769-79e1e7e8dfdc,1.0,0-1,Enchantment,,False
+Namor the Sub-Mariner,Deck,1,Deeproot Pilgrimage,188656d8-4ea8-4e58-88da-b010a16eb6f2,2.0,2,Enchantment,,False
+Namor the Sub-Mariner,Deck,1,Deeproot Waters,8e7b31eb-7a91-4992-b24a-d81173e1dbc8,3.0,3,Enchantment,,False
+Namor the Sub-Mariner,Deck,1,Kindred Discovery,005ee549-1bf5-478f-bc3f-3e791bd7eecf,5.0,5,Enchantment,,False
+Namor the Sub-Mariner,Deck,1,Moonlit Meditation,df702b0c-e011-497f-ae29-9876efac4a4c,3.0,3,Enchantment,,False
+Namor the Sub-Mariner,Deck,1,"Invasion of Segovia // Caetus, Sea Tyrant of Segovia",7b3c0d89-55ed-43d7-a00a-7b060857ec4e,3.0,3,Battle,,False
+Namor the Sub-Mariner,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Namor the Sub-Mariner,Deck,1,Sapphire Medallion,f1ef5698-14bd-42bf-aae5-2870699e4186,2.0,2,Artifact,,False
+Namor the Sub-Mariner,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Namor the Sub-Mariner,Deck,1,Throne of Eldraine,5b9a2b81-a645-43be-8001-03817ac210ca,5.0,5,Artifact,,False
+Namor the Sub-Mariner,Deck,1,Agna Qel'a,22d0a848-2126-48f0-9050-38daaf93b1d0,0.0,,Land,,False
+Namor the Sub-Mariner,Deck,30,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+Namor the Sub-Mariner,Deck,1,Mistrise Village,339f5334-b65a-445a-a016-20e997e0b4bb,0.0,,Land,,False
+Namor the Sub-Mariner,Deck,1,Mutavault,6b3cc59a-7ea5-4eb5-9bf9-5a9c07f80e2b,0.0,,Land,,False
+Namor the Sub-Mariner,Deck,1,Three Tree City,da3b17a2-e1e1-44e9-b9b1-ae54a92037db,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Commander,1,"Suki, Kyoshi Warrior",9223488e-5206-4d43-90ef-387189dcee16,4.0,,Creature,Ally; Human; Warrior,False
+"Suki, Kyoshi Warrior",Deck,1,Aligned Heart,ae61b2ef-2e60-499a-8708-e37b9bd5620e,3.0,3,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Anointed Procession,7246d45b-2185-4cdd-981b-5419b7d52bce,4.0,4,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Battle for Bretagard,8294539d-7982-4ec9-8392-99eed78542f5,3.0,3,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Bearscape,7e481e22-4122-4259-8978-4727eb307195,3.0,3,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Caretaker's Talent,c97957a2-8310-4cff-8aad-871b7901d124,3.0,3,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Court of Grace,f63c2438-27d4-449a-828f-f0a2ea86ff16,4.0,4,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Curse of Clinging Webs,d063f1d4-eb6b-40fa-97b7-f15ea53397fb,3.0,3,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Divine Visitation,5917216f-5b42-41fa-8976-401bdbeb782e,5.0,5,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Felidar Retreat,16629f59-bae8-4c19-bf50-443eb0ed6856,4.0,4,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Rabble Rousing,2e420001-2b3d-4eb7-b01c-3a49d5e241c2,5.0,5,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Reconnaissance,32599d7c-243b-447b-9d5d-e8e29830ac61,1.0,0-1,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Retreat to Emeria,cc0cda37-9fea-48c6-897a-45f6b84e1eae,4.0,4,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Valor in Akros,56a60fcb-f9b7-438f-9221-eaca8fb2649b,4.0,4,Enchantment,,False
+"Suki, Kyoshi Warrior",Deck,1,Arachnogenesis,b655bee5-52d3-467e-b16c-cfc2edf2b1a1,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Assure // Assemble,087018b6-6355-4534-9a35-9336b4b7fccc,8.0,6+,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Aura Mutation,19bb51dd-2b93-45f0-927d-bbafddadd0a3,2.0,2,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Beast Within,7735eeba-693b-47e2-bd51-414379cf1016,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Call the Coppercoats,73d8c33d-916a-4220-96ae-9622aad36210,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Curious Herd,e6f2e363-e361-4571-af37-6c63da04bdbf,4.0,4,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Entrapment Maneuver,2244bef9-1e4e-44ed-9b27-810f04f9e611,4.0,4,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Fungal Rebirth,b917f39a-3176-47ad-afda-08d09b873c02,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Generous Gift,fae37e28-e137-4177-b973-fa8b4dd8f409,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Grand Crescendo,dc600c06-8239-409e-b53d-20f813a3f5e7,2.0,2,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Heroic Intervention,24882fa2-3fe9-4c1b-aa3d-0e6488b9db27,2.0,2,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Kamahl's Will,a32860dd-e8df-4a3c-bdc2-948dcd07cf9a,4.0,4,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,March of the Multitudes,0c26ab0d-80f6-4e5b-9d0e-af17c1519583,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Mercy Killing,4d80bac5-ce62-4c5c-873a-ce81d2697842,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Rampage of the Clans,5dc34e93-97e3-434b-9f12-f45c6d556f13,4.0,4,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Release to Memory,3ae456e4-cb35-47be-b654-051e288622fe,4.0,4,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Rootborn Defenses,04046ae4-5c51-434b-930c-f3b1d348bf4b,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Second Harvest,61a6341e-0d36-44b6-8026-9c87c8ef61cb,4.0,4,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Secure the Wastes,b2347910-d6c6-4681-8316-7ef27056485c,1.0,0-1,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Selesnya Charm,a1a49639-bcc4-4522-8862-c9fb13d40880,2.0,2,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Sundering Growth,a2a380d8-4df7-4357-862c-ed3fb795db6c,2.0,2,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Windswift Slice,39ab72e2-04f2-41cc-ae33-4cc564b1542b,3.0,3,Instant,,False
+"Suki, Kyoshi Warrior",Deck,1,Camaraderie,9aab386c-d48c-4611-b757-aa69b26cc1b1,6.0,6+,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Collective Unconscious,38abf769-e4ef-4b47-9c79-c8cda0b90f6c,6.0,6+,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Devout Invocation,fab491b0-b820-4027-996f-390c97df1e96,7.0,6+,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,For the Common Good,de6e4aa2-23f1-46e5-a061-05522944e0c6,1.0,0-1,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Fungal Sprouting,303d4533-0c6b-4f93-80e8-b1f5926f4cd4,4.0,4,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Harmonize,7eff84f1-f772-497a-b350-bbc93d0230f7,4.0,4,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Nature's Lore,78826359-fe63-44ad-adc4-a17ffcd710e4,2.0,2,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Pest Infestation,1b704798-0c69-4c18-ac7e-42933ce90028,1.0,0-1,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Return from the Wilds,541adb13-1277-4c9e-ae1e-976f7aac1c72,3.0,3,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Scout the Wilderness,422aca0b-8e8f-4774-9a20-6f7a1cae967e,3.0,3,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Shamanic Revelation,d1d171de-1c6d-4fb9-817a-9c689c709f3d,5.0,5,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,Three Visits,1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e,2.0,2,Sorcery,,False
+"Suki, Kyoshi Warrior",Deck,1,"Andúril, Flame of the West",e6521404-8474-4727-b2d0-537d15d8a63f,3.0,3,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Captain's Claws,4cacd7de-83ac-4767-b6f2-f5a89f04a0b9,2.0,2,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Idol of Oblivion,c232d974-9c65-4bce-b045-e5a7cc0c62e0,2.0,2,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Lavaspur Boots,63bfb9ca-d9d5-4c17-be39-82eb115bc20c,1.0,0-1,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Lightning Greaves,ca204b66-8d0c-431a-8d34-282f7c2d17da,2.0,2,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Moonsilver Spear,d99bcf62-db93-40db-8844-3d0af0756a0c,4.0,4,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Seraphic Greatsword,14a19102-00ed-4425-8837-1d05bc7ad8ba,2.0,2,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Sigiled Sword of Valeron,f1c4269a-1d99-4f3b-8107-a005df3468d5,3.0,3,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Staff of Titania,f99f4b52-21ae-47a2-8ae6-b0aa7386723a,2.0,2,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,Swiftfoot Boots,c8b143ad-43ec-4e0d-a440-e348daa31391,2.0,2,Artifact,,False
+"Suki, Kyoshi Warrior",Deck,1,"Boseiju, Who Endures",bf1341dd-41a3-49f6-87ec-63170dde4324,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Bountiful Promenade,761cb262-f83b-4a99-9345-b773182a7671,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Brushland,5eb8b497-ec9a-4a89-ad29-1ec3ca82da7c,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Canopy Vista,dcb7e046-f01b-497c-88e5-57794eb30ce5,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Castle Ardenvale,f8f4fc60-725d-46d8-8e8f-e68e00d20589,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Field of the Dead,aa959340-c869-4caa-92c7-572bd8d23eef,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,13,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Fortified Village,56f1a16a-9f41-41fb-b580-c200bca27cd6,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Grove of the Guardian,f746612a-fbed-44ca-b2cc-5928e10cf4bb,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,13,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Rogue's Passage,f29dc596-2121-4421-8463-15f6c2e8b9b3,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Sunpetal Grove,402ec768-76fb-474e-ae74-babc90d833c4,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Talon Gates of Madara,8c45bf9d-a017-43bf-9e32-67810a8a217b,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Temple Garden,f413a83d-a40d-434c-b20a-4c707c0527fa,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,"Vitu-Ghazi, the City-Tree",88fb9e82-28b9-4275-a1e2-cb3a9bfda127,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Windswept Heath,29737a60-3ebd-40d9-b935-c4f54b90d45d,0.0,,Land,,False
+"Suki, Kyoshi Warrior",Deck,1,Yavimaya Hollow,53d6113d-acdb-4754-9641-f7991a96c7b9,0.0,,Land,,False
+"Yeva, Nature's Herald",Commander,1,"Yeva, Nature's Herald",2d513c3e-bd27-479e-af32-7f66d96d0de0,4.0,,Creature,Elf; Shaman,False
+"Yeva, Nature's Herald",Deck,1,Allosaurus Shepherd,98295bdc-db58-4e1f-ad4c-63092aea207e,1.0,0-1,Creature,Elf; Shaman,False
+"Yeva, Nature's Herald",Deck,1,Apex Altisaur,fc467fe5-85ab-4c95-8d21-49096778b107,9.0,6+,Creature,Dinosaur,False
+"Yeva, Nature's Herald",Deck,1,Arbor Elf,4567a528-75f0-4ea6-b927-3a500caf76ac,1.0,0-1,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,"Ashaya, Soul of the Wild",162572f2-1757-42e9-bd97-e6bd9a762c0e,5.0,5,Creature,Elemental,False
+"Yeva, Nature's Herald",Deck,1,Augur of Autumn,9e774188-caa1-4b62-b9cc-547f8e444b7f,3.0,3,Creature,Druid; Human,False
+"Yeva, Nature's Herald",Deck,1,Beast Whisperer,5da7eea8-bb9e-47ce-a554-8a1ee058bd7a,4.0,4,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Circle of Dreams Druid,1c857fa4-e823-494d-9ea4-7eb9e719c9b6,3.0,3,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Collector Ouphe,0c4bc9ea-a5fd-4f44-96a1-5448eee228c4,2.0,2,Creature,Ouphe,False
+"Yeva, Nature's Herald",Deck,1,Craterhoof Behemoth,8c52bd39-0586-48ca-b263-17210cf9feb6,8.0,6+,Creature,Beast,False
+"Yeva, Nature's Herald",Deck,1,Defiler of Vigor,0a1dc797-7531-4494-afe6-add6ac3f74c0,5.0,5,Creature,Phyrexian; Wurm,False
+"Yeva, Nature's Herald",Deck,1,Destiny Spinner,7dd189f8-a23f-4b43-b0ef-fb174a9664ba,2.0,2,Creature; Enchantment,Human,False
+"Yeva, Nature's Herald",Deck,1,Devoted Druid,cb814e16-acf7-41d5-a357-1323dcc369f3,2.0,2,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Dryad Arbor,e996cd67-739c-40f4-b276-0042acf26c71,0.0,,Creature; Land,Dryad; Forest,False
+"Yeva, Nature's Herald",Deck,1,Elvish Mystic,3f3b2c10-21f8-4e13-be83-4ef3fa36e123,1.0,0-1,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Fanatic of Rhonas,7973820b-fdaf-46ec-9e3e-d4c0e77b5067,2.0,2,Creature,Druid; Snake,False
+"Yeva, Nature's Herald",Deck,1,Fierce Empath,5104053a-d394-4b00-82a4-60fd9f051a6e,3.0,3,Creature,Elf,False
+"Yeva, Nature's Herald",Deck,1,Fyndhorn Elves,df317532-7d36-40fd-938f-e972749c8792,1.0,0-1,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Great Oak Guardian,5dba7746-c087-4ec1-92ca-ab9882dea24d,6.0,6+,Creature,Treefolk,False
+"Yeva, Nature's Herald",Deck,1,Haywire Mite,749d2994-44e7-40d3-8630-7bebed239e9e,1.0,0-1,Artifact; Creature,Insect,False
+"Yeva, Nature's Herald",Deck,1,Heartwood Storyteller,82e6da87-f8a4-4897-bf0f-c0f2cd06b8b1,3.0,3,Creature,Treefolk,False
+"Yeva, Nature's Herald",Deck,1,Karametra's Acolyte,e8cf80a1-6908-4adb-88e7-2015672d4905,4.0,4,Creature,Druid; Human,False
+"Yeva, Nature's Herald",Deck,1,"Kogla, the Titan Ape",8b21062e-97b0-4967-96df-30e8309f4fba,6.0,6+,Creature,Ape,False
+"Yeva, Nature's Herald",Deck,1,Llanowar Elves,68954295-54e3-4303-a6bc-fc4547a4e3a3,1.0,0-1,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Manglehorn,b67db32b-30a9-49d2-b4c2-90a9f80c36eb,3.0,3,Creature,Beast,False
+"Yeva, Nature's Herald",Deck,1,Ohran Frostfang,b99ada26-9a61-4175-9fb8-15a106960220,5.0,5,Creature,Snake,False
+"Yeva, Nature's Herald",Deck,1,Priest of Titania,3a198a16-17b9-481e-b516-5bc945c7e247,2.0,2,Creature,Druid; Elf,False
+"Yeva, Nature's Herald",Deck,1,Quirion Ranger,3ecaefc8-ead2-47a3-a7ea-b030faab65a7,1.0,0-1,Creature,Elf; Ranger,False
+"Yeva, Nature's Herald",Deck,1,Radagast the Brown,dfa47d0d-17f0-4a12-89d3-0d3c7f3db8c6,4.0,4,Creature,Avatar; Wizard,False
+"Yeva, Nature's Herald",Deck,1,Reclamation Sage,032ec6e2-6cc3-4a97-9cc7-3233f5e11904,3.0,3,Creature,Elf; Shaman,False
+"Yeva, Nature's Herald",Deck,1,Regal Force,e264ffe3-0252-49d6-b990-dbb3654325a5,7.0,6+,Creature,Elemental,False
+"Yeva, Nature's Herald",Deck,1,"Saryth, the Viper's Fang",4e07a0b3-f340-4ed1-a8a9-c25fe6f37fb3,4.0,4,Creature,Human; Warlock,False
+"Yeva, Nature's Herald",Deck,1,Scavenging Ooze,1ff25f67-36a7-4cfa-a2b1-2135b5b6fb67,2.0,2,Creature,Ooze,False
+"Yeva, Nature's Herald",Deck,1,Seedborn Muse,463865bc-087e-477b-9e86-84e77f1ad931,5.0,5,Creature,Spirit,False
+"Yeva, Nature's Herald",Deck,1,Shaman of Forgotten Ways,ca405696-8c30-4c01-bf90-11cdf8837942,3.0,3,Creature,Human; Shaman,False
+"Yeva, Nature's Herald",Deck,1,Somberwald Sage,f249db15-09fa-4a1c-9461-9ae803c219b6,3.0,3,Creature,Druid; Human,False
+"Yeva, Nature's Herald",Deck,1,Surrak and Goreclaw,95be5f72-1f81-4ec6-9bd9-f0b07bfc874b,6.0,6+,Creature,Bear; Human,False
+"Yeva, Nature's Herald",Deck,1,Temur Sabertooth,8bf8e846-9d10-4dbc-a379-df37bb9fb6d4,4.0,4,Creature,Cat,False
+"Yeva, Nature's Herald",Deck,1,Terastodon,17975a20-2c13-4325-be1e-0bcda5063a2d,8.0,6+,Creature,Elephant,False
+"Yeva, Nature's Herald",Deck,1,Titan of Industry,5d8acafe-c13e-43ca-a89e-0cfd12d95662,7.0,6+,Creature,Elemental,False
+"Yeva, Nature's Herald",Deck,1,"Toski, Bearer of Secrets",a8e707ec-ce77-4bc5-8c76-5ea3e81e8c7f,4.0,4,Creature,Squirrel,False
+"Yeva, Nature's Herald",Deck,1,Wall of Roots,3a21a6ae-b2f2-4f0c-acfd-5f3e8d63fd2f,2.0,2,Creature,Plant; Wall,False
+"Yeva, Nature's Herald",Deck,1,Woodland Bellower,5859fd59-8732-414a-8932-007980af495d,6.0,6+,Creature,Beast,False
+"Yeva, Nature's Herald",Deck,1,Worldspine Wurm,254f87cc-e0c2-484d-b5e8-1ea8c366990c,11.0,6+,Creature,Wurm,False
+"Yeva, Nature's Herald",Deck,1,Garruk's Uprising,3127ae9b-a7a7-43ec-89d7-688f8445b33d,3.0,3,Enchantment,,False
+"Yeva, Nature's Herald",Deck,1,"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",ea9c459a-6047-43aa-968f-a582be4000e8,3.0,3,Enchantment,,False
+"Yeva, Nature's Herald",Deck,1,Guardian Project,4f9e07ae-6341-4b46-9f77-f17ab659d266,4.0,4,Enchantment,,False
+"Yeva, Nature's Herald",Deck,1,Sylvan Library,92eed395-62ca-4293-882b-8565c40daab5,2.0,2,Enchantment,,False
+"Yeva, Nature's Herald",Deck,1,Tribute to the World Tree,72deedab-7c17-4505-aeca-4bc8596d80a5,3.0,3,Enchantment,,False
+"Yeva, Nature's Herald",Deck,1,Wild Growth,706ae742-1807-44b7-a4fa-f2e26f61519a,1.0,0-1,Enchantment,,False
+"Yeva, Nature's Herald",Deck,1,Ancient Tomb,23467047-6dba-4498-b783-1ebc4f74b8c2,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Castle Garenbrig,de75e5dd-8a52-406c-b55c-96d686885500,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Crystal Vein,616d6013-24f4-4999-9bf3-5b0764e52fa6,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Deserted Temple,9f12bf9a-6e1a-4377-b4af-e8cabd3ee58a,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Emergence Zone,7536eb66-959d-4dca-9b75-895572ef733c,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,22,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Geier Reach Sanitarium,7b9fafe7-d26a-4ed5-b4c4-ce13763770b5,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,"Mikokoro, Center of the Sea",a4580a1d-141e-449b-9018-e0258130634b,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Scavenger Grounds,5ece7d03-9ee7-4953-a06e-9d8e41874903,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Talon Gates of Madara,8c45bf9d-a017-43bf-9e32-67810a8a217b,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Urza's Cave,4474ecee-0ec3-409b-90df-738d9313fe3c,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,"Yavimaya, Cradle of Growth",8dd5f5af-d2d8-4356-8617-8381081b930c,0.0,,Land,,False
+"Yeva, Nature's Herald",Deck,1,Chrome Mox,ec3d4466-547c-4e02-b1b5-a156ec4637e9,0.0,0-1,Artifact,,False
+"Yeva, Nature's Herald",Deck,1,Mana Vault,736892cb-a34b-4bb9-b56c-e26e3db207a2,1.0,0-1,Artifact,,False
+"Yeva, Nature's Herald",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Yeva, Nature's Herald",Deck,1,The One Ring,3aa83ed2-f48b-4ce6-a614-2c54ddf50538,4.0,4,Artifact,,False
+"Yeva, Nature's Herald",Deck,1,Thorn of Amethyst,0c6c5336-9233-4ab1-9d55-79f20be7ea57,2.0,2,Artifact,,False
+"Yeva, Nature's Herald",Deck,1,Beast Within,7735eeba-693b-47e2-bd51-414379cf1016,3.0,3,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Chord of Calling,6789a170-f2c5-4fc0-8a45-2b2361e67410,3.0,3,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Crop Rotation,28b46183-c62f-47b1-9fee-3ba148202cab,1.0,0-1,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Peerless Recycling,938c03fc-8adf-4c7a-8ae1-eca8401f7a83,2.0,2,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Shared Summons,c2c9dbd0-2062-4ee1-b32e-8eeacd95589c,5.0,5,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Smuggler's Surprise,605f719d-01f8-406c-9d4c-3f4992c6a69f,1.0,0-1,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Veil of Summer,002965be-a36f-4a09-9ce0-c6535bca1703,1.0,0-1,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Worldly Tutor,e8863518-0bfa-49c3-8c6e-6c9116a81051,1.0,0-1,Instant,,False
+"Yeva, Nature's Herald",Deck,1,Analyze the Pollen,ec7d550b-9e13-4249-89c7-6ad43f71ea11,1.0,0-1,Sorcery,,False
+"Yeva, Nature's Herald",Deck,1,Bridgeworks Battle // Tanglespan Bridgeworks,9d581188-ce80-494e-bd38-f411e1f4efb5,3.0,3,Sorcery,,True
+"Yeva, Nature's Herald",Deck,1,Eldritch Evolution,0f77c0c9-4dc4-489a-b547-e93287c4d1a5,3.0,3,Sorcery,,False
+"Yeva, Nature's Herald",Deck,1,Green Sun's Zenith,0d96b60b-a060-48ee-bb83-93f1c4a10669,1.0,0-1,Sorcery,,False
+"Kalamax, the Stormsire",Commander,1,"Kalamax, the Stormsire",b8501a37-23e4-4873-80cb-d1c0f6c95155,4.0,,Creature,Dinosaur; Elemental,False
+"Kalamax, the Stormsire",Deck,1,Abrade,f9db72dc-9a5b-48a4-a86e-7464d9a2166a,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Beast Within,7735eeba-693b-47e2-bd51-414379cf1016,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Bolt Bend,c20a96f7-aa5a-4c15-b8b1-806685c99b27,4.0,4,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Comet Storm,9c2b262b-53c0-41a1-8f1a-0c336453d4bf,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Counterspell,cc187110-1148-4090-bbb8-e205694a39f5,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Crop Rotation,28b46183-c62f-47b1-9fee-3ba148202cab,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Deflecting Swat,ae120613-97d6-4393-b39d-c3e6c076f5d6,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Dig Through Time,f8b17b89-26ce-4208-874a-9e1d66514640,8.0,6+,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Display of Power,99140891-face-4015-aacd-1309e87d8f9f,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Expedite,3501a839-eef5-44e4-8637-b5754780454e,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Fierce Guardianship,d09c9cba-fdd2-479b-ad5d-d05181c3e3f9,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Fists of Flame,e05abb6b-e9f4-4d9e-ad1e-7805ebc09914,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Force of Will,956381ba-6d37-4a8a-846c-bad79222dbee,5.0,5,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Frantic Search,16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Harrow,705509e9-a034-4a5a-9c65-66f58748b8a2,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Invigorate,9264c198-76c7-4ac0-9334-37c691de1b54,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Krosan Grip,3e39224c-72ce-4ecc-aa17-12c071ea1f3e,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,March of Swirling Mist,debc69ea-372a-4720-838a-16856cd50b07,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Muddle the Mixture,0826cf7d-7ccc-459b-a92f-29dc169628f8,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Mystical Tutor,fb81f95c-70f8-4eb7-8d15-15d0ae23ec03,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Nature's Claim,6d4e558e-9109-4918-a082-fdcbaffd516b,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Opt,713332c1-5bd8-400f-bfff-c1ca0697a043,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Prizefight,c0c4ecf6-84e6-443e-8a81-e395b31c631d,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Reality Shift,70dc830e-d05b-4fc7-88dd-879e140b3fbf,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Resculpt,814e321d-16fd-4f7b-a8d8-2b089be76f2c,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Run Away Together,290faa28-450e-4797-9a8f-642d8af3f82a,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Siege Smash,4e07d30a-d29a-49bc-ab49-41ea4116a18c,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Snakeskin Veil,1e6a24be-8281-41c1-a5ba-b68f0ef1d7b8,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Soul's Fire,62d7ed6e-c386-477e-b155-982c3790f842,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Suspend,fef9425d-82d5-470b-9cbc-8c03a001099e,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Temur Battle Rage,2fdc0d17-b683-4263-949e-4f74ec76badf,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Thrill of Possibility,1cb0610b-a731-42c2-b93f-0a29f63cebf4,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Tyvar's Stand,4247b667-a0a8-4995-97c7-622d20132f7d,1.0,0-1,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Wild Magic Surge,41d16975-d6c0-4343-bea2-4f360ead9a1c,2.0,2,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Wildsize,e1f439c7-217f-4b20-a77d-b9014c5de8c0,3.0,3,Instant,,False
+"Kalamax, the Stormsire",Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Chrome Mox,ec3d4466-547c-4e02-b1b5-a156ec4637e9,0.0,0-1,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Mana Vault,736892cb-a34b-4bb9-b56c-e26e3db207a2,1.0,0-1,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Shadowspear,8b27326f-e7b8-4a4d-b589-df459246d19a,1.0,0-1,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Swiftfoot Boots,c8b143ad-43ec-4e0d-a440-e348daa31391,2.0,2,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,The One Ring,3aa83ed2-f48b-4ce6-a614-2c54ddf50538,4.0,4,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Winged Boots,a178a789-1f5f-46ca-a90b-574bd236a671,2.0,2,Artifact,,False
+"Kalamax, the Stormsire",Deck,1,Ancient Tomb,23467047-6dba-4498-b783-1ebc4f74b8c2,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Arid Mesa,c5acf2a5-40f4-433d-a74d-1cb56c521464,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Bloodstained Mire,fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Breeding Pool,20283c4a-f1f0-42f0-bc08-6da87474426b,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,City of Brass,f25351e3-539b-4bbc-b92d-6480acf4d722,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Fire-Lit Thicket,d99a1d9a-7721-4331-bf22-1c6ee0bd825a,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Flooded Grove,dc974eb4-72b9-4213-887b-8ee684b93420,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Flooded Strand,f3c7af78-a77d-4134-82a2-a5ce84285a84,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Gemstone Caverns,c0adbddc-b070-4c5f-afe0-0474c72a9251,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Hedge Maze,ca4b6689-04ee-4227-9bdc-cb5a9590c745,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Hinterland Harbor,fb5a3403-7f0b-406c-8c4f-d693be010ca6,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,3,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Karplusan Forest,bd912666-f37f-4767-af6f-9e6d0fcccacf,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Kessig Wolf Run,c6911265-54ef-4c16-bcf2-1ffb24b7d426,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Ketria Triome,6bae00e8-06cf-4ac4-a1cc-757e454109fe,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Mana Confluence,d0ee5bdc-2b69-4b73-9a20-ffcc18783b29,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Misty Rainforest,09dd85aa-47bc-4713-a9b9-8b52ff2285ed,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Mystic Sanctuary,17b60106-a4c7-410a-8ac3-ec8e74e29a7c,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Polluted Delta,ef86989d-ce80-4e55-aece-7d11710eeffa,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Rejuvenating Springs,d1620449-930a-4895-a143-fd2a0a3c8b17,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Scalding Tarn,cb027150-848c-4a66-88ad-e20222304dd8,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Shivan Reef,0fe16212-66c3-4e45-a641-7391e9b2e304,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Spire Garden,45fe016e-1a09-410c-bbe3-4663ba06c5b7,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Steam Vents,17039058-822d-409f-938c-b727a366ba63,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Stomping Ground,16052b52-ade1-406f-a06b-ce7ea607fb63,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Training Center,e3570ac7-c593-40e3-bbd6-ec3da6d8158d,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Verdant Catacombs,67d60b24-d429-4ded-90d9-06e49f28c396,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Windswept Heath,29737a60-3ebd-40d9-b935-c4f54b90d45d,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Wooded Foothills,6587a463-a108-4854-b6d1-944e89b8c8a4,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Yavimaya Coast,40b36bc6-c185-4bda-99e7-0118953c2c97,0.0,,Land,,False
+"Kalamax, the Stormsire",Deck,1,Archmage Emeritus,8305d576-21d8-4ce7-8eda-a7cd9793aca5,4.0,4,Creature,Human; Wizard,False
+"Kalamax, the Stormsire",Deck,1,Birds of Paradise,d3a0b660-358c-41bd-9cd2-41fbf3491b1a,1.0,0-1,Creature,Bird,False
+"Kalamax, the Stormsire",Deck,1,Delighted Halfling,f9d3b046-0b95-4103-a630-4b3fb88bb60b,1.0,0-1,Creature,Citizen; Halfling,False
+"Kalamax, the Stormsire",Deck,1,Elvish Spirit Guide,6b0e23cf-7d68-4329-86db-7adc26abd86b,3.0,3,Creature,Elf; Spirit,False
+"Kalamax, the Stormsire",Deck,1,Guttersnipe,c6bdaf76-6a03-4695-9c4b-f040e73435af,3.0,3,Creature,Goblin; Shaman,False
+"Kalamax, the Stormsire",Deck,1,Orcish Lumberjack,383e3fe4-8558-4561-8632-6eadb5d5963c,1.0,0-1,Creature,Orc,False
+"Kalamax, the Stormsire",Deck,1,Pinnacle Monk // Mystic Peak,f3d48efa-910a-4872-a5b1-a353c5dbce99,5.0,5,Creature,Djinn; Monk,True
+"Kalamax, the Stormsire",Deck,1,Seedborn Muse,463865bc-087e-477b-9e86-84e77f1ad931,5.0,5,Creature,Spirit,False
+"Kalamax, the Stormsire",Deck,1,Simian Spirit Guide,44e0ffa3-8915-4c1f-8f1a-4aeea1365f07,3.0,3,Creature,Ape; Spirit,False
+"Kalamax, the Stormsire",Deck,1,Snapcaster Mage,2bb2eda7-3b38-4c56-870f-c3218a1056f5,2.0,2,Creature,Human; Wizard,False
+"Kalamax, the Stormsire",Deck,1,Storm-Kiln Artist,a145ff8c-5812-4bcb-bd16-9839dc25121d,4.0,4,Creature,Dwarf; Shaman,False
+"Kalamax, the Stormsire",Deck,1,"Talrand, Sky Summoner",ea1eb902-a23c-44ff-9169-19baf71de238,4.0,4,Creature,Merfolk; Wizard,False
+"Kalamax, the Stormsire",Deck,1,"Veyran, Voice of Duality",d57a6b19-bd06-4b07-8ee1-0b45612ba9e4,3.0,3,Creature,Efreet; Wizard,False
+"Kalamax, the Stormsire",Deck,1,Young Pyromancer,5fac139a-07d3-4e6c-98e3-d98b199f7a6f,2.0,2,Creature,Human; Shaman,False
+"Kalamax, the Stormsire",Deck,1,Arcane Bombardment,1e36a42f-58e2-49bc-8c14-7f75e1d8ef98,6.0,6+,Enchantment,,False
+"Kalamax, the Stormsire",Deck,1,Mystic Remora,8a52f3c0-2552-4425-b2e3-5496eb2232a7,1.0,0-1,Enchantment,,False
+"Kalamax, the Stormsire",Deck,1,Wilderness Reclamation,6f856f99-4cb4-479d-958d-964220965ed6,4.0,4,Enchantment,,False
+"Kalamax, the Stormsire",Deck,1,Gamble,a54f0869-94c8-42af-9080-166efb9486a4,1.0,0-1,Sorcery,,False
+"Kalamax, the Stormsire",Deck,1,Mizzix's Mastery,40362fe0-a1a9-4d76-8c35-eac474b91af5,4.0,4,Sorcery,,False
+"Kalamax, the Stormsire",Deck,1,Wheel of Misfortune,10aff3f6-8347-4e1b-b8e7-c204c9e46657,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Commander,1,"Y'shtola, Night's Blessed",3268251a-8292-44f9-9267-c961b182f739,4.0,,Creature,Cat; Warlock,False
+"Y'shtola, Night's Blessed",Deck,1,Alisaie Leveilleur,4bd1d079-314e-4fb5-9b43-c9c83e5528bc,3.0,3,Creature,Elf; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,Alphinaud Leveilleur,d16783a4-9980-451b-9af0-33866980bc8d,4.0,4,Creature,Elf; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,Archmage Emeritus,8305d576-21d8-4ce7-8eda-a7cd9793aca5,4.0,4,Creature,Human; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,Defacing Duskmage,27c366cf-00d7-47d4-9577-736bfc4a3b81,2.0,2,Creature,Dog; Warlock,False
+"Y'shtola, Night's Blessed",Deck,1,Emet-Selch of the Third Seat,634475d9-a1d7-4146-9a37-645d3d162af1,4.0,4,Creature,Elder; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,"G'raha Tia, Scion Reborn",f558c758-8f12-45f9-8683-eee33ba1fb0d,3.0,3,Creature,Cat; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,Geist of Saint Thalia,ef32a4a9-14e2-4738-b4c2-53ce5e1d2a53,2.0,2,Creature,Cleric; Spirit,False
+"Y'shtola, Night's Blessed",Deck,1,"Kambal, Consul of Allocation",4987c458-604a-4727-b360-170616e91e67,3.0,3,Creature,Advisor; Human,False
+"Y'shtola, Night's Blessed",Deck,1,"Lotho, Corrupt Shirriff",135cc078-1c45-465e-b0b9-7168c89f56f4,2.0,2,Creature,Halfling; Rogue,False
+"Y'shtola, Night's Blessed",Deck,1,Lyse Hext,47bce63e-8edb-43c1-b273-4b86da5c616b,3.0,3,Creature,Human; Monk; Rebel,False
+"Y'shtola, Night's Blessed",Deck,1,"Niv-Mizzet, Ghost Counsel",a5350327-e84c-44b6-8359-87882e521048,6.0,6+,Creature,Dragon; Spirit,False
+"Y'shtola, Night's Blessed",Deck,1,Papalymo Totolymo,334e83cd-b513-4bd4-89a2-86875667e6c4,2.0,2,Creature,Dwarf; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,"Queza, Augur of Agonies",c983338d-ae6b-4a15-9931-daa20fca8269,4.0,4,Creature,Advisor; Octopus,False
+"Y'shtola, Night's Blessed",Deck,1,"Samut, Tyrant of Naktamun",a275f7ac-7dae-4422-875a-f34f24b6f28a,2.0,2,Creature,Human; Wizard,False
+"Y'shtola, Night's Blessed",Deck,1,"Vito, Thorn of the Dusk Rose",7336a541-3ae9-4ab2-acb8-f574c0a5b3a9,3.0,3,Creature,Cleric; Vampire,False
+"Y'shtola, Night's Blessed",Deck,1,Aetherize,7c779721-cd1b-4696-9ae9-68ccc284ed2a,4.0,4,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Anguished Unmaking,ad09b3c3-c8e7-481c-8c45-e7f234935117,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Dark Ritual,53f7c868-b03e-4fc2-8dcf-a75bbfa3272b,1.0,0-1,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Dismember,fd74f8eb-0253-42dd-8277-186d4934da38,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Extended Absence,973fb1e3-83d5-4763-bea8-799b426a8848,4.0,4,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Frantic Search,16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Generous Gift,fae37e28-e137-4177-b973-fa8b4dd8f409,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Impossible Choice,e277ed07-2113-4465-a45c-a64490814c1d,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Mortify,faa01ed1-ccfa-4e58-951f-cd81f9068027,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Render Silent,3966bd03-a98e-43b6-a0c0-10d4d81c173c,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Snuff Out,324824cb-f938-401c-b9b5-d8908b431ef0,4.0,4,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Soul Shatter,615927c2-3fb0-4e64-a1a7-55fb56de1423,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Swallowed by Leviathan,1a8185ed-636b-49ad-bf24-2ab02c7fb91e,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Swords to Plowshares,b1544f21-7e98-461b-aed5-e748b0168c52,1.0,0-1,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Unwind,e38b8ecb-e7ae-474d-b6a4-29cc1aa8ccd9,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Void Rend,713f16db-95ec-479e-a48c-7a69f7668d7f,3.0,3,Instant,,False
+"Y'shtola, Night's Blessed",Deck,1,Approach of the Second Sun,e4125377-34c0-4b54-bdf8-4e88f5d24565,7.0,6+,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Circle of Power,2d41fd1f-4a98-45dd-a3c5-f7c5e0152109,4.0,4,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Decorum Dissertation,f4c57454-d36f-4f38-b7ac-76477a516c3e,5.0,5,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Exsanguinate,8164b1e8-3350-465e-8a17-75f57d326344,2.0,2,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Grim Tutor,e62f8d69-a559-4f13-a5c9-5fb750b4af2c,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Reanimate,a044474a-cd72-4e9d-bd8d-a08f2de9cdc0,1.0,0-1,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Risky Shortcut,a7c55495-6aca-4d17-b61a-cab8fa38b9f4,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Sevinne's Reclamation,1b9f9f5b-8712-4f00-90cb-1b7b9970eccc,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Solve the Equation,f02682f0-26c0-4032-9df3-273b6a45d0a8,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Syphon Mind,abc37d6c-6300-47b5-a679-9db5b83eb54f,4.0,4,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Toxic Deluge,afaef788-34d1-460b-b884-9d7ae6ddeb18,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Tragic Arrogance,8a29bd35-33ef-4317-9fe5-8aaff5d7d64d,5.0,5,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Vindicate,63c1ac21-e3d8-40c2-8c09-3f31c52992ef,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Windfall,08becc07-28bc-4a2f-a6b0-28a2998d2f50,3.0,3,Sorcery,,False
+"Y'shtola, Night's Blessed",Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Dancer's Chakrams,7465d02f-3eee-483c-8de3-404381aa21eb,4.0,4,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Lightning Greaves,ca204b66-8d0c-431a-8d34-282f7c2d17da,2.0,2,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Relic of Legends,4d9554de-c005-41ab-a941-39328ebff9de,3.0,3,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Talisman of Dominance,4c0a0448-b9d6-43a0-8549-64066dac63f0,2.0,2,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Talisman of Hierarchy,b693c3de-2eaf-4850-b405-e79d00adefda,2.0,2,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Talisman of Progress,00e35322-1a9a-41e3-9ce1-359c8eaa3bc7,2.0,2,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,The One Ring,3aa83ed2-f48b-4ce6-a614-2c54ddf50538,4.0,4,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Thought Vessel,9965d9c5-2ebf-4a6c-930e-55c5890979be,2.0,2,Artifact,,False
+"Y'shtola, Night's Blessed",Deck,1,Black Market Connections,d2664f28-49e1-46f8-a863-b217e961a57c,3.0,3,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Curiosity,223fa044-d387-4884-bf4e-75f1b61c6a46,1.0,0-1,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Dark Tutelage,0c6ce7c9-316b-4171-a8fa-ca26af1eecb7,3.0,3,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Helm of the Ghastlord,66fa528f-0e3a-450f-9035-1ba5a8a921e6,4.0,4,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Observed Stasis,0c729806-3a23-491e-847f-23a394d27291,4.0,4,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Phyrexian Arena,ee579a32-a048-4335-b966-231ba731cdea,3.0,3,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Sigil of Sleep,51b47053-d169-4627-982f-f29b8630d75f,1.0,0-1,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,Steel of the Godhead,90d2e092-6eb8-4d13-bdad-19e7325a8b36,3.0,3,Enchantment,,False
+"Y'shtola, Night's Blessed",Deck,1,"Teferi, Time Raveler",ae7604bb-4818-45a3-960c-cf3d83f15964,3.0,3,Planeswalker,,False
+"Y'shtola, Night's Blessed",Deck,1,Adarkar Wastes,d5ad26cc-2bdb-46b7-b8bf-dd099d5fa09b,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Arcane Sanctum,7d7cf15c-06b9-4062-a1eb-32614c458a3b,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Bojuka Bog,04b7362d-0490-4cb0-b5d7-2a7732f659ce,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Caves of Koilos,33de01e9-ce5a-42d4-afcb-343cd54a6d80,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Darkwater Catacombs,4869a530-757f-4364-8d8e-4dc8001f433c,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Desolate Mire,3edf9201-265f-4cd9-b27b-8073bf1a4cf2,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Godless Shrine,73864fcc-1bde-4bc0-831e-2b93e546e417,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Hallowed Fountain,f1750962-a87c-49f6-b731-02ae971ac6ea,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,5,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,5,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Reliquary Tower,c23e5b80-08d2-4e24-9908-fe2aa4f30f6f,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Scavenger Grounds,5ece7d03-9ee7-4953-a06e-9d8e41874903,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Skycloud Expanse,76f335d0-7f71-4b1a-b60d-73de954cbe2c,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,5,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Temple of the False God,cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Turbulent Moor,2eb4da30-2600-4a7f-8e6c-6a090faa9a8d,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Turbulent Shore,c13c5f07-dac5-47d0-a088-e24b9fbec3c5,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Turbulent Wetlands,b51c8659-ec4f-4213-beb1-49a7acd7366c,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Underground River,857febd9-cdd7-4f8e-a852-d88084b0cfbc,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,War Room,71c52bf5-2a5d-488e-8b15-7ef290e4b77d,0.0,,Land,,False
+"Y'shtola, Night's Blessed",Deck,1,Watery Grave,fc9ec820-4245-4a96-b009-5308a818ca58,0.0,,Land,,False
+Edgar Markov,Commander,1,Edgar Markov,41e2790d-49f5-4e98-b8d9-04179f47f13a,6.0,,Creature,Knight; Vampire,False
+Edgar Markov,Deck,1,Blood Artist,310f141c-7f37-4729-aed6-dd9c09db448d,2.0,2,Creature,Vampire,False
+Edgar Markov,Deck,1,Bloodline Keeper,434e82b5-abd4-41ac-a5b1-2dd01c667374,4.0,4,Creature,Vampire,False
+Edgar Markov,Deck,1,Bloodline Recollector,c8e9a7e1-28ae-40e3-8715-1bb0aa2057c7,2.0,2,Creature,Vampire; Warlock,False
+Edgar Markov,Deck,1,Callous Bloodmage,96c12c12-140a-462d-bff0-0554d192b1f4,3.0,3,Creature,Vampire; Warlock,False
+Edgar Markov,Deck,1,Captivating Vampire,acd382ee-94fb-4a29-b14e-c2a3c6dde7e0,3.0,3,Creature,Vampire,False
+Edgar Markov,Deck,1,Champion of Dusk,5f7f0a38-fb7e-4ee8-a712-9aa911f17dae,5.0,5,Creature,Knight; Vampire,False
+Edgar Markov,Deck,1,Charismatic Conqueror,3dcc35f3-74dc-46a8-8aa9-3411189f0547,2.0,2,Creature,Soldier; Vampire,False
+Edgar Markov,Deck,1,Cordial Vampire,d61fb9e8-d05a-481a-a90f-5def300c9abb,2.0,2,Creature,Vampire,False
+Edgar Markov,Deck,1,Cruel Celebrant,3ee78cfc-0e9e-4737-a7e2-b42f94228040,2.0,2,Creature,Vampire,False
+Edgar Markov,Deck,1,Dark Confidant,2068185c-1b50-47d0-aa3f-bf505d199428,2.0,2,Creature,Human; Wizard,False
+Edgar Markov,Deck,1,"Drana, Liberator of Malakir",89b24b5f-d837-4274-8877-8ff7dc2708ba,3.0,3,Creature,Ally; Vampire,False
+Edgar Markov,Deck,1,Dusk Legion Duelist,30367a59-a812-41d4-a451-80d9071dd4a4,2.0,2,Creature,Soldier; Vampire,False
+Edgar Markov,Deck,1,"Edgar, Charmed Groom",96cb97ca-4ce0-4d33-86fb-4db4ce1956be,4.0,4,Creature,Noble; Vampire,False
+Edgar Markov,Deck,1,"Elenda, the Dusk Rose",ce35f262-b93f-4409-8b33-26a7ed7abac8,4.0,4,Creature,Knight; Vampire,False
+Edgar Markov,Deck,1,Emeritus of Woe,93056597-b964-421f-be2f-e92abef1c2a4,4.0,4,Creature,Vampire; Warlock,False
+Edgar Markov,Deck,1,Enduring Innocence,98a389f4-2905-47f3-b60e-3d4afb3e5cb0,3.0,3,Creature; Enchantment,Glimmer; Sheep,False
+Edgar Markov,Deck,1,Forerunner of the Legion,439537ca-53c1-47cb-9174-5872c3c46288,3.0,3,Creature,Knight; Vampire,False
+Edgar Markov,Deck,1,Henrika Domnathi,0c0845c3-f4b5-444e-8f42-da0c7dbf2841,4.0,4,Creature,Vampire,False
+Edgar Markov,Deck,1,Legion Lieutenant,5fa1b2f0-3ba4-49db-9cb5-b6130e4c255e,2.0,2,Creature,Knight; Vampire,False
+Edgar Markov,Deck,1,Master of Dark Rites,a65250f6-55e2-47ed-a355-d690047db6f2,1.0,0-1,Creature,Cleric; Vampire,False
+Edgar Markov,Deck,1,"Mavren Fein, Dusk Apostle",1b94a11b-21b0-4465-a520-69608f022fb4,3.0,3,Creature,Cleric; Vampire,False
+Edgar Markov,Deck,1,"Olivia, Opulent Outlaw",4e5e0b22-ee5a-4c19-be95-2f9bd50641bc,4.0,4,Creature,Assassin; Vampire,False
+Edgar Markov,Deck,1,Pinnacle Monk,f3d48efa-910a-4872-a5b1-a353c5dbce99,5.0,5,Creature,Djinn; Monk,True
+Edgar Markov,Deck,1,Preacher of the Schism,74947e47-c4ff-4f47-9845-befa7403cbde,3.0,3,Creature,Cleric; Vampire,False
+Edgar Markov,Deck,1,Rakish Heir,3318c391-7aa1-4550-88a0-b29d8dca28b7,3.0,3,Creature,Vampire,False
+Edgar Markov,Deck,1,Sanctum Seeker,afb71560-0fc9-4ea5-9d52-d93c17d72519,4.0,4,Creature,Knight; Vampire,False
+Edgar Markov,Deck,1,Scheming Silvertongue,44443716-8356-40cd-a879-35264b29108c,2.0,2,Creature,Vampire; Warlock,False
+Edgar Markov,Deck,1,Scion of Opulence,5818b31e-2e86-4230-937e-478e14534f91,3.0,3,Creature,Noble; Vampire,False
+Edgar Markov,Deck,1,Stromkirk Captain,599c3fd6-3309-4b5d-adec-9c4062848ad5,3.0,3,Creature,Soldier; Vampire,False
+Edgar Markov,Deck,1,Twilight Prophet,a3afd8b9-d499-40f7-be41-f8fee6636a1d,4.0,4,Creature,Cleric; Vampire,False
+Edgar Markov,Deck,1,Vampire Socialite,91a45e96-2a93-4c48-b472-11904d2b856d,2.0,2,Creature,Noble; Vampire,False
+Edgar Markov,Deck,1,Vengeful Bloodwitch,4cdbc466-42fc-471f-beab-397caec18101,2.0,2,Creature,Vampire; Warlock,False
+Edgar Markov,Deck,1,Viscera Seer,f82a4e85-526d-4456-b700-7760043a31be,1.0,0-1,Creature,Vampire; Wizard,False
+Edgar Markov,Deck,1,Welcoming Vampire,605c1ee0-5e8a-4e0a-a99b-42a38873f822,3.0,3,Creature,Vampire,False
+Edgar Markov,Deck,1,Wispdrinker Vampire,6317d45a-fe02-4879-b515-bc5327ecb5ae,4.0,4,Creature,Rogue; Vampire,False
+Edgar Markov,Deck,1,Witch Enchanter,0355249a-8e4e-41db-9cea-1b901faffbe6,4.0,4,Creature,Human; Warlock,True
+Edgar Markov,Deck,1,And They Shall Know No Fear,0ea6d165-2c30-41a4-8829-6d0510afc03f,2.0,2,Instant,,False
+Edgar Markov,Deck,1,Anguished Unmaking,ad09b3c3-c8e7-481c-8c45-e7f234935117,3.0,3,Instant,,False
+Edgar Markov,Deck,1,Dawn's Truce,37c06f89-db36-4937-9404-2b07cd22e1a6,2.0,2,Instant,,False
+Edgar Markov,Deck,1,Duty Beyond Death,67e6ce99-4883-4713-9822-cb2334765b5b,2.0,2,Instant,,False
+Edgar Markov,Deck,1,Erode,2e467fab-e808-44d3-99bf-e3621baeb7cb,1.0,0-1,Instant,,False
+Edgar Markov,Deck,1,Fell the Profane,053a69d8-2b5e-4f14-8b02-ca405891dc4a,4.0,4,Instant,,True
+Edgar Markov,Deck,1,Get Lost,522dd417-364b-44ab-8ca9-fb55db5f26a6,2.0,2,Instant,,False
+Edgar Markov,Deck,1,Hagra Mauling,37783ce6-af58-4ef6-8ab4-587079970307,4.0,4,Instant,,True
+Edgar Markov,Deck,1,Path to Exile,d683d985-9888-4d21-8b5f-69e69ce4a03b,1.0,0-1,Instant,,False
+Edgar Markov,Deck,1,Settle the Wreckage,2a2ea189-b663-4f4a-bb23-ff7a4af25f71,4.0,4,Instant,,False
+Edgar Markov,Deck,1,Stinging Study,115bc79e-a109-42d7-ac58-2ee8dc0a959f,5.0,5,Instant,,False
+Edgar Markov,Deck,1,Sudden Spoiling,dce202c7-fe8e-462a-858e-7a5a69bd5b6b,3.0,3,Instant,,False
+Edgar Markov,Deck,1,Swords to Plowshares,b1544f21-7e98-461b-aed5-e748b0168c52,1.0,0-1,Instant,,False
+Edgar Markov,Deck,1,Untimely Malfunction,2c49d24a-98a4-43c2-bb59-1ef13d4214c2,2.0,2,Instant,,False
+Edgar Markov,Deck,1,Crippling Fear,e7a7ba65-ad14-41d5-889b-9bbeae9ab3f7,4.0,4,Sorcery,,False
+Edgar Markov,Deck,1,Decorum Dissertation,f4c57454-d36f-4f38-b7ac-76477a516c3e,5.0,5,Sorcery,,False
+Edgar Markov,Deck,1,Olivia's Wrath,9aebd891-c8c5-4309-a07b-6cab1b204172,5.0,5,Sorcery,,False
+Edgar Markov,Deck,1,Pact of the Serpent,f275039e-3dba-49b0-92aa-92721b1c7f95,3.0,3,Sorcery,,False
+Edgar Markov,Deck,1,Sundering Eruption,c95309e9-5c2f-4518-b2fd-825d3d0a4ae0,3.0,3,Sorcery,,True
+Edgar Markov,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Edgar Markov,Deck,1,Chronicle of Victory,e949b362-4988-4482-ac51-c1049af9040c,6.0,6+,Artifact,,False
+Edgar Markov,Deck,1,Heraldic Banner,3525e263-e29a-49bf-a29f-fb3ce43bbd33,3.0,3,Artifact,,False
+Edgar Markov,Deck,1,Patchwork Banner,4fb00dbe-1f82-4ba6-b18c-97e816d10d3a,3.0,3,Artifact,,False
+Edgar Markov,Deck,1,Skullclamp,65986c1b-8e51-4604-b685-d82fa7d1263a,1.0,0-1,Artifact,,False
+Edgar Markov,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Edgar Markov,Deck,1,Staff of Compleation,11c7662f-e688-40a6-98fd-6ae89d231b44,3.0,3,Artifact,,False
+Edgar Markov,Deck,1,Talisman of Hierarchy,b693c3de-2eaf-4850-b405-e79d00adefda,2.0,2,Artifact,,False
+Edgar Markov,Deck,1,Black Market Connections,d2664f28-49e1-46f8-a863-b217e961a57c,3.0,3,Enchantment,,False
+Edgar Markov,Deck,1,Caretaker's Talent,c97957a2-8310-4cff-8aad-871b7901d124,3.0,3,Enchantment,,False
+Edgar Markov,Deck,1,Phyrexian Arena,ee579a32-a048-4335-b966-231ba731cdea,3.0,3,Enchantment,,False
+Edgar Markov,Deck,1,Arid Mesa,c5acf2a5-40f4-433d-a74d-1cb56c521464,0.0,,Land,,False
+Edgar Markov,Deck,1,Blackcleave Cliffs,5ad94412-6f79-4c5d-bbd4-4ef5779a7b6d,0.0,,Land,,False
+Edgar Markov,Deck,1,Bleachbone Verge,2b8144a0-08d2-4c28-9fd7-5d90f90105e4,0.0,,Land,,False
+Edgar Markov,Deck,1,Blightstep Pathway,e580a229-e800-4746-9d37-c32fcef8de28,0.0,,Land,,False
+Edgar Markov,Deck,1,Blood Crypt,43985bbc-a0f6-4812-984e-392bc8562633,0.0,,Land,,False
+Edgar Markov,Deck,1,Bloodstained Mire,fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57,0.0,,Land,,False
+Edgar Markov,Deck,1,Brightclimb Pathway,1c633e02-95ef-445e-b4e0-fbfbc5ed9cc9,0.0,,Land,,False
+Edgar Markov,Deck,1,Cavern of Souls,89ca686a-7c72-4d8f-9290-e89635624a83,0.0,,Land,,False
+Edgar Markov,Deck,1,Caves of Koilos,33de01e9-ce5a-42d4-afcb-343cd54a6d80,0.0,,Land,,False
+Edgar Markov,Deck,1,Clifftop Retreat,d7faa3c8-46cf-46b2-bfa4-89000307cf18,0.0,,Land,,False
+Edgar Markov,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Edgar Markov,Deck,1,Dragonskull Summit,63398c02-6fb1-481d-9d9f-81063532fbc0,0.0,,Land,,False
+Edgar Markov,Deck,1,"Eiganjo, Seat of the Empire",7edb3d15-4f70-4ebe-8c5e-caf6a225076d,0.0,,Land,,False
+Edgar Markov,Deck,1,Fountainport,94e8b0a9-44a1-4dce-8d44-78681ae638a1,0.0,,Land,,False
+Edgar Markov,Deck,1,Godless Shrine,73864fcc-1bde-4bc0-831e-2b93e546e417,0.0,,Land,,False
+Edgar Markov,Deck,1,Isolated Chapel,7e5d9efe-48a9-434b-bb09-056e0e09cc9a,0.0,,Land,,False
+Edgar Markov,Deck,1,Marsh Flats,dab520d0-20b4-4273-ba6b-eb07f85ea433,0.0,,Land,,False
+Edgar Markov,Deck,1,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+Edgar Markov,Deck,1,Mutavault,6b3cc59a-7ea5-4eb5-9bf9-5a9c07f80e2b,0.0,,Land,,False
+Edgar Markov,Deck,1,Needleverge Pathway,a9b8d020-4d72-4934-8942-df29ef19fc1d,0.0,,Land,,False
+Edgar Markov,Deck,1,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+Edgar Markov,Deck,1,Prismatic Vista,032b8a0d-491a-4a12-ab9f-689010054d5b,0.0,,Land,,False
+Edgar Markov,Deck,1,Sacred Foundry,45181cb8-2090-4471-ba90-e5a8f04d525f,0.0,,Land,,False
+Edgar Markov,Deck,1,Savai Triome,00625242-9348-4ef4-b975-f2ac82fee21d,0.0,,Land,,False
+Edgar Markov,Deck,1,Silent Clearing,fd45063f-c83c-431c-9104-f139c497ec0d,0.0,,Land,,False
+Edgar Markov,Deck,1,Spectator Seating,cf6d10ed-85c3-48f2-8ba0-2960e03b408b,0.0,,Land,,False
+Edgar Markov,Deck,1,Sulfurous Springs,f5c38c01-4a40-469f-91a0-7479daf4e8e7,0.0,,Land,,False
+Edgar Markov,Deck,1,Sunbaked Canyon,f97fd068-b83a-4621-bf8c-cc96e880ce90,0.0,,Land,,False
+Edgar Markov,Deck,4,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+Edgar Markov,Deck,1,Three Tree City,da3b17a2-e1e1-44e9-b9b1-ae54a92037db,0.0,,Land,,False
+The Ur-Dragon,Commander,1,The Ur-Dragon,87b22b09-4f6d-4bc5-9cfc-663e4c7c6981,9.0,,Creature,Avatar; Dragon,False
+The Ur-Dragon,Deck,1,Amoeboid Changeling,68865793-daeb-4c55-80cb-12853f9f96c4,2.0,2,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Avian Changeling,767c1f97-03de-474d-9112-e7521ba3b3f3,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Cairn Wanderer,a549d54f-2640-455c-8a93-bef4df2f9e8b,5.0,5,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Chameleon Colossus,7b8f1458-c638-4907-9363-f7cc22d04605,4.0,4,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Changeling Hero,fc893d4a-debd-4df0-ae83-d3ebd2f0fefe,5.0,5,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Changeling Outcast,a61ef0cc-1da9-49f9-b0dc-01cf9f6205be,1.0,0-1,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Chomping Changeling,d740dbd9-8e90-4121-8d53-c6ddf5178d58,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Cloudshredder Sliver,f943c005-9b77-411a-b522-1182e22724e1,2.0,2,Creature,Sliver,False
+The Ur-Dragon,Deck,1,Flock Impostor,6522070b-7002-44fd-8deb-832fe67ef9a9,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Gemhide Sliver,2c09ca09-8e62-4fe3-9b3d-61573dd2ffbc,2.0,2,Creature,Sliver,False
+The Ur-Dragon,Deck,1,Graveshifter,1eebc02a-9a64-49b0-8322-c5ce671457ce,4.0,4,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Harabaz Druid,ead985ec-f29f-4a3b-b8b1-061142cc5bd1,2.0,2,Creature,Ally; Druid; Human,False
+The Ur-Dragon,Deck,1,Hibernation Sliver,edb8a6d6-9e25-4048-a842-e854eece42c2,2.0,2,Creature,Sliver,False
+The Ur-Dragon,Deck,1,Littjara Glade-Warden,438a0a7a-00bc-4d93-8e69-a8a6084523c5,4.0,4,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Magda, Brazen Outlaw",3d268e48-3004-4384-bf52-e63243fb5e02,2.0,2,Creature,Berserker; Dwarf,False
+The Ur-Dragon,Deck,1,Manaweft Sliver,bd47398d-da35-4a09-8754-771af91b14f4,2.0,2,Creature,Sliver,False
+The Ur-Dragon,Deck,1,Masked Vandal,210940f1-3c11-4877-bbfc-2429c03f98ee,2.0,2,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Mirror Entity,17e905ca-c0bd-473d-95a7-e180ba5fea43,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Mistwalker,ceb302df-d67e-4e5d-aca0-f53bcdea658d,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Moritte of the Frost,78699161-fc14-4a44-8a15-0f7c08be0343,5.0,5,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Morophon, the Boundless",bf418a2f-e639-4e52-9cad-5a0713a1829b,7.0,6+,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Mothdust Changeling,52237e6b-19f6-405c-a668-545c4ccb1b6d,1.0,0-1,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Muerra, Trash Tactician",c115159c-6991-4812-b3b6-6ed80221cab4,3.0,3,Creature,Raccoon; Warrior,False
+The Ur-Dragon,Deck,1,Mutable Explorer,34b93a66-de1e-4133-a479-e0d90ba94a3a,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Ojutai, Soul of Winter",27d7f737-59a4-4948-9b2e-599ae848e054,7.0,6+,Creature,Dragon,False
+The Ur-Dragon,Deck,1,Omni-Changeling,66d4370e-19b9-4680-9b1e-a192537bc002,5.0,5,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Orvar, the All-Form",276c4643-13ad-43bf-840b-08c025ebc065,4.0,4,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Realmwalker,b81eaa2f-0554-41c6-bdf6-d1cb73b8f56f,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Reaper King,70034860-5198-421f-871d-7c1676337b6e,10.0,6+,Artifact; Creature,Scarecrow,False
+The Ur-Dragon,Deck,1,Risen Reef,2ae71e86-4400-4a30-9077-4d57a43e7395,3.0,3,Creature,Elemental,False
+The Ur-Dragon,Deck,1,Rivaz of the Claw,ecff46b9-fcc9-4895-8b6f-c697fd15d01a,3.0,3,Creature,Lizard; Warlock,False
+The Ur-Dragon,Deck,1,Shapesharer,400c9fd8-c307-4b27-af6a-73e100717881,2.0,2,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Silumgar, the Drifting Death",b26c91d9-87de-45f7-a24c-bbe0cef3a35c,6.0,6+,Creature,Dragon,False
+The Ur-Dragon,Deck,1,Skeletal Changeling,b9d388ca-1a63-4a11-bf33-9f7b87305a52,2.0,2,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Taurean Mauler,fd5ee26c-cc54-4dc0-b611-5cda14354a5e,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Titan of Littjara,f62250c6-0832-46c8-a800-806589504f5f,6.0,6+,Creature,Illusion,False
+The Ur-Dragon,Deck,1,Tuktuk Scrapper,85cf2403-b419-4364-8ac9-67dd1ceddf9e,4.0,4,Creature,Ally; Artificer; Goblin,False
+The Ur-Dragon,Deck,1,Universal Automaton,d50b1d2e-1825-432a-ab73-068fdc356f50,1.0,0-1,Artifact; Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Unsettled Mariner,7e4d1ce3-92f0-4acc-962b-8073d41d3673,2.0,2,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,Utvara Hellkite,05a6a571-643e-429e-8e5c-1c3f8b0dc746,8.0,6+,Creature,Dragon,False
+The Ur-Dragon,Deck,1,Venomous Changeling,f1929f1f-6aa3-4308-bbff-cab03883ac68,3.0,3,Creature,Shapeshifter,False
+The Ur-Dragon,Deck,1,"Voja, Jaws of the Conclave",d94ff0b8-5499-4eeb-80f0-20c7fbf07499,5.0,5,Creature,Wolf,False
+The Ur-Dragon,Deck,1,Wirewood Savage,45579312-499f-41de-b16e-a231d65a2053,3.0,3,Creature,Elf,False
+The Ur-Dragon,Deck,1,"Yuriko, the Tiger's Shadow",a7043fbd-1dfd-42cf-be4b-cc343d0949e5,3.0,3,Creature,Human; Ninja,False
+The Ur-Dragon,Deck,1,"Zask, Skittering Swarmlord",3c4966b9-26f9-46ff-8d41-7fd01c70986d,5.0,5,Creature,Insect,False
+The Ur-Dragon,Deck,1,Assassin's Trophy,ac10d218-f9a6-4058-9cda-a15ca1b0b7b5,2.0,2,Instant,,False
+The Ur-Dragon,Deck,1,Blades of Velis Vel,9955885b-fad7-4ee6-bd62-48d8a7731044,2.0,2,Instant,,False
+The Ur-Dragon,Deck,1,Crib Swap,2987c385-011a-4032-a516-a46d1e9dc9e8,3.0,3,Instant,,False
+The Ur-Dragon,Deck,1,Eerie Interlude,0634091a-a74c-4cea-b6d1-7324a725554a,3.0,3,Instant,,False
+The Ur-Dragon,Deck,1,Nameless Inversion,d6911456-42cb-4b23-a560-dc98784530f5,2.0,2,Instant,,False
+The Ur-Dragon,Deck,1,Personify,e1708ad9-35d4-4243-92ca-ddf9d129aa32,2.0,2,Instant,,False
+The Ur-Dragon,Deck,1,Crux of Fate,52a0dae4-2a95-487e-acd4-eabdb2d031e2,5.0,5,Sorcery,,False
+The Ur-Dragon,Deck,1,Dominion Infiltration,30597aff-ebb6-4927-b350-fe559fb92c8f,3.0,3,Sorcery,,False
+The Ur-Dragon,Deck,1,Exterminate!,90b540ab-b05a-4d29-b896-7ff5da0b101d,3.0,3,Sorcery,,False
+The Ur-Dragon,Deck,1,Farseek,495e52e6-4c2b-4574-9474-eadbdcc8b4ac,2.0,2,Sorcery,,False
+The Ur-Dragon,Deck,1,Kindred Charge,eb0b5b5f-54d3-49c6-9ad8-d44a5551acdb,6.0,6+,Sorcery,,False
+The Ur-Dragon,Deck,1,Kindred Dominance,ccaa44f2-96be-44e2-884f-c31baa3908d5,7.0,6+,Sorcery,,False
+The Ur-Dragon,Deck,1,Peer Pressure,bd6b02f9-277e-4f6a-b0a4-d893a939cf73,4.0,4,Sorcery,,False
+The Ur-Dragon,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+The Ur-Dragon,Deck,1,Firdoch Core,126c75c0-414b-4e55-8747-2b5566ce716f,3.0,3,Artifact,,False
+The Ur-Dragon,Deck,1,Maskwood Nexus,9b2cdbed-c733-409b-b0e4-2c8960c25111,4.0,4,Artifact,,False
+The Ur-Dragon,Deck,1,Mox Jasper,d5fca77c-377f-41b4-a9e9-e91a89d351cc,0.0,0-1,Artifact,,False
+The Ur-Dragon,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+The Ur-Dragon,Deck,1,Call the Spirit Dragons,3ceb23f5-abb1-4569-a1e4-1eed9a9babcf,5.0,5,Enchantment,,False
+The Ur-Dragon,Deck,1,Kindred Discovery,005ee549-1bf5-478f-bc3f-3e791bd7eecf,5.0,5,Enchantment,,False
+The Ur-Dragon,Deck,1,Liliana's Contract,6858702a-e563-4dcb-a50d-65406cea7c86,5.0,5,Enchantment,,False
+The Ur-Dragon,Deck,1,Abundant Countryside,e3eb6f90-ccfc-41e7-bff6-0b378226bc7e,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Bayou,b76d1ae6-ad1d-4bac-b4c3-2e03e0e84d9b,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Blood Crypt,43985bbc-a0f6-4812-984e-392bc8562633,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Bloodstained Mire,fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57,0.0,,Land,,False
+The Ur-Dragon,Deck,1,City of Brass,f25351e3-539b-4bbc-b92d-6480acf4d722,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Flooded Strand,f3c7af78-a77d-4134-82a2-a5ce84285a84,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Haven of the Spirit Dragon,acc9c16a-5e72-43bd-87e1-56a16aa892f5,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Indatha Triome,ec2b3779-55f7-4169-aa66-6312fb52721f,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Ketria Triome,6bae00e8-06cf-4ac4-a1cc-757e454109fe,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Maelstrom of the Spirit Dragon,49e9fba7-8465-4bbb-95db-73a7e149f494,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Mana Confluence,d0ee5bdc-2b69-4b73-9a20-ffcc18783b29,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Marsh Flats,dab520d0-20b4-4273-ba6b-eb07f85ea433,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Mutavault,6b3cc59a-7ea5-4eb5-9bf9-5a9c07f80e2b,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Plateau,c7a15ca4-085f-4d92-8387-c3711c04c8fa,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Raffine's Tower,6e9ef5ef-6aed-4d3e-a59b-9e3dc8740b1b,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Reflecting Pool,67f43ac6-2a58-4b53-b5d7-0330e2a252e2,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Scalding Tarn,cb027150-848c-4a66-88ad-e20222304dd8,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Scattered Groves,3c87ea85-ca29-45a7-b5b2-758c62898b0a,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Scrubland,c8d95ca8-7d12-4072-aeaf-e20f248c7e39,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Taiga,22e3cf1d-3559-4ce1-954c-8dc815342979,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Temple of Mystery,7e26f0b7-20e6-46d5-8130-d98c14d6aa29,0.0,,Land,,False
+The Ur-Dragon,Deck,1,The World Tree,3437d504-bf62-4c27-b15f-f6330182ff7e,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Tropical Island,74b7fe23-5d3a-4092-8d78-7c0eba8f6f73,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Tundra,02418479-9455-417f-a6a1-004356faff37,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Underground Sea,4b22be3a-8ce1-47d1-b82e-6c3ccfb0548b,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Verdant Catacombs,67d60b24-d429-4ded-90d9-06e49f28c396,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Volcanic Island,c718911c-c955-4eb9-9e16-be4bd49a4e4e,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Watery Grave,fc9ec820-4245-4a96-b009-5308a818ca58,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Wooded Foothills,6587a463-a108-4854-b6d1-944e89b8c8a4,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Zagoth Triome,fdd46004-eaba-4024-8687-39b23dc6a58c,0.0,,Land,,False
+The Ur-Dragon,Deck,1,Ziatora's Proving Ground,f7e7b78c-c769-4720-8585-1874773eb342,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Commander,1,"Atraxa, Praetors' Voice",7e6b9b59-cd68-4e3c-827b-38833c92d6eb,4.0,,Creature,Angel; Horror; Phyrexian,False
+"Atraxa, Praetors' Voice",Deck,1,Deepglow Skate,debce64a-18bd-42f5-9e85-158c2242e9e9,5.0,5,Creature,Fish,False
+"Atraxa, Praetors' Voice",Deck,1,Eternal Witness,30b24e8e-3b0e-4d8e-90f3-f66eb7c1858c,3.0,3,Creature,Human; Shaman,False
+"Atraxa, Praetors' Voice",Deck,1,Evolution Sage,b45fdeab-00cc-4422-af9f-66f30a880a7c,3.0,3,Creature,Druid; Elf,False
+"Atraxa, Praetors' Voice",Deck,1,Flux Channeler,83874e60-291b-47a7-ba9f-69437fa7e3c7,3.0,3,Creature,Human; Wizard,False
+"Atraxa, Praetors' Voice",Deck,1,"Pir, Imaginative Rascal",7683c2b2-a06f-4691-9cc5-1968dc032885,3.0,3,Creature,Human,False
+"Atraxa, Praetors' Voice",Deck,1,"Shalai, Voice of Plenty",a0c47ab6-dfb4-46ee-a3f7-9e1521b4bb4b,4.0,4,Creature,Angel,False
+"Atraxa, Praetors' Voice",Deck,1,Spark Double,8dcb35e5-ae44-455f-86e3-4a77d496ff34,4.0,4,Creature,Illusion,False
+"Atraxa, Praetors' Voice",Deck,1,"Tekuthal, Inquiry Dominus",4716ab91-30e6-4c63-8389-a9db8f9414d8,4.0,4,Creature,Horror; Phyrexian,False
+"Atraxa, Praetors' Voice",Deck,1,"Vorinclex, Monstrous Raider",5a3fdf5a-bff8-4896-b288-3f43f9a72d9b,6.0,6+,Creature,Phyrexian; Praetor,False
+"Atraxa, Praetors' Voice",Deck,1,Anguished Unmaking,ad09b3c3-c8e7-481c-8c45-e7f234935117,3.0,3,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Arcane Denial,ab1cc360-b9de-48d9-9983-4dfe4a7d2a37,2.0,2,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Counterspell,cc187110-1148-4090-bbb8-e205694a39f5,2.0,2,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Cyclonic Rift,d75b9c82-1b49-4c3e-a1b5-aeef57d6644b,2.0,2,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Dissipate,4b2e9aa9-6f91-41de-84b6-e9a89be06a53,3.0,3,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Fuel for the Cause,667cffdd-8951-4223-8895-fa46e9f14b96,4.0,4,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Path to Exile,d683d985-9888-4d21-8b5f-69e69ce4a03b,1.0,0-1,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Semester's End,3aeba3c2-5517-4870-8802-29b0fa70ffae,4.0,4,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Utter End,cba94732-1f1f-4ffd-9aba-45db990043fa,4.0,4,Instant,,False
+"Atraxa, Praetors' Voice",Deck,1,Contentious Plan,2fc6de19-9d04-422b-90bc-eee2f9f8c84c,2.0,2,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Cultivate,8b755881-a72d-4e21-a369-d2924eb4585a,3.0,3,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Farseek,495e52e6-4c2b-4574-9474-eadbdcc8b4ac,2.0,2,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Kodama's Reach,1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90,3.0,3,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Merciless Eviction,3c8d4999-e18b-48d8-8ed9-f2feaa38300d,6.0,6+,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Primevals' Glorious Rebirth,8de8027b-072a-474b-b76b-dc49c417cc55,7.0,6+,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Tezzeret's Gambit,b33d2b77-f068-4fdc-a1a8-0353a35e3973,4.0,4,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Toxic Deluge,afaef788-34d1-460b-b884-9d7ae6ddeb18,3.0,3,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Urza's Ruinous Blast,978e0d87-3ff2-4a73-916c-ff0dc0ab2797,5.0,5,Sorcery,,False
+"Atraxa, Praetors' Voice",Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Astral Cornucopia,1bc42024-52da-4d93-8b47-544f0a4a72a1,0.0,0-1,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Chromatic Lantern,539f5396-d99a-417d-a84c-dff7930b5900,3.0,3,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Commander's Sphere,0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b,3.0,3,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Contagion Engine,482bd55a-ba73-4722-8643-94fa12818515,6.0,6+,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Everflowing Chalice,0a79237e-0811-4a8a-bd4d-db3ca91bff22,0.0,0-1,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Ichormoon Gauntlet,9fc7aba7-eda2-4134-9c10-31ee35201b72,3.0,3,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Norn's Annex,9a1fbe72-4a17-42be-8e23-d7d30a5e59c1,5.0,5,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Replicating Ring,1ff00f5b-4bf9-4724-8bb5-6b9a9eb0ec7f,3.0,3,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,The Chain Veil,fb88fb3d-6a85-4bb1-b316-7f759b45a0fa,4.0,4,Artifact,,False
+"Atraxa, Praetors' Voice",Deck,1,Archmage Ascension,5966c464-5f63-4c71-9317-e2ca79da5aba,3.0,3,Enchantment,,False
+"Atraxa, Praetors' Voice",Deck,1,Consulate Crackdown,128f7e5a-17e0-4069-a185-c9f874c7d234,5.0,5,Enchantment,,False
+"Atraxa, Praetors' Voice",Deck,1,Ghostly Prison,e828b189-0e8f-43b8-b909-4c23e742e028,3.0,3,Enchantment,,False
+"Atraxa, Praetors' Voice",Deck,1,Inexorable Tide,40ec0a47-badf-4074-b0a8-749bb7c17b95,5.0,5,Enchantment,,False
+"Atraxa, Praetors' Voice",Deck,1,Oath of Nissa,c4efdbab-711d-4269-9b24-b05d36f7e5c7,1.0,0-1,Enchantment,,False
+"Atraxa, Praetors' Voice",Deck,1,Oath of Teferi,ee00a42d-6ee4-4e46-92d6-62e8e5910880,5.0,5,Enchantment,,False
+"Atraxa, Praetors' Voice",Deck,1,"Ajani, Sleeper Agent",37714eb9-a39d-4534-a2d3-27908c418f8a,4.0,4,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Ashiok, Dream Render",93723b12-db34-4047-885e-8606415b1553,3.0,3,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Elspeth, Knight-Errant",eab0d8b9-c66f-402f-b259-f46f15cefd78,4.0,4,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Elspeth, Sun's Champion",05e6b243-48a6-4a42-bc5f-413441de9c33,6.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Garruk, Apex Predator",ef9a8bdc-3361-440d-89f6-0bf5ff7a09e8,7.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Kasmina, Enigmatic Mentor",df561b38-fe2a-4db9-a9d4-ec25b1c7572a,4.0,4,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,Kaya the Inexorable,13a4f88b-6832-43a1-b4fa-c1ee60560bad,5.0,5,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,Narset Transcendent,e1de0c94-0ecc-425a-9b92-27c2745d07e7,4.0,4,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Narset, Parter of Veils",ab26fbe2-e808-48b9-8d0d-3fbb6c3d554f,3.0,3,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Oko, Thief of Crowns",60c60923-ff1b-43f7-8768-731499fcffc9,3.0,3,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Sorin, Grim Nemesis",0a01dd05-e289-489f-b3ad-88e15e157bd0,6.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Tamiyo, Field Researcher",9cf99129-f51a-4418-a8cc-8ca2992b17fa,4.0,4,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Tamiyo, the Moon Sage",f88be051-36ae-407e-bd5a-2b029c26414e,5.0,5,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Teferi, Hero of Dominaria",f2f165b6-ef0a-42ad-9352-ba68be8248b0,5.0,5,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,The Eternal Wanderer,20a1671d-e8a4-4cf1-87a7-f2f6319f4b9e,6.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,The Wanderer,4c2196e5-6ed7-4cd2-b8e7-f01aff236569,4.0,4,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Ugin, the Spirit Dragon",eecb3047-a563-441a-9175-200421981ac3,8.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Vraska, Betrayal's Sting",05d09c55-f551-4cb4-a8d2-4811dccc848d,6.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,"Vraska, Relic Seeker",3c037103-5af0-40a8-bbbe-7f3f5958b6e9,6.0,6+,Planeswalker,,False
+"Atraxa, Praetors' Voice",Deck,1,Arcane Sanctum,7d7cf15c-06b9-4062-a1eb-32614c458a3b,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Ash Barrens,58257464-278e-45fa-8e0b-bcd9a7500bc1,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Azorius Chancery,189fc8f4-17ac-4f1d-82c8-8401445bdaf4,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Darkbore Pathway,868e6e68-4367-4073-a864-235d5961ae56,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Dimir Aqueduct,378a1d57-e2f1-4b84-9692-1564602e9e99,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Evolving Wilds,a75445d3-1303-4bb5-89ad-26ea93fecd48,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Fabled Passage,0c85b8f7-0bd0-4680-9ec5-d4b110460a54,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Field of Ruin,f825c98f-a327-440b-8c0d-ebe02e23bfb7,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,2,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Golgari Rot Farm,1b301478-b14f-4ef8-94e6-9647d582eabe,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Hengegate Pathway,461b3f2f-fcee-4160-abfa-061f8b6a784f,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Interplanar Beacon,073169f2-da3a-4a93-8c01-b3fd8558d225,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,4,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Karn's Bastion,9fb8cd81-403a-4988-8f1c-b8eccf8abd9c,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Murmuring Bosk,42b9d383-3fe2-4fc8-ab86-f80a288d502b,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Opulent Palace,f9e7e855-1e3b-42d3-91b0-64ba8b5b8982,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Orzhov Basilica,aa00ae0b-7c0f-427e-8102-ce0e2a6af5df,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,4,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Reliquary Tower,c23e5b80-08d2-4e24-9908-fe2aa4f30f6f,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Sandsteppe Citadel,544dbabd-cbfc-40da-a5ba-2fea9cddb453,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Seaside Citadel,2ae77795-6a80-498b-bf69-6fd612f601e4,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,2,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Temple of Deceit,33b9b3bd-33ca-46f3-b8bb-a978bc3d1085,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Temple of Plenty,e521322b-0e83-458c-8936-7021a80ee279,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Temple of the False God,cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df,0.0,,Land,,False
+"Atraxa, Praetors' Voice",Deck,1,Underground River,857febd9-cdd7-4f8e-a852-d88084b0cfbc,0.0,,Land,,False
+"Krenko, Mob Boss",Commander,1,"Krenko, Mob Boss",68418069-f615-40ef-ae0d-764192acae00,4.0,,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Battle Squadron,5783e71e-2497-4241-9d1a-8bced4745b1d,5.0,5,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Beetleback Chief,f5c5f64c-6911-430c-a825-b32b96d39c7d,4.0,4,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Boggart Forager,cef9e0d3-5e28-4c5f-88fc-0d78af5a4db1,1.0,0-1,Creature,Goblin; Rogue,False
+"Krenko, Mob Boss",Deck,1,Clamor Shaman,7fd2dcb2-760d-461d-8e5b-693aacf548cf,3.0,3,Creature,Goblin; Shaman,False
+"Krenko, Mob Boss",Deck,1,Crazed Goblin,fafe2d90-e5fc-401a-a971-829192bec6c0,1.0,0-1,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Foundry Street Denizen,e8148616-9f0b-4d4e-8d6d-18251a84e5e8,1.0,0-1,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Frenzied Goblin,6ac470a1-c2be-4971-a5ca-10bb189ebe4d,1.0,0-1,Creature,Berserker; Goblin,False
+"Krenko, Mob Boss",Deck,1,Goatnapper,6875839a-9815-4ed2-adcf-b4d097c9bafd,3.0,3,Creature,Goblin; Rogue,False
+"Krenko, Mob Boss",Deck,1,Goblin Arsonist,c1177f22-a1cf-4da3-a68d-ff954e878403,1.0,0-1,Creature,Goblin; Shaman,False
+"Krenko, Mob Boss",Deck,1,Goblin Assassin,faf9bb36-e537-42a8-b9ee-bf2c50b0e5bd,5.0,5,Creature,Assassin; Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Banneret,a2d9554e-70c0-4213-ba5e-f0954ad32854,1.0,0-1,Creature,Goblin; Soldier,False
+"Krenko, Mob Boss",Deck,1,Goblin Bird-Grabber,780f8be6-d477-43ca-92ba-0fe480bbd54d,2.0,2,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Champion,414446e7-44fa-455c-8cf4-8afa170b6586,1.0,0-1,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Goblin Chieftain,368b4052-174e-4458-a6e6-eaf8093aa0fe,3.0,3,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Cohort,88f9a7e3-0b35-43e4-b16a-19c54a1e4e2c,1.0,0-1,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Goblin Cratermaker,1962d9b3-f057-4d2c-9c5b-386d9a66148a,2.0,2,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Goblin King,d236b3fc-0d3f-4d99-875d-e32a33fe5767,3.0,3,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Lookout,e4ac0c25-cdfa-49a4-9b2c-b848f50c604d,2.0,2,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Matron,145737a7-c597-4dec-b752-207c2d0501e3,3.0,3,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Motivator,df67597f-42a8-4fa7-b426-d7db8b384445,1.0,0-1,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Goblin Ringleader,4100e486-0d27-436c-8429-76bc2c1a26ab,4.0,4,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Shortcutter,29863706-fa4e-49ed-9f40-69ae503abba3,2.0,2,Creature,Goblin; Scout,False
+"Krenko, Mob Boss",Deck,1,Goblin Sledder,ae93292a-458a-441b-a7de-4b10f0d20cc0,1.0,0-1,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Smuggler,eae15f7d-1f6e-4dfc-afea-7698b93cd145,3.0,3,Creature,Goblin; Rogue,False
+"Krenko, Mob Boss",Deck,1,Goblin Taskmaster,64fddd5e-06e4-4d54-9ea6-0c9b82f3b153,1.0,0-1,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Goblin Trailblazer,38f66ef9-6afc-478b-a1d4-a9d42c31dfc9,2.0,2,Creature,Goblin; Pirate,False
+"Krenko, Mob Boss",Deck,1,Goblin Trashmaster,0283bf5e-ddf2-4a4a-a7cf-d3e27eed7e7d,4.0,4,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Goblin Warchief,39882df0-c20f-469d-94ba-1617224e71a1,3.0,3,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Goblin Wardriver,10849bbb-50ca-4194-a7cb-fa872272b29b,2.0,2,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Howlsquad Heavy,cd45a29f-73bc-435c-9d50-09a4ecaa77be,3.0,3,Creature,Goblin; Mercenary,False
+"Krenko, Mob Boss",Deck,1,Keldon Overseer,1b1dc78b-0102-49d6-8e54-89bc18a1628f,3.0,3,Creature,Human; Warrior,False
+"Krenko, Mob Boss",Deck,1,"Krenko, Tin Street Kingpin",e8065e1d-e937-4b56-8011-78f0d07328a0,3.0,3,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Magmaw,bc891258-2f22-4248-9972-4f41905744c6,5.0,5,Creature,Elemental,False
+"Krenko, Mob Boss",Deck,1,"Marvin, Murderous Mimic",22f0dbbb-9d8d-42bc-8903-fc0b65e00952,2.0,2,Artifact; Creature,Toy,False
+"Krenko, Mob Boss",Deck,1,Mogg Flunkies,b92fc9c1-7264-4894-90b8-a193039489c5,2.0,2,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Mogg War Marshal,7b8f4879-578e-40e4-863a-41d0c32c6bdd,2.0,2,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Mudbutton Clanger,b57e13ac-12fc-4b6a-9ca4-3ffb60c6b6ad,1.0,0-1,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Ogre Battledriver,c834c4b5-c122-4c63-81c7-884ca4c0dc3b,4.0,4,Creature,Ogre; Warrior,False
+"Krenko, Mob Boss",Deck,1,Pashalik Mons,bdb94ccd-1bb5-4bb7-9539-e1b1c97c19c5,3.0,3,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Siege-Gang Commander,ddc7f59a-bbb1-4ba1-82c8-6813fd191940,5.0,5,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Skinbrand Goblin,2e1d5873-50e6-432a-b7a9-9f8d2632a0b9,2.0,2,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Skirk Prospector,c18013e4-0b99-44e3-a2b2-027ace68723a,1.0,0-1,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Skirk Shaman,78d5ce34-f160-4925-a4ce-25a3546d97c7,3.0,3,Creature,Goblin; Shaman,False
+"Krenko, Mob Boss",Deck,1,"Squee, the Immortal",481fb71a-11b9-462e-a4da-ca35ffd1bd22,3.0,3,Creature,Goblin,False
+"Krenko, Mob Boss",Deck,1,Subterranean Scout,19f66bfa-bdfc-430a-ae39-4535f0b28324,2.0,2,Creature,Goblin; Scout,False
+"Krenko, Mob Boss",Deck,1,Teeterpeak Ambusher,fe769071-3f99-411b-878a-57a2200649a0,2.0,2,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Tuktuk Rubblefort,48dab180-4ffd-4b39-9f5a-6bdc017a1eae,3.0,3,Creature,Wall,False
+"Krenko, Mob Boss",Deck,1,Volley Veteran,bf4268e6-170a-445b-b215-718f7494ae28,4.0,4,Creature,Goblin; Warrior,False
+"Krenko, Mob Boss",Deck,1,Weaselback Redcap,b14bd895-1d4e-4bd5-9ac1-fed56afb6c90,1.0,0-1,Creature,Goblin; Knight,False
+"Krenko, Mob Boss",Deck,1,Zada's Commando,d57d1988-5962-4df9-8342-cf04233fd6c7,2.0,2,Creature,Ally; Archer; Goblin,False
+"Krenko, Mob Boss",Deck,1,Battle Hymn,4b977117-741c-4157-8fcf-719e475a8a4c,2.0,2,Instant,,False
+"Krenko, Mob Boss",Deck,1,Bombard,c0899c12-5462-4ff1-a9e5-d99cffa7c6cc,3.0,3,Instant,,False
+"Krenko, Mob Boss",Deck,1,Brightstone Ritual,08e90e85-4103-4acb-a8a7-e1329b460aa7,1.0,0-1,Instant,,False
+"Krenko, Mob Boss",Deck,1,Burn at the Stake,eb23bbb0-dd12-44f1-8645-d92f46cbe8ff,5.0,5,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Direct Current,54e34440-c890-4a07-83c6-63a2f7a65639,3.0,3,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Dragon Fodder,d0d2c45b-b6e3-4999-bdab-976e8f0d6617,2.0,2,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Empty the Warrens,3a59c882-8bb8-49ba-862f-125020dd5bec,4.0,4,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Goblin Grenade,20aecb7b-7e37-4efe-ac27-f9f9042203f4,1.0,0-1,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Goblin Rally,9ccb6ce8-ccb6-4809-a1cc-cebd38744815,5.0,5,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Goblin War Party,fa4417e5-229a-4465-9bc5-0b3d6209b4a4,4.0,4,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Krenko's Command,9cfe86ae-eebe-44aa-a956-4b3e9e621105,2.0,2,Sorcery,,False
+"Krenko, Mob Boss",Deck,1,Goblin Charbelcher,c9b1557b-70b1-44f2-9fc2-7aa0b035b187,4.0,4,Artifact,,False
+"Krenko, Mob Boss",Deck,1,Boggart Shenanigans,997d2f38-5a50-451e-bd48-e36dcb24d967,3.0,3,Enchantment,,False
+"Krenko, Mob Boss",Deck,1,Quest for the Goblin Lord,2e19baba-2d66-4e3a-b2bf-cb27dce89f44,1.0,0-1,Enchantment,,False
+"Krenko, Mob Boss",Deck,1,Warstorm Surge,42fb1a1c-ab3d-4cdc-a6ff-a591f7481583,6.0,6+,Enchantment,,False
+"Krenko, Mob Boss",Deck,34,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+Vivi Ornitier,Commander,1,Vivi Ornitier,0452be2a-e97a-4269-a9e3-b616265ecb2e,3.0,,Creature,Wizard,False
+Vivi Ornitier,Deck,1,Abstract Paintmage,bc899d5c-0a91-4f19-a3e4-3078ae966110,3.0,3,Creature,Djinn; Sorcerer,False
+Vivi Ornitier,Deck,1,"Avatar Roku, Firebender",9eb9e4c1-fabf-45ff-a584-fbe4b94fb41c,6.0,6+,Creature,Avatar; Human,False
+Vivi Ornitier,Deck,1,Dragon's Rage Channeler,0c016ccc-a341-4b76-87ba-69c639d2746d,1.0,0-1,Creature,Human; Shaman,False
+Vivi Ornitier,Deck,1,Exalted Flamer of Tzeentch,6591a589-deb4-462f-a4f1-f6261f3433c3,4.0,4,Creature,Demon,False
+Vivi Ornitier,Deck,1,Gandalf the Grey,dfd12e3c-2b2a-4461-a08d-09d4e6c4626e,5.0,5,Creature,Avatar; Wizard,False
+Vivi Ornitier,Deck,1,Goblin Electromancer,81f06f84-1580-43c0-89d5-08d34541a519,2.0,2,Creature,Goblin; Wizard,False
+Vivi Ornitier,Deck,1,Guttersnipe,c6bdaf76-6a03-4695-9c4b-f040e73435af,3.0,3,Creature,Goblin; Shaman,False
+Vivi Ornitier,Deck,1,Harmonic Prodigy,2e2ace5b-4018-43af-8e72-ebafec1a7739,2.0,2,Creature,Human; Wizard,False
+Vivi Ornitier,Deck,1,Haughty Djinn,44036bb5-f300-40bd-9180-6b246315d886,3.0,3,Creature,Djinn,False
+Vivi Ornitier,Deck,1,"Hermes, Overseer of Elpis",63e2cba7-ec1a-44bf-b915-d2ae75851430,4.0,4,Creature,Elder; Wizard,False
+Vivi Ornitier,Deck,1,Hexing Squelcher,96c2d71e-0fc9-42aa-bc6b-6d0ae3f66f8b,2.0,2,Creature,Goblin; Sorcerer,False
+Vivi Ornitier,Deck,1,High Fae Trickster,28c1a4a0-f58c-4d07-a918-51ff8a74f050,4.0,4,Creature,Faerie; Wizard,False
+Vivi Ornitier,Deck,1,"Lier, Disciple of the Drowned",f224db3d-cdd2-43f2-b625-4b861efa6449,5.0,5,Creature,Human; Wizard,False
+Vivi Ornitier,Deck,1,"Longshot, Rebel Bowman",f93c3468-5b1d-4fa7-a281-1009ea0f2062,4.0,4,Creature,Ally; Human; Rebel,False
+Vivi Ornitier,Deck,1,Namor the Sub-Mariner,dff11626-ad4d-443a-b7db-f508790b5fd2,3.0,3,Creature,Merfolk; Mutant; Villain,False
+Vivi Ornitier,Deck,1,"Niv-Mizzet, Parun",33666a98-812f-4892-9f8d-33e0cbecc340,6.0,6+,Creature,Dragon; Wizard,False
+Vivi Ornitier,Deck,1,"Niv-Mizzet, Visionary",d9f1dc61-831e-4244-a2da-aa9da6fd5b50,6.0,6+,Creature,Dragon; Wizard,False
+Vivi Ornitier,Deck,1,"Prismari, the Inspiration",258f5045-3aa7-4b95-a15f-3172577294a8,7.0,6+,Creature,Dragon; Elder,False
+Vivi Ornitier,Deck,1,Quantum Riddler,58582fac-4c42-4a1c-9ab1-4a892b500da4,5.0,5,Creature,Sphinx,False
+Vivi Ornitier,Deck,1,Quicksilver Elemental,c88e3aff-c539-4e8b-8ee1-a43b3d0962b4,5.0,5,Creature,Elemental,False
+Vivi Ornitier,Deck,1,"Rionya, Fire Dancer",be4f47e9-1bd2-4aa9-bc85-3f203ad21639,5.0,5,Creature,Human; Wizard,False
+Vivi Ornitier,Deck,1,"Rootha, Mastering the Moment",348c67ef-9ccc-4651-9038-efdf1ad1b36a,4.0,4,Creature,Orc; Sorcerer,False
+Vivi Ornitier,Deck,1,"Talrand, Sky Summoner",ea1eb902-a23c-44ff-9169-19baf71de238,4.0,4,Creature,Merfolk; Wizard,False
+Vivi Ornitier,Deck,1,"Tellah, Great Sage",1a080b26-c766-4f7c-9198-4974d2133f75,5.0,5,Creature,Human; Wizard,False
+Vivi Ornitier,Deck,1,The Emperor of Palamecia,042c01ec-9f1f-432b-bea9-d64d822cd91e,2.0,2,Creature,Human; Noble; Wizard,False
+Vivi Ornitier,Deck,1,Twinflame Tyrant,321b5cc6-8df6-4292-97a0-a6a3a22f3b55,5.0,5,Creature,Dragon,False
+Vivi Ornitier,Deck,1,"Veyran, Voice of Duality",d57a6b19-bd06-4b07-8ee1-0b45612ba9e4,3.0,3,Creature,Efreet; Wizard,False
+Vivi Ornitier,Deck,1,Aetherize,7c779721-cd1b-4696-9ae9-68ccc284ed2a,4.0,4,Instant,,False
+Vivi Ornitier,Deck,1,An Offer You Can't Refuse,234a734b-ba28-4f1b-9d01-3c3e7d516590,1.0,0-1,Instant,,False
+Vivi Ornitier,Deck,1,Counterspell,cc187110-1148-4090-bbb8-e205694a39f5,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Cryptic Command,a3e51a35-09df-4189-b131-08a21e6a557d,4.0,4,Instant,,False
+Vivi Ornitier,Deck,1,Cyclonic Rift,d75b9c82-1b49-4c3e-a1b5-aeef57d6644b,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Deflecting Swat,ae120613-97d6-4393-b39d-c3e6c076f5d6,3.0,3,Instant,,False
+Vivi Ornitier,Deck,1,Essence Scatter,46665089-aa3d-44c3-964d-6638dfbb5782,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Fire Magic,c87db803-3490-41bc-af7a-78f99bcd77c8,1.0,0-1,Instant,,False
+Vivi Ornitier,Deck,1,Flashback,02070488-9203-4304-9392-a111d20218c5,1.0,0-1,Instant,,False
+Vivi Ornitier,Deck,1,Lightning Bolt,4457ed35-7c10-48c8-9776-456485fdf070,1.0,0-1,Instant,,False
+Vivi Ornitier,Deck,1,Muddle the Mixture,0826cf7d-7ccc-459b-a92f-29dc169628f8,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Mystical Tutor,fb81f95c-70f8-4eb7-8d15-15d0ae23ec03,1.0,0-1,Instant,,False
+Vivi Ornitier,Deck,1,Negate,3407fe41-fdd3-4119-8f70-4bc4590a379f,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Swan Song,8ddfc283-c9b4-41a5-af88-cf0068e986cc,1.0,0-1,Instant,,False
+Vivi Ornitier,Deck,1,Traumatic Critique,06c1f8a4-4948-435b-ae98-b1276b57e958,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Vivi's Persistence,fd4a1f4b-674d-41f3-a9a6-c2b65bf5c1ab,2.0,2,Instant,,False
+Vivi Ornitier,Deck,1,Blasphemous Act,7a2484a9-04fd-41a0-8224-610c1c07ed10,9.0,6+,Sorcery,,False
+Vivi Ornitier,Deck,1,Boltwave,bb8cccc8-e56f-42fa-a0d7-fc889b5e1c7b,1.0,0-1,Sorcery,,False
+Vivi Ornitier,Deck,1,Expropriate,a69265b2-0e37-4d86-866e-e4a923233b4d,9.0,6+,Sorcery,,False
+Vivi Ornitier,Deck,1,Insurrection,7f7c204f-be1a-47e4-91c6-ba6f906d9012,8.0,6+,Sorcery,,False
+Vivi Ornitier,Deck,1,Jeska's Will,0fd114c4-092b-4e28-b0dc-ef529f3bc73e,3.0,3,Sorcery,,False
+Vivi Ornitier,Deck,1,Mathemagics,5f56a303-b3da-41df-a959-7823a87ee60c,2.0,2,Sorcery,,False
+Vivi Ornitier,Deck,1,Sea Gate Restoration,4a8d41fe-e04d-484b-a7d1-19be311e6ca7,7.0,6+,Sorcery,,True
+Vivi Ornitier,Deck,1,Seize the Spotlight,3d1b09a3-f151-4218-974b-02bb6159247a,3.0,3,Sorcery,,False
+Vivi Ornitier,Deck,1,Vandalblast,3567c3c8-b3c7-45b7-935b-b1fdbc973720,1.0,0-1,Sorcery,,False
+Vivi Ornitier,Deck,1,Wheel of Fortune,a8abd966-de7b-46a3-8ac7-8747ab35653a,3.0,3,Sorcery,,False
+Vivi Ornitier,Deck,1,Windfall,08becc07-28bc-4a2f-a6b0-28a2998d2f50,3.0,3,Sorcery,,False
+Vivi Ornitier,Deck,1,Glasses of Urza,af7fabf4-8d55-4b06-9c21-472f4a5775b4,1.0,0-1,Artifact,,False
+Vivi Ornitier,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Vivi Ornitier,Deck,1,Swiftfoot Boots,c8b143ad-43ec-4e0d-a440-e348daa31391,2.0,2,Artifact,,False
+Vivi Ornitier,Deck,1,Sword of Wealth and Power,b3a80545-9a8a-46b2-9d8c-b0d66fb68a5d,3.0,3,Artifact,,False
+Vivi Ornitier,Deck,1,Artist's Talent,ea734863-5793-49d6-b10e-109432aec0a3,2.0,2,Enchantment,,False
+Vivi Ornitier,Deck,1,Mystic Remora,8a52f3c0-2552-4425-b2e3-5496eb2232a7,1.0,0-1,Enchantment,,False
+Vivi Ornitier,Deck,1,Rhystic Study,53236dd7-845a-444c-96d5-f41ed7325d8f,3.0,3,Enchantment,,False
+Vivi Ornitier,Deck,1,Rite of the Dragoncaller,5097f4e6-50af-4641-909f-db44abf0ce32,6.0,6+,Enchantment,,False
+Vivi Ornitier,Deck,1,Shark Typhoon,8c0520fa-276b-4d21-b4a9-dce1fce59f6b,6.0,6+,Enchantment,,False
+Vivi Ornitier,Deck,1,"Chandra, Chill of Compliance",c3dfa1e2-6785-49a0-a194-fb842a8eb63c,3.0,3,Planeswalker,,False
+Vivi Ornitier,Deck,1,"Chandra, Flame's Catalyst",7721e800-fba6-4ae7-855e-631b2ecc8d6b,6.0,6+,Planeswalker,,False
+Vivi Ornitier,Deck,1,Fiery Islet,026f4a4b-eedd-44e1-9d37-ca4fb8d6db98,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Great Hall of the Biblioplex,a8c70dab-1e27-4a9c-bd2d-910d5720d02d,0.0,,Land,,False
+Vivi Ornitier,Deck,10,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+Vivi Ornitier,Deck,10,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Rivendell,2550099d-b3e2-4eb6-9f36-0fc412828ca6,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Riverpyre Verge,510a6ac5-f098-4145-ac07-771b1b6f7cdf,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Rogue's Passage,f29dc596-2121-4421-8463-15f6c2e8b9b3,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Scalding Tarn,cb027150-848c-4a66-88ad-e20222304dd8,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Shivan Reef,0fe16212-66c3-4e45-a641-7391e9b2e304,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Spirebluff Canal,eb0d8093-5f93-4b25-9384-08f9731bfb28,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Steam Vents,17039058-822d-409f-938c-b727a366ba63,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Stormcarved Coast,4722105b-0085-4bb8-bca1-9de0d3eb5600,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Sulfur Falls,6a6c5e17-6465-4a1f-9d63-8a3ce2edc522,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Temple of Epiphany,79f94050-d850-41ca-b1db-5ae0cf743f0a,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Training Center,e3570ac7-c593-40e3-bbd6-ec3da6d8158d,0.0,,Land,,False
+Vivi Ornitier,Deck,1,Wandering Fumarole,741c51f1-cfbe-4c29-ac8f-ca6bcd2652f9,0.0,,Land,,False
+"Sauron, the Dark Lord",Commander,1,"Sauron, the Dark Lord",9f8f29ba-7e64-455d-be05-ec7973f2bd0a,6.0,,Creature,Avatar; Horror,False
+"Sauron, the Dark Lord",Deck,1,Bolg's Company,fa602f8f-1d80-4f6d-8b8f-d1a1f36037bd,2.0,2,Creature,Goblin; Soldier,False
+"Sauron, the Dark Lord",Deck,1,"Bolg, Erebor's Reckoning",eab096fd-a7e2-4b96-99ec-1039d3a552f3,6.0,6+,Creature,Goblin; Soldier,False
+"Sauron, the Dark Lord",Deck,1,Bothersome Noisemaker,978e07fd-8b8c-4eab-850e-e4c0e712251e,2.0,2,Creature,Bard; Goblin,False
+"Sauron, the Dark Lord",Deck,1,Corsairs of Umbar,edc74fb9-a368-4f73-8147-f318a32a3d06,4.0,4,Creature,Human; Pirate,False
+"Sauron, the Dark Lord",Deck,1,Dunland Crebain,9dd755a5-0bef-4bde-92fa-14ef2a1a1410,3.0,3,Creature,Bird; Horror,False
+"Sauron, the Dark Lord",Deck,1,Fearsome Goblin Pair,edbd3d4e-78a2-4c03-936d-dcb24cf7c87c,3.0,3,Creature,Goblin; Soldier,False
+"Sauron, the Dark Lord",Deck,1,"Gothmog, Morgul Lieutenant",f3817f63-7bde-46c5-93cb-b4756f5f821e,4.0,4,Creature,Human; Soldier,False
+"Sauron, the Dark Lord",Deck,1,"Great Goblin, Foul-Hearted",080f504f-20c8-4975-837c-d704e879d7f5,5.0,5,Creature,Goblin; Noble,False
+"Sauron, the Dark Lord",Deck,1,"Grishnákh, Brash Instigator",1f139012-fa71-4f5f-8c57-6847bff95678,3.0,3,Creature,Goblin; Soldier,False
+"Sauron, the Dark Lord",Deck,1,Lord of the Nazgûl,2e94bfb2-9f7d-43af-8995-6cd5ffb15b21,5.0,5,Creature,Noble; Wraith,False
+"Sauron, the Dark Lord",Deck,1,Massacre Wurm,93cf50cf-0ecc-4d3e-abea-778c1ebacec4,6.0,6+,Creature,Phyrexian; Wurm,False
+"Sauron, the Dark Lord",Deck,1,"Mauhúr, Uruk-hai Captain",9966cac0-331f-4627-be5a-5060a6ac5a32,2.0,2,Creature,Orc; Soldier,False
+"Sauron, the Dark Lord",Deck,1,Moria Scavenger,a598e824-ad8e-4947-896b-70c5275b615a,3.0,3,Creature,Orc; Rogue,False
+"Sauron, the Dark Lord",Deck,1,Nazgûl,48a62778-7c11-486f-a0e1-020c283a7ef9,3.0,3,Creature,Knight; Wraith,False
+"Sauron, the Dark Lord",Deck,1,Nightscape Familiar,57296ea3-3c0d-49b7-bc08-0d0d8414e9ad,2.0,2,Creature,Zombie,False
+"Sauron, the Dark Lord",Deck,1,Orcish Siegemaster,d852099f-46c6-4676-860c-20a582f733d1,3.0,3,Creature,Orc; Soldier,False
+"Sauron, the Dark Lord",Deck,1,Ringwraiths,f09278dc-1e67-4cd8-977d-4b3b94430aac,6.0,6+,Creature,Knight; Wraith,False
+"Sauron, the Dark Lord",Deck,1,Saruman the White,8ba24644-8dff-4f1e-a96a-7361baf46b5a,5.0,5,Creature,Avatar; Wizard,False
+"Sauron, the Dark Lord",Deck,1,"Saruman, the White Hand",2bade11e-04e0-42a2-8861-9257c99a7c08,4.0,4,Creature,Avatar; Wizard,False
+"Sauron, the Dark Lord",Deck,1,"Sauron, Lord of the Rings",69c674c7-48a5-49c8-b0be-3f2b5c6a548c,8.0,6+,Creature,Avatar; Horror,False
+"Sauron, the Dark Lord",Deck,1,"Sauron, the Necromancer",8dcd7e2b-75a9-476a-a0a0-798613e8dad6,5.0,5,Creature,Avatar; Horror,False
+"Sauron, the Dark Lord",Deck,1,The Great Goblin,83dcfac0-6efd-4e37-9402-15f9889e84e1,3.0,3,Creature,Goblin; Noble,False
+"Sauron, the Dark Lord",Deck,1,The Walls of Ba Sing Se,af7d7da5-aff5-48e1-901a-f81257a85f71,8.0,6+,Artifact; Creature,Wall,False
+"Sauron, the Dark Lord",Deck,1,Witch-king of Angmar,2eb1b429-8d11-42f3-8815-5a60b6a4e2d5,5.0,5,Creature,Noble; Wraith,False
+"Sauron, the Dark Lord",Deck,1,Cryptic Command,a3e51a35-09df-4189-b131-08a21e6a557d,4.0,4,Instant,,False
+"Sauron, the Dark Lord",Deck,1,Glorious Gale,858265c2-6415-4938-a6ec-734d53046100,2.0,2,Instant,,False
+"Sauron, the Dark Lord",Deck,1,Negate,3407fe41-fdd3-4119-8f70-4bc4590a379f,2.0,2,Instant,,False
+"Sauron, the Dark Lord",Deck,1,Orcish Medicine,2f9a5e7c-f463-4773-bf67-a07339ce9b5d,2.0,2,Instant,,False
+"Sauron, the Dark Lord",Deck,1,Saruman's Trickery,1b415806-a3e3-4d87-b4c1-ccd11a8ee589,3.0,3,Instant,,False
+"Sauron, the Dark Lord",Deck,1,Thrill of Possibility,1cb0610b-a731-42c2-b93f-0a29f63cebf4,2.0,2,Instant,,False
+"Sauron, the Dark Lord",Deck,1,Assault on Osgiliath,d2aa50d2-d22d-495e-afc9-23a51c8c8f32,3.0,3,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Bone Shards,6e760cfe-45b9-4a3f-b2e2-4ca6ec2bd13a,1.0,0-1,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Breaking of the Fellowship,96e081d2-ec72-41fc-ad81-2e31ab823ae0,2.0,2,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Extract from Darkness,e597d8a1-3bbc-4001-b642-f4421447970f,5.0,5,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Foray of Orcs,60bfcaef-9014-4707-b681-cc3920bf223e,4.0,4,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Gathering of Darkness,85e1556d-c4da-4979-a5db-4ce3842c7797,4.0,4,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Ringsight,66e42be3-5125-41b4-9efe-8a6a66899bb6,3.0,3,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Sam's Desperate Rescue,5a3336f1-614a-4b3f-8752-522a34d0417a,1.0,0-1,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Seismic Rupture,3b1f1a57-d83a-443f-b190-03df63d2bfe6,3.0,3,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Summons of Saruman,aede5485-7b8c-4e29-a3a4-9a3513dc733f,2.0,2,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Surrounded by Orcs,65c5e120-7a3d-475f-9bb2-8ddb5062e4ba,4.0,4,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Swarming of Moria,c96402dc-1509-4136-bbfd-c86a85e3ee6f,3.0,3,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Tidings of War,5753f4d6-08d0-4e12-85c5-875ee6441626,1.0,0-1,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Treason of Isengard,b04ef0bd-5e96-45d4-afa8-1f3bc8544e1a,3.0,3,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Wake the Dragon,cfa5b168-d112-4b92-ac42-8bba30f15d77,6.0,6+,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Zombify,bb95db4d-5017-4121-bf79-d68476602d8c,4.0,4,Sorcery,,False
+"Sauron, the Dark Lord",Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Commander's Sphere,0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b,3.0,3,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Forebear's Blade,f9af02f3-6ab1-469c-9d37-e8f6fa9608c4,3.0,3,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Gilded Lotus,9a02a9a7-39d9-4763-85d3-747a0540b60b,5.0,5,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Gilded Pinions,8a7c3718-74a1-4f26-8e06-0e17db4b0077,2.0,2,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Goblin Plate Mail,eda99a16-6a7c-4f39-8a6b-a284e6afd3fc,2.0,2,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Hedron Archive,32263baa-d3f0-463f-92b3-4e9938476add,4.0,4,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Izzet Signet,2fda4fe7-8b0c-489c-a000-6d358e614e34,2.0,2,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Nazgûl Battle-Mace,1ea3ba2d-e88f-4879-92f2-681637094b45,5.0,5,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Swiftfoot Boots,c8b143ad-43ec-4e0d-a440-e348daa31391,2.0,2,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,The Key to the Vault,7a75d565-b0a7-46bf-94a0-c9255c8abd6d,2.0,2,Artifact,,False
+"Sauron, the Dark Lord",Deck,1,Dreadhorde Invasion,01deabbb-af6a-4998-99a7-35b7cfa9ef77,2.0,2,Enchantment,,False
+"Sauron, the Dark Lord",Deck,1,Fiery Inscription,111889d4-bcca-4b1f-ad48-3077e2f5136f,3.0,3,Enchantment,,False
+"Sauron, the Dark Lord",Deck,1,Gratuitous Violence,7c340a39-4ee0-4ba1-bb66-6674f8020fda,5.0,5,Enchantment,,False
+"Sauron, the Dark Lord",Deck,1,In the Darkness Bind Them,c8689a83-cefa-4ef3-8ec1-58b4c64e332b,5.0,5,Enchantment,,False
+"Sauron, the Dark Lord",Deck,1,March from the Black Gate,9259e918-ace5-4f13-9035-d8bc8c820d25,2.0,2,Enchantment,,False
+"Sauron, the Dark Lord",Deck,1,There and Back Again,de4e5120-b958-4dcb-ad78-d0f726b7a881,5.0,5,Enchantment,,False
+"Sauron, the Dark Lord",Deck,1,Ash Barrens,58257464-278e-45fa-8e0b-bcd9a7500bc1,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Barad-dûr,88159872-d37d-4847-b048-e4a9af6437bd,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Crumbling Necropolis,7190debf-708b-4f41-9714-0d0a5bd5a74e,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Evolving Wilds,a75445d3-1303-4bb5-89ad-26ea93fecd48,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Foreboding Ruins,5c87e2fa-77f1-4978-b25f-f14d227301d1,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Goblin-town,98d20908-6d68-4d31-b719-207f93c9b402,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,6,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,6,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Port of Karfell,f500a8a4-6135-448c-9116-bd2695a72229,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Seething Landscape,2d8635bd-ed96-4bb1-8718-6962a0eee3d5,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,7,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Temple of Epiphany,79f94050-d850-41ca-b1db-5ae0cf743f0a,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Temple of the False God,cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,The Black Gate,40eb9904-dea3-47cf-963a-04821f98ba64,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Thriving Bluff,91fceb34-0f2d-4392-be27-00dcd765637f,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Thriving Isle,69fc70b8-b143-4662-ac95-e2743037239d,0.0,,Land,,False
+"Sauron, the Dark Lord",Deck,1,Thriving Moor,bff416bb-d193-4c45-b2c1-7c297dbfad08,0.0,,Land,,False
+"Teval, the Balanced Scale",Commander,1,"Teval, the Balanced Scale",c8cbf0ec-ec98-4cb3-8068-60e92bbd740d,4.0,,Creature,Dragon; Spirit,False
+"Teval, the Balanced Scale",Deck,1,"Amanda Grayson, Logic's Link",13d4a70f-c48c-4739-8f3e-5f0302c5484c,4.0,4,Creature,Advisor; Human,False
+"Teval, the Balanced Scale",Deck,1,Ancient Greenwarden,3bcf090c-e890-4a9f-a8aa-6079e4ec9947,6.0,6+,Creature,Elemental,False
+"Teval, the Balanced Scale",Deck,1,Avenger of Zendikar,4ba5b3f6-503b-43e6-b66e-4f8c55cffed7,7.0,6+,Creature,Elemental,False
+"Teval, the Balanced Scale",Deck,1,"Bristly Bill, Spine Sower",d3b2d8a2-d3bc-448c-9cf6-6bead6010c28,2.0,2,Creature,Druid; Plant,False
+"Teval, the Balanced Scale",Deck,1,Champion of Dusan,0a427652-9745-4802-8c8f-5ae29a29b496,3.0,3,Creature,Human; Warrior,False
+"Teval, the Balanced Scale",Deck,1,Colossal Clone Master,94fee2cf-7604-48fa-9d3c-03ca4af0edfd,6.0,6+,Creature,Giant,False
+"Teval, the Balanced Scale",Deck,1,Cultivator Colossus,4d8505d3-c8a1-4850-95d4-5ddb8ad49770,7.0,6+,Creature,Beast; Plant,False
+"Teval, the Balanced Scale",Deck,1,Dryad of the Ilysian Grove,bdbde5d0-f5e4-44da-b27c-b4ad6f374cc9,3.0,3,Creature; Enchantment,Dryad; Nymph,False
+"Teval, the Balanced Scale",Deck,1,"Emrakul, the Exigent Doom",4421ab7d-6d9b-4edd-b5a0-53a8ed84da6f,10.0,6+,Creature,Eldrazi,False
+"Teval, the Balanced Scale",Deck,1,Evolution Sage,b45fdeab-00cc-4422-af9f-66f30a880a7c,3.0,3,Creature,Druid; Elf,False
+"Teval, the Balanced Scale",Deck,1,Feral Deathgorger,1722f814-2d4e-4d59-9b74-10ef8e89def9,6.0,6+,Creature,Dragon,False
+"Teval, the Balanced Scale",Deck,1,Floral Evoker,4da17e9e-df3e-4c46-a0cf-baafbe67186f,3.0,3,Creature,Druid; Snake,False
+"Teval, the Balanced Scale",Deck,1,Hedron Crab,7216f974-3c84-40ef-b904-82019900c204,1.0,0-1,Creature,Crab,False
+"Teval, the Balanced Scale",Deck,1,Icetill Explorer,109cdefd-e8cc-4ac7-b6ba-2cfdef8d780f,4.0,4,Creature,Insect; Scout,False
+"Teval, the Balanced Scale",Deck,1,"Jarad, Golgari Lich Lord",87e65e36-9483-49fe-b644-2caca092107f,4.0,4,Creature,Elf; Zombie,False
+"Teval, the Balanced Scale",Deck,1,Loaming Shaman,cf7352bf-3971-4bb7-88b9-65ab9a219289,3.0,3,Creature,Centaur; Shaman,False
+"Teval, the Balanced Scale",Deck,1,Lotus Cobra,8ad91f64-ccab-4edc-bd54-b2ee9267d614,2.0,2,Creature,Snake,False
+"Teval, the Balanced Scale",Deck,1,Meren of Clan Nel Toth,0310dfdb-0498-488d-9f1a-279f8239e024,4.0,4,Creature,Human; Shaman,False
+"Teval, the Balanced Scale",Deck,1,"Ob Nixilis, the Fallen",154104b7-4125-4276-8bc7-9a6edfe48cb9,5.0,5,Creature,Demon,False
+"Teval, the Balanced Scale",Deck,1,Paradox Shaper,511951ed-fbff-4e44-9429-27f237496672,2.0,2,Creature,Octopus; Wizard,False
+"Teval, the Balanced Scale",Deck,1,Ramunap Excavator,4f819ba4-52ef-4fdd-8e4c-5ae3b2f44db5,3.0,3,Creature,Cleric; Snake,False
+"Teval, the Balanced Scale",Deck,1,"Sam Kirk, Xenoanthropologist",eec55307-8525-4dae-a030-d210f3895138,4.0,4,Creature,Human; Scientist,False
+"Teval, the Balanced Scale",Deck,1,Satyr Wayfinder,ead4c01a-e2ae-49c9-95d9-651d81005907,2.0,2,Creature,Satyr,False
+"Teval, the Balanced Scale",Deck,1,Scute Swarm,aa854d50-444c-49d9-bfb1-5476b33c1c0b,3.0,3,Creature,Insect,False
+"Teval, the Balanced Scale",Deck,1,Springbloom Druid,788a4896-3414-40bf-b391-d2efea2fb5f9,3.0,3,Creature,Druid; Elf,False
+"Teval, the Balanced Scale",Deck,1,Summon: Titan,66ce0c60-f406-4ece-915f-675da4e8b16d,5.0,5,Creature; Enchantment,Giant; Saga,False
+"Teval, the Balanced Scale",Deck,1,Syndicate Liquidators,2f32de5c-4d85-42bc-b1bf-f762a46e5efc,5.0,5,Creature,Orion; Pirate,False
+"Teval, the Balanced Scale",Deck,1,"Tam, Mindful First-Year",096a878e-cff0-430a-90b5-031ecb9bfe1b,2.0,2,Creature,Gorgon; Wizard,False
+"Teval, the Balanced Scale",Deck,1,"Thranduil, Sindarin Liege",f6771d32-395e-4832-b33d-cbc12dff1516,4.0,4,Creature,Elf; Noble,False
+"Teval, the Balanced Scale",Deck,1,Timeless Witness,a52a06aa-56fc-4845-bbcd-a54f16369b34,4.0,4,Creature,Human; Shaman,False
+"Teval, the Balanced Scale",Deck,1,Tireless Tracker,e6555cca-e608-4c87-b835-9cd47fd1f543,3.0,3,Creature,Human; Scout,False
+"Teval, the Balanced Scale",Deck,1,Undead Butler,426fa8e8-b0f9-4b6c-b22b-04ec2073187a,2.0,2,Creature,Zombie,False
+"Teval, the Balanced Scale",Deck,1,Verdant Kraken,83c61083-b357-4775-a855-5a9013cc2bdf,7.0,6+,Creature,Kraken; Plant,False
+"Teval, the Balanced Scale",Deck,1,Wonder,232284f7-c623-4895-9ab9-8b1a39926830,4.0,4,Creature,Incarnation,False
+"Teval, the Balanced Scale",Deck,1,Crop Rotation,28b46183-c62f-47b1-9fee-3ba148202cab,1.0,0-1,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Grapple with the Past,d14c633d-977a-4f78-85c2-88582b3c3670,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Grisly Salvage,a89ebf63-63c9-42cd-98b4-ec852cd9b0a8,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Harrow,705509e9-a034-4a5a-9c65-66f58748b8a2,3.0,3,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Heroic Intervention,24882fa2-3fe9-4c1b-aa3d-0e6488b9db27,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Lull,d53f4c24-8deb-485a-b03a-945211fdf10d,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Midnight Tilling,79bc2c6d-b03d-4ceb-b468-293378ec73ae,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Quandrix Charm,f43e36ea-6bf5-45bd-a4ad-cc507ae45641,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Sinister Sabotage,973fd4d4-9255-4825-85b7-503606c4e932,3.0,3,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Theorix Charm,cf527bbd-e898-4aa9-909d-daec2f4b62ad,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Warg Tactics,d1663b51-37a1-45a0-b477-2d3e7dd0828e,2.0,2,Instant,,False
+"Teval, the Balanced Scale",Deck,1,Cathartic Parting,0ea80bd9-ab7e-4a8f-85b0-167fe7fae43a,2.0,2,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Echo of Eons,23d3e5fe-3f82-44cf-91a1-6646a12a0255,6.0,6+,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Jarad's Orders,93036f4e-f553-4cc7-a747-6cd087b0994c,4.0,4,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Life from the Loam,ac8fba34-512c-4f24-999a-ab72f1ce4acb,2.0,2,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Living Death,9e6a3df4-67a3-452e-a6ef-f04dbadb21ef,5.0,5,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Pilfered Plans,b734cfd9-afef-41f1-8377-68c885fb3a69,3.0,3,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Pull from the Grave,c5373026-8b43-42a7-aa69-a1b0f1619795,3.0,3,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Unexpected Results,048bdc4a-4d26-420c-88ed-23a073c30fff,4.0,4,Sorcery,,False
+"Teval, the Balanced Scale",Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+"Teval, the Balanced Scale",Deck,1,Conduit of Worlds,ed14be15-8f8d-4fe3-a147-f5da8ed873bf,4.0,4,Artifact,,False
+"Teval, the Balanced Scale",Deck,1,Slate of Ancestry,a07483b4-c04f-42a4-b979-8b77c11fa8f5,4.0,4,Artifact,,False
+"Teval, the Balanced Scale",Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+"Teval, the Balanced Scale",Deck,1,Thrór's Map,925cacdc-6d09-4fbd-9258-9f0539da180c,2.0,2,Artifact,,False
+"Teval, the Balanced Scale",Deck,1,Crawling Sensation,98441834-7da0-4d9f-88a4-a342a9b2a4c3,3.0,3,Enchantment,,False
+"Teval, the Balanced Scale",Deck,1,Exploration,0c2841bb-038c-4fbf-8360-bc0a1522b58d,1.0,0-1,Enchantment,,False
+"Teval, the Balanced Scale",Deck,1,Insidious Roots,d75b2b8e-05c9-47da-b359-a867256d78ea,2.0,2,Enchantment,,False
+"Teval, the Balanced Scale",Deck,1,Oversold Cemetery,ed4cd3a1-688b-4c05-948d-39d3336e00c0,2.0,2,Enchantment,,False
+"Teval, the Balanced Scale",Deck,1,Teval's Judgment,71fc2393-f55c-4b06-897c-fb7d4199b5f5,3.0,3,Enchantment,,False
+"Teval, the Balanced Scale",Deck,1,Choked Estuary,d473b507-8c33-4118-bc10-b0a268776074,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Command Beacon,7e8c2a18-e404-40ff-a9e0-ec3eeb6d576e,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Dismal Backwater,865a2194-fca0-446e-aae3-ca475cd66e00,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Dreamroot Cascade,dd8538e6-cd5f-4a88-aff5-eb5e76ce8ddb,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Drownyard Temple,c30f9be4-c274-4ad0-b5d7-7d3421aa4277,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Escape Tunnel,0056fc91-4398-471c-b561-7ff99750ac8a,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Fabled Passage,0c85b8f7-0bd0-4680-9ec5-d4b110460a54,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Fetid Pools,32b03b48-06da-4a74-a7ac-e5ae39a4f428,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Foreboding Landscape,bcfe1653-e602-4d38-abe7-bfcc7f203f9d,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,5,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Golgari Rot Farm,1b301478-b14f-4ef8-94e6-9647d582eabe,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Hinterland Harbor,fb5a3403-7f0b-406c-8c4f-d693be010ca6,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,4,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Jwar Isle Refuge,8b96f837-7c32-473a-b5ae-1d66527eaf7b,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Lotus Field,134d5b82-7940-4b33-a922-7f9d1f403e50,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Memorial to Folly,2bc38f14-0314-4351-8138-e2b8bf041404,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Mistrise Village,339f5334-b65a-445a-a016-20e997e0b4bb,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Opulent Palace,f9e7e855-1e3b-42d3-91b0-64ba8b5b8982,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Reliquary Tower,c23e5b80-08d2-4e24-9908-fe2aa4f30f6f,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Sodden Verdure,0070db93-142b-4d04-afd3-836792dc134b,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Sunken Hollow,cd2c90ac-2b04-461c-92f3-939871b6b6a3,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,5,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Temple of Malady,dc55421f-dee8-4263-9df0-2365df5f14bb,0.0,,Land,,False
+"Teval, the Balanced Scale",Deck,1,Woodland Cemetery,c9fe1383-1331-4a58-a45a-3320250221a9,0.0,,Land,,False
+Kaalia of the Vast,Commander,1,Kaalia of the Vast,cb8d80c9-ed58-4f2d-aa8c-c383370c7f1a,4.0,,Creature,Cleric; Human,False
+Kaalia of the Vast,Deck,1,Ancient Brass Dragon,7d79fb4e-2ca0-404a-9663-1f5abce6e733,7.0,6+,Creature,Dragon; Elder,False
+Kaalia of the Vast,Deck,1,Ancient Copper Dragon,48daee9d-ddaf-410f-8c3a-12fa1064ab56,6.0,6+,Creature,Dragon; Elder,False
+Kaalia of the Vast,Deck,1,Archfiend of Despair,9c36760b-57c5-488b-afc9-ef141942c6ab,8.0,6+,Creature,Demon,False
+Kaalia of the Vast,Deck,1,Archivist of Oghma,08b13e1f-27ca-40a8-b5ed-88ac933d24bf,2.0,2,Creature,Cleric; Halfling,False
+Kaalia of the Vast,Deck,1,"Aurelia, the Warleader",0f5a3a09-2f07-4774-9e0f-e99d9a444166,6.0,6+,Creature,Angel,False
+Kaalia of the Vast,Deck,1,"Avacyn, Angel of Hope",216cb26e-8da9-478b-bfbc-8030f7adee72,8.0,6+,Creature,Angel,False
+Kaalia of the Vast,Deck,1,Balefire Dragon,3d783beb-9ca6-4681-9276-fc3ad13b993f,7.0,6+,Creature,Dragon,False
+Kaalia of the Vast,Deck,1,Drannith Magistrate,aadd10d0-6dd0-4bdc-8d93-ff08e29a5863,2.0,2,Creature,Human; Wizard,False
+Kaalia of the Vast,Deck,1,"Elesh Norn, Mother of Machines",5ade11c0-41dd-4b6a-9f5b-c5903a3a0d7f,5.0,5,Creature,Phyrexian; Praetor,False
+Kaalia of the Vast,Deck,1,Esper Sentinel,5def9f38-0a0b-4e8d-9f9d-29dcb46520b4,1.0,0-1,Artifact; Creature,Human; Soldier,False
+Kaalia of the Vast,Deck,1,"Gisela, Blade of Goldnight",66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5,7.0,6+,Creature,Angel,False
+Kaalia of the Vast,Deck,1,Grand Abolisher,c749f23c-40c0-4159-b84c-a70cbb062c14,2.0,2,Creature,Cleric; Human,False
+Kaalia of the Vast,Deck,1,Master of Cruelties,d135c457-9be5-4a6e-a6fb-5b35cfb70cb0,5.0,5,Creature,Demon,False
+Kaalia of the Vast,Deck,1,Mother of Runes,60433b48-d27f-413c-905c-43839b1943f1,1.0,0-1,Creature,Cleric; Human,False
+Kaalia of the Vast,Deck,1,Opposition Agent,1f438b8f-fe23-4f3b-ab2e-f6c33676c462,3.0,3,Creature,Human; Rogue,False
+Kaalia of the Vast,Deck,1,Orcish Bowmasters,ea5103f5-27e0-4eb1-902c-7f34652d6bf3,2.0,2,Creature,Archer; Orc,False
+Kaalia of the Vast,Deck,1,Professional Face-Breaker,04152e7a-969c-4858-841b-0a569a9fc1bf,3.0,3,Creature,Human; Warrior,False
+Kaalia of the Vast,Deck,1,Ranger-Captain of Eos,cada3481-cc2b-4412-b9b5-0436af53aad2,3.0,3,Creature,Human; Ranger; Soldier,False
+Kaalia of the Vast,Deck,1,"Razaketh, the Foulblooded",136c9ecb-59b4-4ef6-bcb2-7b8d3df3ee75,8.0,6+,Creature,Demon,False
+Kaalia of the Vast,Deck,1,Rune-Scarred Demon,14aefe99-fb60-4f1c-a71f-7ffbe94c8b13,7.0,6+,Creature,Demon,False
+Kaalia of the Vast,Deck,1,Serra's Emissary,7a56c6e1-0509-4783-9b29-cf3163977166,7.0,6+,Creature,Angel,False
+Kaalia of the Vast,Deck,1,Terror of the Peaks,f8e17f4f-080d-4bba-bd05-ca27e94ccecc,5.0,5,Creature,Dragon,False
+Kaalia of the Vast,Deck,1,"Valgavoth, Terror Eater",cae3ec72-436d-4086-9dcb-17b3d92ad5c4,9.0,6+,Creature,Demon; Elder,False
+Kaalia of the Vast,Deck,1,"Vilis, Broker of Blood",7c209753-121b-4859-944b-4e33f885e777,8.0,6+,Creature,Demon,False
+Kaalia of the Vast,Deck,1,Abrade,f9db72dc-9a5b-48a4-a86e-7464d9a2166a,2.0,2,Instant,,False
+Kaalia of the Vast,Deck,1,Akroma's Will,fd949f82-fc10-4e37-8aa9-6c7569fe3c55,4.0,4,Instant,,False
+Kaalia of the Vast,Deck,1,Boros Charm,2679d0dd-ba30-4a1c-b6a0-b3ac6c790496,2.0,2,Instant,,False
+Kaalia of the Vast,Deck,1,Chaos Warp,07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8,3.0,3,Instant,,False
+Kaalia of the Vast,Deck,1,Culling the Weak,6385fd0d-256d-4400-9319-afa8170024db,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Dark Ritual,53f7c868-b03e-4fc2-8dcf-a75bbfa3272b,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Deadly Rollick,0456ec64-2c81-4763-a352-8ff64a4c3d6b,4.0,4,Instant,,False
+Kaalia of the Vast,Deck,1,Deflecting Swat,ae120613-97d6-4393-b39d-c3e6c076f5d6,3.0,3,Instant,,False
+Kaalia of the Vast,Deck,1,Enlightened Tutor,c5229c17-b7be-4b05-b683-f2277edc4849,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Entomb,299fc083-0834-4064-8344-f895aff68867,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Flawless Maneuver,4e183439-17d2-47ff-9d99-5e22821d91e3,3.0,3,Instant,,False
+Kaalia of the Vast,Deck,1,Orim's Chant,26d3a818-7faf-443a-a6bd-9773edaedf17,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Silence,8aed54cb-d1bb-45ad-adbe-38e55d84ff31,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Swords to Plowshares,b1544f21-7e98-461b-aed5-e748b0168c52,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Teferi's Protection,0d4ecdb1-ec90-497f-a7a4-1c68092b8757,3.0,3,Instant,,False
+Kaalia of the Vast,Deck,1,Vampiric Tutor,ededbdae-d9dc-4206-9335-d7158f2d7700,1.0,0-1,Instant,,False
+Kaalia of the Vast,Deck,1,Buried Alive,8203c621-a1a0-4865-8c9a-0d4064c86107,3.0,3,Sorcery,,False
+Kaalia of the Vast,Deck,1,Demonic Tutor,82004860-e589-4e38-8d61-8c0210e4ea39,2.0,2,Sorcery,,False
+Kaalia of the Vast,Deck,1,Faithless Looting,3d6fa57a-aa53-4b5c-b8af-a7612c823117,1.0,0-1,Sorcery,,False
+Kaalia of the Vast,Deck,1,Gamble,a54f0869-94c8-42af-9080-166efb9486a4,1.0,0-1,Sorcery,,False
+Kaalia of the Vast,Deck,1,Imperial Seal,16cd0b90-f70c-4efa-b252-8de8784ef9a3,1.0,0-1,Sorcery,,False
+Kaalia of the Vast,Deck,1,Jeska's Will,0fd114c4-092b-4e28-b0dc-ef529f3bc73e,3.0,3,Sorcery,,False
+Kaalia of the Vast,Deck,1,Reanimate,a044474a-cd72-4e9d-bd8d-a08f2de9cdc0,1.0,0-1,Sorcery,,False
+Kaalia of the Vast,Deck,1,Sevinne's Reclamation,1b9f9f5b-8712-4f00-90cb-1b7b9970eccc,3.0,3,Sorcery,,False
+Kaalia of the Vast,Deck,1,Wheel of Fortune,a8abd966-de7b-46a3-8ac7-8747ab35653a,3.0,3,Sorcery,,False
+Kaalia of the Vast,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Kaalia of the Vast,Deck,1,Chrome Mox,ec3d4466-547c-4e02-b1b5-a156ec4637e9,0.0,0-1,Artifact,,False
+Kaalia of the Vast,Deck,1,Lightning Greaves,ca204b66-8d0c-431a-8d34-282f7c2d17da,2.0,2,Artifact,,False
+Kaalia of the Vast,Deck,1,Lotus Petal,32e5339e-9e4f-46f8-b305-f9d6d3ba8bb5,0.0,0-1,Artifact,,False
+Kaalia of the Vast,Deck,1,Mana Vault,736892cb-a34b-4bb9-b56c-e26e3db207a2,1.0,0-1,Artifact,,False
+Kaalia of the Vast,Deck,1,Mox Diamond,f3c5978a-70fa-431f-933b-b954bd0db0ea,0.0,0-1,Artifact,,False
+Kaalia of the Vast,Deck,1,Mox Opal,de2440de-e948-4811-903c-0bbe376ff64d,0.0,0-1,Artifact,,False
+Kaalia of the Vast,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Kaalia of the Vast,Deck,1,Talisman of Conviction,6c326439-5620-4ec6-a56a-fe9c3d5d2a46,2.0,2,Artifact,,False
+Kaalia of the Vast,Deck,1,Talisman of Hierarchy,b693c3de-2eaf-4850-b405-e79d00adefda,2.0,2,Artifact,,False
+Kaalia of the Vast,Deck,1,Talisman of Indulgence,1d9aeaaa-66f6-41cb-9bac-162d6fd8662c,2.0,2,Artifact,,False
+Kaalia of the Vast,Deck,1,The One Ring,3aa83ed2-f48b-4ce6-a614-2c54ddf50538,4.0,4,Artifact,,False
+Kaalia of the Vast,Deck,1,Aggravated Assault,20129459-a386-41eb-899d-1aede3427300,3.0,3,Enchantment,,False
+Kaalia of the Vast,Deck,1,Animate Dead,c0d8fef4-65f4-4769-982d-b397d2b7e977,2.0,2,Enchantment,,False
+Kaalia of the Vast,Deck,1,Dragon Tempest,b9bacb46-fd1d-459b-81c2-d7d08fe73848,2.0,2,Enchantment,,False
+Kaalia of the Vast,Deck,1,Necromancy,699b192c-f3f2-4ac5-9ca9-e35bcf08ad8a,3.0,3,Enchantment,,False
+Kaalia of the Vast,Deck,1,Necropotence,94a844d2-0574-45a7-b347-e0e329767c42,3.0,3,Enchantment,,False
+Kaalia of the Vast,Deck,1,Smothering Tithe,153376c9-dffd-458c-8ce3-a4c8269bc4e9,4.0,4,Enchantment,,False
+Kaalia of the Vast,Deck,1,Sneak Attack,e7aee670-e6ac-4b3a-b3d1-7b7013db8f3d,4.0,4,Enchantment,,False
+Kaalia of the Vast,Deck,1,Ancient Tomb,23467047-6dba-4498-b783-1ebc4f74b8c2,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Arena of Glory,63dfe794-5f56-41ec-9883-5523b41cc3e0,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Arid Mesa,c5acf2a5-40f4-433d-a74d-1cb56c521464,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Badlands,13ff3222-91cb-4796-a34e-899ed817694c,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Blood Crypt,43985bbc-a0f6-4812-984e-392bc8562633,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Bloodstained Mire,fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Bojuka Bog,04b7362d-0490-4cb0-b5d7-2a7732f659ce,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Cavern of Souls,89ca686a-7c72-4d8f-9290-e89635624a83,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,City of Brass,f25351e3-539b-4bbc-b92d-6480acf4d722,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Flooded Strand,f3c7af78-a77d-4134-82a2-a5ce84285a84,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Gemstone Caverns,c0adbddc-b070-4c5f-afe0-0474c72a9251,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Godless Shrine,73864fcc-1bde-4bc0-831e-2b93e546e417,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Luxury Suite,819e1765-8325-4e6f-89c1-63ea86de369f,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Mana Confluence,d0ee5bdc-2b69-4b73-9a20-ffcc18783b29,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Marsh Flats,dab520d0-20b4-4273-ba6b-eb07f85ea433,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Plateau,c7a15ca4-085f-4d92-8387-c3711c04c8fa,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Polluted Delta,ef86989d-ce80-4e55-aece-7d11710eeffa,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Reflecting Pool,67f43ac6-2a58-4b53-b5d7-0330e2a252e2,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Sacred Foundry,45181cb8-2090-4471-ba90-e5a8f04d525f,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Scalding Tarn,cb027150-848c-4a66-88ad-e20222304dd8,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Scrubland,c8d95ca8-7d12-4072-aeaf-e20f248c7e39,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,"Shizo, Death's Storehouse",008f2698-1721-45a3-8353-10f2f400dc8f,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Spectator Seating,cf6d10ed-85c3-48f2-8ba0-2960e03b408b,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Vault of Champions,ebc5ac83-08d4-4d6b-b840-0c4ba71a38ab,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Verdant Catacombs,67d60b24-d429-4ded-90d9-06e49f28c396,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Windswept Heath,29737a60-3ebd-40d9-b935-c4f54b90d45d,0.0,,Land,,False
+Kaalia of the Vast,Deck,1,Wooded Foothills,6587a463-a108-4854-b6d1-944e89b8c8a4,0.0,,Land,,False
+Fire Lord Azula,Commander,1,Fire Lord Azula,2631130e-63e2-43a3-914a-648e76722203,4.0,,Creature,Human; Noble,False
+Fire Lord Azula,Deck,1,Archmage Emeritus,8305d576-21d8-4ce7-8eda-a7cd9793aca5,4.0,4,Creature,Human; Wizard,False
+Fire Lord Azula,Deck,1,"Ashling, Flame Dancer",6fe9fd59-9cac-4572-8f94-bc19bea44f94,4.0,4,Creature,Elemental; Shaman,False
+Fire Lord Azula,Deck,1,"Birgi, God of Storytelling",fb81e4d3-1d8c-4779-be62-87cf49277e51,3.0,3,Creature,God,False
+Fire Lord Azula,Deck,1,"Cormela, Glamour Thief",3cd9bac9-0abc-43d8-9f84-94f965f7a2e0,4.0,4,Creature,Rogue; Vampire,False
+Fire Lord Azula,Deck,1,"Electro, Assaulting Battery",3db16fb8-5650-4568-b975-42ad3d44ebcd,3.0,3,Creature,Human; Villain,False
+Fire Lord Azula,Deck,1,Firebrand Archer,2e9289d6-dbc6-456d-88cf-d1f534e731d6,2.0,2,Creature,Archer; Human,False
+Fire Lord Azula,Deck,1,Goblin Electromancer,81f06f84-1580-43c0-89d5-08d34541a519,2.0,2,Creature,Goblin; Wizard,False
+Fire Lord Azula,Deck,1,Hexing Squelcher,96c2d71e-0fc9-42aa-bc6b-6d0ae3f66f8b,2.0,2,Creature,Goblin; Sorcerer,False
+Fire Lord Azula,Deck,1,High Fae Trickster,28c1a4a0-f58c-4d07-a918-51ff8a74f050,4.0,4,Creature,Faerie; Wizard,False
+Fire Lord Azula,Deck,1,"Kess, Dissident Mage",f5092c14-eec4-472c-999c-ba96c36b2fbb,4.0,4,Creature,Human; Wizard,False
+Fire Lord Azula,Deck,1,Kessig Flamebreather,eadd9559-6dcb-4b96-8c95-58abddd0e120,2.0,2,Creature,Human; Shaman,False
+Fire Lord Azula,Deck,1,Mysterious Stranger,4cd2e1c2-5f14-4ac9-9c88-899af6ad9f80,4.0,4,Creature,Human; Rogue,False
+Fire Lord Azula,Deck,1,Nightscape Familiar,57296ea3-3c0d-49b7-bc08-0d0d8414e9ad,2.0,2,Creature,Zombie,False
+Fire Lord Azula,Deck,1,Storm-Kiln Artist,a145ff8c-5812-4bcb-bd16-9839dc25121d,4.0,4,Creature,Dwarf; Shaman,False
+Fire Lord Azula,Deck,1,Third Path Iconoclast,f7156897-2b02-4ecd-868d-d4d59244e9ed,2.0,2,Creature,Human; Monk,False
+Fire Lord Azula,Deck,1,Valley Floodcaller,4879c8f0-8832-4290-bc71-9838940f75cd,3.0,3,Creature,Otter; Wizard,False
+Fire Lord Azula,Deck,1,Young Pyromancer,5fac139a-07d3-4e6c-98e3-d98b199f7a6f,2.0,2,Creature,Human; Shaman,False
+Fire Lord Azula,Deck,1,Arcane Denial,ab1cc360-b9de-48d9-9983-4dfe4a7d2a37,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Big Score,a5cbd257-c836-493e-bb1a-76242619dea2,4.0,4,Instant,,False
+Fire Lord Azula,Deck,1,Chaos Warp,07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8,3.0,3,Instant,,False
+Fire Lord Azula,Deck,1,Deadly Rollick,0456ec64-2c81-4763-a352-8ff64a4c3d6b,4.0,4,Instant,,False
+Fire Lord Azula,Deck,1,Deflecting Swat,ae120613-97d6-4393-b39d-c3e6c076f5d6,3.0,3,Instant,,False
+Fire Lord Azula,Deck,1,Demand Answers,c11e84a1-dbda-429b-8cd6-fd0deaefc689,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Frantic Search,16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c,3.0,3,Instant,,False
+Fire Lord Azula,Deck,1,Lightning Bolt,4457ed35-7c10-48c8-9776-456485fdf070,1.0,0-1,Instant,,False
+Fire Lord Azula,Deck,1,Mana Drain,74d3277a-38e5-4732-afed-084a56148f20,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Narset's Reversal,d55f6c70-321f-4fb4-bd33-0850ae1a7c36,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Pyretic Ritual,86ef6474-613f-41fb-931c-d4279b03ed99,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Reckless Ransacking,ebcd198e-7fbd-46e0-a6d9-ff499e541978,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Redirect Lightning,c62b5c22-e058-436f-9575-a01cb2112829,1.0,0-1,Instant,,False
+Fire Lord Azula,Deck,1,Seething Song,64bf8929-f5f2-4d50-8667-13b1d007bcfc,3.0,3,Instant,,False
+Fire Lord Azula,Deck,1,Snap,ac914d98-221e-426c-8a50-342896b15f9e,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Thrill of Possibility,1cb0610b-a731-42c2-b93f-0a29f63cebf4,2.0,2,Instant,,False
+Fire Lord Azula,Deck,1,Unexpected Windfall,498c10c9-253d-4b15-b48c-1509381b17e8,4.0,4,Instant,,False
+Fire Lord Azula,Deck,1,Withering Torment,ffce81c5-1b58-4882-a4e7-6f8d7cb170de,3.0,3,Instant,,False
+Fire Lord Azula,Deck,1,Boltwave,bb8cccc8-e56f-42fa-a0d7-fc889b5e1c7b,1.0,0-1,Sorcery,,False
+Fire Lord Azula,Deck,1,Crackle with Power,273f5483-b67e-4dd6-bba8-c0a047fa34d7,2.0,2,Sorcery,,False
+Fire Lord Azula,Deck,1,Demonic Tutor,82004860-e589-4e38-8d61-8c0210e4ea39,2.0,2,Sorcery,,False
+Fire Lord Azula,Deck,1,End the Festivities,09618da4-6e2d-4047-96d7-0576c0754e7d,1.0,0-1,Sorcery,,False
+Fire Lord Azula,Deck,1,Feed the Swarm,5825997b-10d7-4a36-972c-a80ddd90b8ed,2.0,2,Sorcery,,False
+Fire Lord Azula,Deck,1,Jaya's Immolating Inferno,f5f0deb0-070a-45b6-9b81-0bc8143f3040,2.0,2,Sorcery,,False
+Fire Lord Azula,Deck,1,Jeska's Will,0fd114c4-092b-4e28-b0dc-ef529f3bc73e,3.0,3,Sorcery,,False
+Fire Lord Azula,Deck,1,Mana Geyser,a8dba58b-2956-492e-ae30-49db2ae68e53,5.0,5,Sorcery,,False
+Fire Lord Azula,Deck,1,Pirate's Pillage,7a2e866b-9642-495e-b47f-5b13a24373cc,4.0,4,Sorcery,,False
+Fire Lord Azula,Deck,1,Reanimate,a044474a-cd72-4e9d-bd8d-a08f2de9cdc0,1.0,0-1,Sorcery,,False
+Fire Lord Azula,Deck,1,Seize the Spoils,58f83528-9110-4895-b5ea-51b90af30a8d,3.0,3,Sorcery,,False
+Fire Lord Azula,Deck,1,Sozin's Comet,bc0da02c-2b85-4ddc-9ce0-63934dd14164,5.0,5,Sorcery,,False
+Fire Lord Azula,Deck,1,Toxic Deluge,afaef788-34d1-460b-b884-9d7ae6ddeb18,3.0,3,Sorcery,,False
+Fire Lord Azula,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Fire Lord Azula,Deck,1,Brotherhood Regalia,d169738e-af0b-4488-a399-3aa1d1933aa1,2.0,2,Artifact,,False
+Fire Lord Azula,Deck,1,Commander's Sphere,0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b,3.0,3,Artifact,,False
+Fire Lord Azula,Deck,1,Primal Amulet,8e4d0da0-c7d8-4a20-9bfd-02c1331a7a49,4.0,4,Artifact,,False
+Fire Lord Azula,Deck,1,Pyromancer's Goggles,f76bcbfe-483f-4e63-8425-76feca1abf3e,5.0,5,Artifact,,False
+Fire Lord Azula,Deck,1,Resonating Lute,9263287d-f782-4318-9ab8-e2e5f8107f5e,4.0,4,Artifact,,False
+Fire Lord Azula,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Fire Lord Azula,Deck,1,Tablet of Discovery,19cf5798-4600-4a66-b1c7-de77bde157d0,3.0,3,Artifact,,False
+Fire Lord Azula,Deck,1,Twinning Staff,3ca8113b-f5b8-41a7-aae6-ebb32554dfe3,3.0,3,Artifact,,False
+Fire Lord Azula,Deck,1,Vedalken Orrery,60d640a4-032b-4279-ac75-8f200ca776fb,4.0,4,Artifact,,False
+Fire Lord Azula,Deck,1,Whispersilk Cloak,9ad4f730-a18e-4a7c-a468-a926c718c741,3.0,3,Artifact,,False
+Fire Lord Azula,Deck,1,Aether Tunnel,0a90d1fb-7a76-4b62-b001-4a539a8e5df1,2.0,2,Enchantment,,False
+Fire Lord Azula,Deck,1,Amphibian Downpour,a4280cea-386b-450d-a7e9-29c7aa58ce5a,3.0,3,Enchantment,,False
+Fire Lord Azula,Deck,1,Aqueous Form,3378fef3-4d8c-4d9e-a338-4abb6f70d410,1.0,0-1,Enchantment,,False
+Fire Lord Azula,Deck,1,Leyline of Anticipation,9dc65ffe-17fc-4280-b4bd-78073ac7e12b,4.0,4,Enchantment,,False
+Fire Lord Azula,Deck,1,Ancient Tomb,23467047-6dba-4498-b783-1ebc4f74b8c2,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Badlands,13ff3222-91cb-4796-a34e-899ed817694c,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Blightstep Pathway,e580a229-e800-4746-9d37-c32fcef8de28,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Blood Crypt,43985bbc-a0f6-4812-984e-392bc8562633,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Bloodstained Mire,fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Bojuka Bog,04b7362d-0490-4cb0-b5d7-2a7732f659ce,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Clearwater Pathway,144119bc-7fd1-45c5-9e29-f742e7c255ac,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Command Beacon,7e8c2a18-e404-40ff-a9e0-ec3eeb6d576e,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Emergence Zone,7536eb66-959d-4dca-9b75-895572ef733c,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Fire Nation Palace,f2000fb8-39c6-4ad6-a020-5245faaa1eba,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Haunted Ridge,e2a37967-4212-4553-9f77-bcb613405807,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Luxury Suite,819e1765-8325-4e6f-89c1-63ea86de369f,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Maze of Ith,38a12bd7-4394-44a8-91a0-6a4ff7fa4f71,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Morphic Pool,bd004c9d-771e-4e63-a97d-a2259c096af8,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Polluted Delta,ef86989d-ce80-4e55-aece-7d11710eeffa,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Reliquary Tower,c23e5b80-08d2-4e24-9908-fe2aa4f30f6f,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Riverglide Pathway,4924b3a4-a218-4783-8a4d-82361fdecc78,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Scalding Tarn,cb027150-848c-4a66-88ad-e20222304dd8,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Shipwreck Marsh,5f42b67f-87fd-4f98-a0e8-0c8313f4bbc8,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Shivan Reef,0fe16212-66c3-4e45-a641-7391e9b2e304,0.0,,Land,,False
+Fire Lord Azula,Deck,1,"Shizo, Death's Storehouse",008f2698-1721-45a3-8353-10f2f400dc8f,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Steam Vents,17039058-822d-409f-938c-b727a366ba63,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Stormcarved Coast,4722105b-0085-4bb8-bca1-9de0d3eb5600,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Sulfurous Springs,f5c38c01-4a40-469f-91a0-7479daf4e8e7,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Training Center,e3570ac7-c593-40e3-bbd6-ec3da6d8158d,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Turbulent Crater,e86a0b64-fe4a-4ea8-99e8-35860dbac765,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Turbulent Springs,9aef7510-9f06-4939-8cae-f71330d1105e,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Turbulent Wetlands,b51c8659-ec4f-4213-beb1-49a7acd7366c,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Underground River,857febd9-cdd7-4f8e-a852-d88084b0cfbc,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Underground Sea,4b22be3a-8ce1-47d1-b82e-6c3ccfb0548b,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Volcanic Island,c718911c-c955-4eb9-9e16-be4bd49a4e4e,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Wasteland,09a70ae8-3859-4a09-901d-dce063fa3b5f,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Watery Grave,fc9ec820-4245-4a96-b009-5308a818ca58,0.0,,Land,,False
+Fire Lord Azula,Deck,1,Xander's Lounge,8291543f-d086-48aa-b2b7-5481ca8c9198,0.0,,Land,,False
+Ahoy Mateys,Commander,1,"Admiral Brass, Unsinkable",4df179b4-7c6b-4e63-9d7d-62f4df377989,5.0,,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,"Don Andres, the Renegade",060ef981-db05-436b-b1c1-f55071375344,4.0,4,Creature,Pirate; Vampire,False
+Ahoy Mateys,Deck,1,The Indomitable,276dc5c8-c8cf-4b9c-ad75-31876e6e040a,4.0,4,Artifact,,False
+Ahoy Mateys,Deck,1,Storm Fleet Negotiator,60cb885c-5cd3-4963-8a6a-cebf07cc61b5,3.0,3,Creature,Pirate; Siren,False
+Ahoy Mateys,Deck,1,"Francisco, Fowl Marauder",1dbe4eb4-8313-459a-89ce-982442cd0cd0,2.0,2,Creature,Bird; Pirate,False
+Ahoy Mateys,Deck,1,The Grim Captain's Locker,29931e18-9dac-46fe-b9a4-72d838d79882,4.0,4,Artifact,,False
+Ahoy Mateys,Deck,1,Skeleton Crew,2536750c-3c4f-4e00-b517-680ad4fd2ecc,4.0,4,Creature,Pirate; Skeleton,False
+Ahoy Mateys,Deck,1,Broadside Bombardiers,e0c00a74-bdf8-4fee-8042-42c5878e9e3c,3.0,3,Creature,Goblin; Pirate,False
+Ahoy Mateys,Deck,1,Gemcutter Buccaneer,68e45c07-96c5-4f87-a816-d9fa4f119740,4.0,4,Creature,Artificer; Orc; Pirate,False
+Ahoy Mateys,Deck,1,Arm-Mounted Anchor,70f3bc78-201f-4c56-b87b-9e8f2db9f7f7,3.0,3,Artifact,,False
+Ahoy Mateys,Deck,1,Amphin Mutineer,8910f79a-66c9-41b3-b55a-e3e651ae6f26,4.0,4,Creature,Pirate; Salamander,False
+Ahoy Mateys,Deck,1,Bident of Thassa,e1afaef7-9fa3-4662-a95f-adfb0da9fd11,4.0,4,Artifact; Enchantment,,False
+Ahoy Mateys,Deck,1,Corsair Captain,a7ec13c6-7ade-433a-b5a2-047854eef486,3.0,3,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Evacuation,fdd94383-b573-439a-8e1c-925af887c5a6,5.0,5,Instant,,False
+Ahoy Mateys,Deck,1,Timestream Navigator,d0896996-ee31-402e-b642-4e7cca4929fe,2.0,2,Creature,Human; Pirate; Wizard,False
+Ahoy Mateys,Deck,1,Warkite Marauder,8b566757-e5e4-4d47-b5ef-80ed7d853679,2.0,2,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Black Market Connections,d2664f28-49e1-46f8-a863-b217e961a57c,3.0,3,Enchantment,,False
+Ahoy Mateys,Deck,1,Blood Money,75f5d372-4ff9-430c-8302-72472439e0d2,7.0,6+,Sorcery,,False
+Ahoy Mateys,Deck,1,Dire Fleet Ravager,b83080af-9616-4dc3-bc47-6ef84b9ccc1b,5.0,5,Creature,Orc; Pirate; Wizard,False
+Ahoy Mateys,Deck,1,Fathom Fleet Captain,7bcf3090-95c6-4384-a857-9fe571e6da85,2.0,2,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Lethal Scheme,c4660b3c-a234-4a3e-83e7-e2fa9d556685,4.0,4,Instant,,False
+Ahoy Mateys,Deck,1,Angrath's Marauders,2d4976d4-649c-4d42-ac5a-ada4b46a480c,7.0,6+,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Blasphemous Act,7a2484a9-04fd-41a0-8224-610c1c07ed10,9.0,6+,Sorcery,,False
+Ahoy Mateys,Deck,1,Captain Lannery Storm,235bf0ba-658c-463f-b112-7478ba27bd7b,3.0,3,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Captivating Crew,1049bc06-83de-4ed6-ae38-f259e5038a95,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Chaos Warp,07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8,3.0,3,Instant,,False
+Ahoy Mateys,Deck,1,Coercive Recruiter,ad33530c-a8df-4c1c-a863-501e583290b6,5.0,5,Creature,Orc; Pirate,False
+Ahoy Mateys,Deck,1,Dire Fleet Daredevil,7a3e50a5-c163-4c41-b62d-d52c233c55b7,2.0,2,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,"Kari Zev, Skyship Raider",786baa29-afd4-40f0-95c8-920a972b9175,2.0,2,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Port Razer,653e4b68-3184-4352-ac91-127f7e6d7c12,5.0,5,Creature,Orc; Pirate,False
+Ahoy Mateys,Deck,1,Shared Animosity,a27445db-33f2-4571-98b5-83206b797484,3.0,3,Enchantment,,False
+Ahoy Mateys,Deck,1,Admiral Beckett Brass,43b5e462-d860-473d-828f-6c513fc7768a,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Hostage Taker,c5c2d209-e3ef-4b0d-85f5-e7402dcf09eb,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,King Narfi's Betrayal,35c416c6-f522-4b4c-93db-75c4e01843d1,3.0,3,Enchantment,,False
+Ahoy Mateys,Deck,1,Prismari Command,fa3e28b1-131c-4223-81e0-18dfbab22c26,3.0,3,Instant,,False
+Ahoy Mateys,Deck,1,"Zara, Renegade Recruiter",cd2720c2-522c-4fdc-9cef-9c5ce250fe7b,5.0,5,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Icon of Ancestry,2b4973cc-83b0-4986-a19e-b4252706527e,3.0,3,Artifact,,False
+Ahoy Mateys,Deck,1,Vanquisher's Banner,8cf38025-5821-45a0-9483-266353b7e82d,5.0,5,Artifact,,False
+Ahoy Mateys,Deck,1,Choked Estuary,d473b507-8c33-4118-bc10-b0a268776074,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Desolate Lighthouse,aa6dbdf2-2379-4ff5-8a6c-70258784dc35,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Foreboding Ruins,5c87e2fa-77f1-4978-b25f-f14d227301d1,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Frostboil Snarl,7137aae6-260d-41de-8b4e-42a8cf752697,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Geier Reach Sanitarium,7b9fafe7-d26a-4ed5-b4c4-ce13763770b5,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Nephalia Drownyard,6429b4ed-1845-4643-9a3d-85f7c12f2bba,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Smoldering Marsh,390f1b56-264e-4336-83be-dc1fe79bfdcf,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Sulfur Falls,6a6c5e17-6465-4a1f-9d63-8a3ce2edc522,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Sunken Hollow,cd2c90ac-2b04-461c-92f3-939871b6b6a3,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Azure Fleet Admiral,b39f228f-d146-49c6-bab4-5304e0f742d8,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Enterprising Scallywag,97607bf5-ca7b-4b1b-963e-390faf6e413e,2.0,2,Creature,Goblin; Pirate,False
+Ahoy Mateys,Deck,1,Daring Saboteur,d36f64a0-53f7-4c56-9f40-a7927a5c2608,2.0,2,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Departed Deckhand,a620a765-97ba-4687-acfd-4dec7da75d9f,2.0,2,Creature,Pirate; Spirit,False
+Ahoy Mateys,Deck,1,Distant Melody,ac6c5852-71c7-4f19-8c87-ccb345052862,4.0,4,Sorcery,,False
+Ahoy Mateys,Deck,1,Ghost of Ramirez DePietro,07fe0fb5-cf34-4ba4-a3f3-ac0cc919bf91,3.0,3,Creature,Pirate; Spirit,False
+Ahoy Mateys,Deck,1,"Malcolm, Keen-Eyed Navigator",a66f8b44-0163-4456-b152-4acefab896a4,3.0,3,Creature,Pirate; Siren,False
+Ahoy Mateys,Deck,1,Merchant Raiders,8b388331-eaa7-41aa-99de-4451e51cb221,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Siren Stormtamer,59c7496b-19a2-478b-b28f-6f153c2458ae,1.0,0-1,Creature,Pirate; Siren; Wizard,False
+Ahoy Mateys,Deck,1,Spectral Sailor,a8fdbcdf-479d-4582-9ad5-9fbd4c740c29,1.0,0-1,Creature,Pirate; Spirit,False
+Ahoy Mateys,Deck,1,Windfall,08becc07-28bc-4a2f-a6b0-28a2998d2f50,3.0,3,Sorcery,,False
+Ahoy Mateys,Deck,1,Feed the Swarm,5825997b-10d7-4a36-972c-a80ddd90b8ed,2.0,2,Sorcery,,False
+Ahoy Mateys,Deck,1,Pitiless Plunderer,a784481f-eccb-4112-bb38-04a659319660,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,"Breeches, Brazen Plunderer",eb77f7dc-e9e4-44ef-8616-9f4e737e8ca5,4.0,4,Creature,Goblin; Pirate,False
+Ahoy Mateys,Deck,1,Faithless Looting,3d6fa57a-aa53-4b5c-b8af-a7612c823117,1.0,0-1,Sorcery,,False
+Ahoy Mateys,Deck,1,Rakdos Charm,5e62b51d-faec-4aa0-9504-cf2c282d08ea,2.0,2,Instant,,False
+Ahoy Mateys,Deck,1,"Ramirez DePietro, Pillager",a3b8690e-ac47-444f-924e-ab2a12a85431,4.0,4,Creature,Human; Pirate,False
+Ahoy Mateys,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Ahoy Mateys,Deck,1,Commander's Sphere,0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b,3.0,3,Artifact,,False
+Ahoy Mateys,Deck,1,Dimir Signet,7d881c57-0bd9-4c57-aa4a-b10808b86143,2.0,2,Artifact,,False
+Ahoy Mateys,Deck,1,Herald's Horn,c02c5547-b9c9-4b2d-9d12-e87bfba8f2d2,3.0,3,Artifact,,False
+Ahoy Mateys,Deck,1,Izzet Signet,2fda4fe7-8b0c-489c-a000-6d358e614e34,2.0,2,Artifact,,False
+Ahoy Mateys,Deck,1,Rakdos Signet,3adb7681-977f-4a32-9ec8-51481b958268,2.0,2,Artifact,,False
+Ahoy Mateys,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Ahoy Mateys,Deck,1,Wayfarer's Bauble,31f15274-301b-47c5-ba19-0ced04520878,1.0,0-1,Artifact,,False
+Ahoy Mateys,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Crumbling Necropolis,7190debf-708b-4f41-9714-0d0a5bd5a74e,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Evolving Wilds,a75445d3-1303-4bb5-89ad-26ea93fecd48,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Path of Ancestry,b473e293-59e3-4e04-acf2-622604aeb25f,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Port of Karfell,f500a8a4-6135-448c-9116-bd2695a72229,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Rogue's Passage,f29dc596-2121-4421-8463-15f6c2e8b9b3,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Secluded Courtyard,79ba18fd-f184-43c1-86df-56ee18ce806c,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Terramorphic Expanse,1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Thriving Bluff,91fceb34-0f2d-4392-be27-00dcd765637f,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Thriving Isle,69fc70b8-b143-4662-ac95-e2743037239d,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Thriving Moor,bff416bb-d193-4c45-b2c1-7c297dbfad08,0.0,,Land,,False
+Ahoy Mateys,Deck,1,Unclaimed Territory,584b15f2-6ae9-413a-8b8d-9244dbea4878,0.0,,Land,,False
+Ahoy Mateys,Deck,6,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+Ahoy Mateys,Deck,4,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+Ahoy Mateys,Deck,5,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
+Blood Rites,Commander,1,"Clavileño, First of the Blessed",2b62a716-7831-4c76-8f2d-b99b04e33350,3.0,,Creature,Cleric; Vampire,False
+Blood Rites,Deck,1,"Carmen, Cruel Skymarcher",84c24e62-26bd-4ca4-b6b9-d31e2065f13b,5.0,5,Creature,Soldier; Vampire,False
+Blood Rites,Deck,1,Charismatic Conqueror,3dcc35f3-74dc-46a8-8aa9-3411189f0547,2.0,2,Creature,Soldier; Vampire,False
+Blood Rites,Deck,1,Elenda's Hierophant,cb99c675-adc5-4dad-8be8-524f5f921213,3.0,3,Creature,Cleric; Vampire,False
+Blood Rites,Deck,1,March of the Canonized,9eb427ab-1483-4c40-8cb2-fd463e1e5fe0,2.0,2,Enchantment,,False
+Blood Rites,Deck,1,Redemption Choir,90c62b27-027a-44a3-8d21-3c62701b18a8,4.0,4,Creature,Cleric; Vampire,False
+Blood Rites,Deck,1,Dusk Legion Sergeant,f8b12c43-d83a-4e5b-a525-5ee1ae850817,2.0,2,Creature,Soldier; Vampire,False
+Blood Rites,Deck,1,Master of Dark Rites,a65250f6-55e2-47ed-a355-d690047db6f2,1.0,0-1,Creature,Cleric; Vampire,False
+Blood Rites,Deck,1,Promise of Aclazotz,4ef4b4f9-47cd-4862-8cbb-b6e624d6e6fc,2.0,2,Enchantment,,False
+Blood Rites,Deck,1,Order of Sacred Dusk,0cb41c3f-5e6a-4c63-80b5-c9ab84b4e4bf,8.0,6+,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,Austere Command,09cc8709-fe10-472a-b05c-e89f3523018d,6.0,6+,Sorcery,,False
+Blood Rites,Deck,1,Kindred Boon,f04441b0-755c-4e7b-a9e4-4e03b8175ab6,4.0,4,Enchantment,,False
+Blood Rites,Deck,1,"Mavren Fein, Dusk Apostle",1b94a11b-21b0-4465-a520-69608f022fb4,3.0,3,Creature,Cleric; Vampire,False
+Blood Rites,Deck,1,Radiant Destiny,068cbbe3-43c3-425e-80ec-d1ce5c02ea9b,3.0,3,Enchantment,,False
+Blood Rites,Deck,1,Welcoming Vampire,605c1ee0-5e8a-4e0a-a99b-42a38873f822,3.0,3,Creature,Vampire,False
+Blood Rites,Deck,1,Bloodghast,e97f9c2b-b41e-4f36-9245-77c0ac125647,2.0,2,Creature,Spirit; Vampire,False
+Blood Rites,Deck,1,Bloodtracker,fcf9ced2-867d-4bc5-b7b6-6153ed2cac97,4.0,4,Creature,Vampire; Wizard,False
+Blood Rites,Deck,1,Butcher of Malakir,a85197ab-dc94-4b72-9716-8dbdbbe90ff8,7.0,6+,Creature,Vampire; Warrior,False
+Blood Rites,Deck,1,Champion of Dusk,5f7f0a38-fb7e-4ee8-a712-9aa911f17dae,5.0,5,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,Cordial Vampire,d61fb9e8-d05a-481a-a90f-5def300c9abb,2.0,2,Creature,Vampire,False
+Blood Rites,Deck,1,Crossway Troublemakers,1a362e4d-6c02-4b67-ab63-c6622e505195,6.0,6+,Creature,Vampire,False
+Blood Rites,Deck,1,Damn,b01d61cc-9844-4191-86a0-f2db6d42d6e5,2.0,2,Sorcery,,False
+Blood Rites,Deck,1,"Drana, Liberator of Malakir",89b24b5f-d837-4274-8877-8ff7dc2708ba,3.0,3,Creature,Ally; Vampire,False
+Blood Rites,Deck,1,Exquisite Blood,8f933fae-6c0c-42d7-a817-14760d8285cd,5.0,5,Enchantment,,False
+Blood Rites,Deck,1,Glass-Cast Heart,3edd6272-20fa-4c3a-bf34-2f253cc8ac9e,3.0,3,Artifact,,False
+Blood Rites,Deck,1,New Blood,021d654e-b731-40d0-a18e-eaff43f9fdb9,4.0,4,Sorcery,,False
+Blood Rites,Deck,1,Nighthawk Scavenger,379ed4ec-8f2e-448b-9ed2-a3181e2f877e,3.0,3,Creature,Rogue; Vampire,False
+Blood Rites,Deck,1,Olivia's Wrath,9aebd891-c8c5-4309-a07b-6cab1b204172,5.0,5,Sorcery,,False
+Blood Rites,Deck,1,Pact of the Serpent,f275039e-3dba-49b0-92aa-92721b1c7f95,3.0,3,Sorcery,,False
+Blood Rites,Deck,1,Patron of the Vein,8dbc8fdb-36ce-4f30-b679-9c2029fcd9c6,6.0,6+,Creature,Shaman; Vampire,False
+Blood Rites,Deck,1,Sanctum Seeker,afb71560-0fc9-4ea5-9d52-d93c17d72519,4.0,4,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,"Timothar, Baron of Bats",82e03151-3990-451c-99cc-c7d386872df2,6.0,6+,Creature,Noble; Vampire,False
+Blood Rites,Deck,1,Twilight Prophet,a3afd8b9-d499-40f7-be41-f8fee6636a1d,4.0,4,Creature,Cleric; Vampire,False
+Blood Rites,Deck,1,"Yahenni, Undying Partisan",fdba89eb-1cf5-46e6-9d09-1adb9bc40fcd,3.0,3,Creature,Aetherborn; Vampire,False
+Blood Rites,Deck,1,"Elenda, the Dusk Rose",ce35f262-b93f-4409-8b33-26a7ed7abac8,4.0,4,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,"Sorin, Lord of Innistrad",5c780dda-ee76-482a-a610-53c321c4fdec,4.0,4,Planeswalker,,False
+Blood Rites,Deck,1,Utter End,cba94732-1f1f-4ffd-9aba-45db990043fa,4.0,4,Instant,,False
+Blood Rites,Deck,1,"Vona, Butcher of Magan",b1c56e23-eae6-47a1-a1cd-3a2d01621768,5.0,5,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,Blade of the Bloodchief,8985e545-07c3-45f9-9058-fe3c1f50de04,1.0,0-1,Artifact,,False
+Blood Rites,Deck,1,Isolated Chapel,7e5d9efe-48a9-434b-bb09-056e0e09cc9a,0.0,,Land,,False
+Blood Rites,Deck,1,Shineshadow Snarl,c9fc13d6-bd10-47bc-b2b6-7f67a1f3371e,0.0,,Land,,False
+Blood Rites,Deck,1,Temple of Silence,e6e6fce8-0f6a-4b84-865e-d4e4a4182f9f,0.0,,Land,,False
+Blood Rites,Deck,1,Vault of the Archangel,eeaac65a-3480-475a-bb28-e6375d53f487,0.0,,Land,,False
+Blood Rites,Deck,1,Voldaren Estate,fb0c0426-f1a6-4e52-9242-627786d3119a,0.0,,Land,,False
+Blood Rites,Deck,1,Windbrisk Heights,3589bcfc-42b0-414a-adce-bc690dc631c8,0.0,,Land,,False
+Blood Rites,Deck,1,Martyr of Dusk,794aaf8a-6d8e-41fb-acbe-a2b73d65d9d9,2.0,2,Creature,Soldier; Vampire,False
+Blood Rites,Deck,1,Return to Dust,3029df1d-d02a-4fed-8ab4-000a2096f823,4.0,4,Instant,,False
+Blood Rites,Deck,1,Swords to Plowshares,b1544f21-7e98-461b-aed5-e748b0168c52,1.0,0-1,Instant,,False
+Blood Rites,Deck,1,Blood Artist,310f141c-7f37-4729-aed6-dd9c09db448d,2.0,2,Creature,Vampire,False
+Blood Rites,Deck,1,Bloodline Necromancer,f2a54e85-dd8b-462c-a811-c9553dc349a5,5.0,5,Creature,Vampire; Wizard,False
+Blood Rites,Deck,1,Dusk Legion Zealot,ea2dce18-195e-4681-a687-f9819edaf9fc,2.0,2,Creature,Soldier; Vampire,False
+Blood Rites,Deck,1,Falkenrath Noble,3739b179-bc81-4737-8376-66a57e16b942,4.0,4,Creature,Noble; Vampire,False
+Blood Rites,Deck,1,Indulgent Aristocrat,c7054a2d-2e7b-4487-8fc3-f6a47a716fd3,1.0,0-1,Creature,Noble; Vampire,False
+Blood Rites,Deck,1,Oathsworn Vampire,e1fb696f-1df8-4571-9710-0d79001326d3,2.0,2,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,Village Rites,365548fb-5acc-4a8a-b20b-26d28b7d029f,1.0,0-1,Instant,,False
+Blood Rites,Deck,1,Viscera Seer,f82a4e85-526d-4456-b700-7760043a31be,1.0,0-1,Creature,Vampire; Wizard,False
+Blood Rites,Deck,1,Bartolomé del Presidio,f47e4c56-0a0b-422d-bf3d-7a20ee289f15,2.0,2,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,Cruel Celebrant,3ee78cfc-0e9e-4737-a7e2-b42f94228040,2.0,2,Creature,Vampire,False
+Blood Rites,Deck,1,Etchings of the Chosen,0114f97f-b196-4af1-90aa-eba164cb8f22,3.0,3,Enchantment,,False
+Blood Rites,Deck,1,Legion Lieutenant,5fa1b2f0-3ba4-49db-9cb5-b6130e4c255e,2.0,2,Creature,Knight; Vampire,False
+Blood Rites,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Blood Rites,Deck,1,Commander's Sphere,0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b,3.0,3,Artifact,,False
+Blood Rites,Deck,1,Heirloom Blade,7c3a8766-e440-48c5-a561-197490efdba5,3.0,3,Artifact,,False
+Blood Rites,Deck,1,Mind Stone,c97361b5-af16-4a7b-af85-a429dbaf4ad2,2.0,2,Artifact,,False
+Blood Rites,Deck,1,Orzhov Signet,de3dcb5d-775a-479f-99f5-d1883ed9b1b5,2.0,2,Artifact,,False
+Blood Rites,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Blood Rites,Deck,1,Swiftfoot Boots,c8b143ad-43ec-4e0d-a440-e348daa31391,2.0,2,Artifact,,False
+Blood Rites,Deck,1,Talisman of Hierarchy,b693c3de-2eaf-4850-b405-e79d00adefda,2.0,2,Artifact,,False
+Blood Rites,Deck,1,Wayfarer's Bauble,31f15274-301b-47c5-ba19-0ced04520878,1.0,0-1,Artifact,,False
+Blood Rites,Deck,1,Bojuka Bog,04b7362d-0490-4cb0-b5d7-2a7732f659ce,0.0,,Land,,False
+Blood Rites,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Blood Rites,Deck,1,Myriad Landscape,2549bc57-9ffb-4053-9f10-f2a5f792b845,0.0,,Land,,False
+Blood Rites,Deck,1,Orzhov Basilica,aa00ae0b-7c0f-427e-8102-ce0e2a6af5df,0.0,,Land,,False
+Blood Rites,Deck,1,Path of Ancestry,b473e293-59e3-4e04-acf2-622604aeb25f,0.0,,Land,,False
+Blood Rites,Deck,1,Rogue's Passage,f29dc596-2121-4421-8463-15f6c2e8b9b3,0.0,,Land,,False
+Blood Rites,Deck,1,Secluded Courtyard,79ba18fd-f184-43c1-86df-56ee18ce806c,0.0,,Land,,False
+Blood Rites,Deck,1,Tainted Field,439de49b-1091-4688-9ffb-80a025df31c2,0.0,,Land,,False
+Blood Rites,Deck,1,Temple of the False God,cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df,0.0,,Land,,False
+Blood Rites,Deck,1,Unclaimed Territory,584b15f2-6ae9-413a-8b8d-9244dbea4878,0.0,,Land,,False
+Blood Rites,Deck,8,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+Blood Rites,Deck,13,Swamp,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.0,,Land,,False
+Explorers of the Deep,Commander,1,Hakbal of the Surging Soul,687e772a-cdfe-41fd-a066-6cb3aee04193,4.0,,Creature,Merfolk; Scout,False
+Explorers of the Deep,Deck,1,"Xolatoyac, the Smiling Flood",2c0fc559-857f-4239-97fa-379ced3dfc1f,6.0,6+,Creature,Salamander; Serpent,False
+Explorers of the Deep,Deck,1,Mist Dancer,bf76ba01-e06f-4451-a4b4-cf548b43eafc,5.0,5,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Ripples of Potential,45bcebd0-5e93-4433-b92f-b4c161d04bd6,2.0,2,Instant,,False
+Explorers of the Deep,Deck,1,Wave Goodbye,06ef46c6-00ba-40e6-b866-d0095ab83749,4.0,4,Sorcery,,False
+Explorers of the Deep,Deck,1,Bygone Marvels,494dc919-e429-491b-b19b-5037499e2dd6,2.0,2,Sorcery,,False
+Explorers of the Deep,Deck,1,Deeproot Historian,4b8d82fe-571d-4fd6-8d0c-77b7e5ef3e23,4.0,4,Creature,Druid; Merfolk,False
+Explorers of the Deep,Deck,1,Topography Tracker,0171861e-98d5-4e58-834f-899d8ad7acea,3.0,3,Creature,Merfolk; Scout,False
+Explorers of the Deep,Deck,1,Tributary Instructor,1c70b9d8-b04e-48f8-a4e0-12ce077d22f2,4.0,4,Creature,Merfolk; Shaman,False
+Explorers of the Deep,Deck,1,Singer of Swift Rivers,7df43670-c948-464d-9bb9-db672e755f0c,3.0,3,Creature,Merfolk; Shaman,False
+Explorers of the Deep,Deck,1,Benthic Biomancer,b9000917-4f09-42f4-ae85-fc1ac7571d93,1.0,0-1,Creature,Merfolk; Mutant; Wizard,False
+Explorers of the Deep,Deck,1,Commit // Memory,56fd8895-3be2-4591-86fa-87567d9cdc14,10.0,6+,Instant; Sorcery,,False
+Explorers of the Deep,Deck,1,Coralhelm Commander,0ca0a186-026d-4cec-9c23-15d94e6acca9,2.0,2,Creature,Merfolk; Soldier,False
+Explorers of the Deep,Deck,1,Curse of the Swine,5669ea7c-c4fc-494c-896b-4bce9b494817,2.0,2,Sorcery,,False
+Explorers of the Deep,Deck,1,Emperor Mihail II,6c901ff4-15c3-468f-9a1b-4c69a7bbc31a,3.0,3,Creature,Merfolk; Noble,False
+Explorers of the Deep,Deck,1,Herald of Secret Streams,366a218e-84d3-4cf9-bbc8-f2f8ecce92a3,4.0,4,Creature,Merfolk; Warrior,False
+Explorers of the Deep,Deck,1,Kindred Discovery,005ee549-1bf5-478f-bc3f-3e791bd7eecf,5.0,5,Enchantment,,False
+Explorers of the Deep,Deck,1,"Kopala, Warden of Waves",0237cccc-3161-4d91-8e69-e3d315dcb246,3.0,3,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Master of the Pearl Trident,9f6ea9fe-eee5-4dca-a34e-c66d3e218716,2.0,2,Creature,Merfolk,False
+Explorers of the Deep,Deck,1,Merfolk Sovereign,16aba9af-7a12-4c3d-87eb-06278921cb7c,3.0,3,Creature,Merfolk; Noble,False
+Explorers of the Deep,Deck,1,Reflections of Littjara,c3fdfb94-2d10-4743-864c-a59fdd57d8b7,5.0,5,Enchantment,,False
+Explorers of the Deep,Deck,1,Seafloor Oracle,f9f719cb-7778-4109-bbd3-4504ee1b5f49,4.0,4,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Surgespanner,3f15349a-6ac6-4091-95a3-ae9f593e4650,4.0,4,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Svyelun of Sea and Sky,872bebff-720d-459b-8f86-fb9129a8d1fb,3.0,3,Creature,God; Merfolk,False
+Explorers of the Deep,Deck,1,"Thassa, God of the Sea",69e5df2f-be1f-4608-a90f-3e2f51e2fea4,3.0,3,Creature; Enchantment,God,False
+Explorers of the Deep,Deck,1,Thieving Skydiver,f509ac02-f22e-4d1a-9fe1-afa96dd7806d,2.0,2,Creature,Merfolk; Rogue,False
+Explorers of the Deep,Deck,1,Branching Evolution,28fe909b-06e0-424c-9f75-c824a25f5865,3.0,3,Enchantment,,False
+Explorers of the Deep,Deck,1,Deeproot Elite,764e8e6e-0ace-4fc8-8ca5-468a10ae3b73,2.0,2,Creature,Merfolk; Warrior,False
+Explorers of the Deep,Deck,1,Hardened Scales,a1f3da21-af6d-450e-bf0b-985d158418e6,1.0,0-1,Enchantment,,False
+Explorers of the Deep,Deck,1,Realmwalker,b81eaa2f-0554-41c6-bdf6-d1cb73b8f56f,3.0,3,Creature,Shapeshifter,False
+Explorers of the Deep,Deck,1,Ruinous Intrusion,4f945baa-40a9-4494-b2f9-f1926f3fec84,4.0,4,Instant,,False
+Explorers of the Deep,Deck,1,Cold-Eyed Selkie,f33cd975-ab70-4209-a6d8-e0d727772bf2,3.0,3,Creature,Merfolk; Rogue,False
+Explorers of the Deep,Deck,1,"Kumena, Tyrant of Orazca",e7125493-febc-4e8e-abdc-5fc4f94a281c,3.0,3,Creature,Merfolk; Shaman,False
+Explorers of the Deep,Deck,1,Prime Speaker Zegana,311e9368-696a-47e7-aa2f-3ef1b1a92e2b,6.0,6+,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Quandrix Command,9c0f7cdc-9095-40ae-bf83-75a5ffda72b9,3.0,3,Instant,,False
+Explorers of the Deep,Deck,1,Simic Ascendancy,57c1a98e-c4fb-4144-9e3e-d0fe6789ba26,2.0,2,Enchantment,,False
+Explorers of the Deep,Deck,1,"Tishana, Voice of Thunder",479dd04b-0048-446a-9202-a4dc9472e5c3,7.0,6+,Creature,Merfolk; Shaman,False
+Explorers of the Deep,Deck,1,Vorel of the Hull Clade,3001f971-c4db-4176-89b5-e7f4a8890c0f,3.0,3,Creature,Human; Merfolk,False
+Explorers of the Deep,Deck,1,"Zegana, Utopian Speaker",04260930-ff38-4b35-9ec4-e89196a4f2c7,4.0,4,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Metallic Mimic,1f91297a-ec2b-4ea8-9198-aa1daac20ff8,2.0,2,Artifact; Creature,Shapeshifter,False
+Explorers of the Deep,Deck,1,Alchemist's Refuge,357ed28b-899f-404b-94ff-6fb2ef81d87b,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Hinterland Harbor,fb5a3403-7f0b-406c-8c4f-d693be010ca6,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Karn's Bastion,9fb8cd81-403a-4988-8f1c-b8eccf8abd9c,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Mosswort Bridge,7cb9e29f-835f-4155-a2a5-4b778866c773,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Temple of Mystery,7e26f0b7-20e6-46d5-8130-d98c14d6aa29,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Vineglimmer Snarl,33f52df8-4b44-4422-8b0a-37fead9c894b,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Merfolk Cave-Diver,2f1019df-3e76-446c-ba33-f9dfe56b10bf,3.0,3,Creature,Merfolk; Scout,False
+Explorers of the Deep,Deck,1,Aetherize,7c779721-cd1b-4696-9ae9-68ccc284ed2a,4.0,4,Instant,,False
+Explorers of the Deep,Deck,1,Deeproot Waters,8e7b31eb-7a91-4992-b24a-d81173e1dbc8,3.0,3,Enchantment,,False
+Explorers of the Deep,Deck,1,Merrow Reejerey,6b7e6ae4-2ee1-44bf-ac93-79fc87494515,3.0,3,Creature,Merfolk; Soldier,False
+Explorers of the Deep,Deck,1,Rapid Hybridization,06692cd9-ac2f-4a32-8fd1-043ba3c0fe71,1.0,0-1,Instant,,False
+Explorers of the Deep,Deck,1,Ravenform,d3d61a6a-7870-44df-92e5-513dac2c2c3e,3.0,3,Sorcery,,False
+Explorers of the Deep,Deck,1,Sage of Fables,f53da056-97be-41ad-8cfc-0d92e17dcd7b,3.0,3,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Stonybrook Banneret,0d6202c7-b19c-429a-85c4-332024381dd7,2.0,2,Creature,Merfolk; Wizard,False
+Explorers of the Deep,Deck,1,Beast Within,7735eeba-693b-47e2-bd51-414379cf1016,3.0,3,Instant,,False
+Explorers of the Deep,Deck,1,"Nicanzil, Current Conductor",4cb86fb6-3e06-4c67-aee0-d5952178f664,2.0,2,Creature,Merfolk; Scout,False
+Explorers of the Deep,Deck,1,Evolution Sage,b45fdeab-00cc-4422-af9f-66f30a880a7c,3.0,3,Creature,Druid; Elf,False
+Explorers of the Deep,Deck,1,Explore,b8f566ea-8283-4afa-9ac8-737e26419283,2.0,2,Sorcery,,False
+Explorers of the Deep,Deck,1,Inspiring Call,9b9a10ff-5a5d-4df8-88aa-18d84ff9117c,3.0,3,Instant,,False
+Explorers of the Deep,Deck,1,Kodama's Reach,1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90,3.0,3,Sorcery,,False
+Explorers of the Deep,Deck,1,Growth Spiral,34bcc217-dd91-45a0-90d7-a94d02f1f317,2.0,2,Instant,,False
+Explorers of the Deep,Deck,1,Kiora's Follower,22c044ad-77d7-4c93-953d-e2daa9686ff7,2.0,2,Creature,Merfolk,False
+Explorers of the Deep,Deck,1,Merfolk Mistbinder,be56dfea-1ece-4f06-b1cc-d7425b5018b4,2.0,2,Creature,Merfolk; Shaman,False
+Explorers of the Deep,Deck,1,Merfolk Skydiver,5d2ccaa4-4815-4987-889f-d08c4d1e7a8e,2.0,2,Creature,Merfolk; Mutant,False
+Explorers of the Deep,Deck,1,"Tatyova, Benthic Druid",0715e860-3b3b-4331-9718-207973e94fee,5.0,5,Creature,Druid; Merfolk,False
+Explorers of the Deep,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Explorers of the Deep,Deck,1,Commander's Sphere,0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b,3.0,3,Artifact,,False
+Explorers of the Deep,Deck,1,Simic Signet,44503105-3e13-408d-a44f-37d503c61d72,2.0,2,Artifact,,False
+Explorers of the Deep,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Explorers of the Deep,Deck,1,Swiftfoot Boots,c8b143ad-43ec-4e0d-a440-e348daa31391,2.0,2,Artifact,,False
+Explorers of the Deep,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Llanowar Reborn,92acb789-0e42-465c-ac16-40fefec48805,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Myriad Landscape,2549bc57-9ffb-4053-9f10-f2a5f792b845,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Path of Ancestry,b473e293-59e3-4e04-acf2-622604aeb25f,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Reliquary Tower,c23e5b80-08d2-4e24-9908-fe2aa4f30f6f,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Rogue's Passage,f29dc596-2121-4421-8463-15f6c2e8b9b3,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Secluded Courtyard,79ba18fd-f184-43c1-86df-56ee18ce806c,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Simic Growth Chamber,046f5783-cc7b-416a-8cf6-2bcef9c2cc1a,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Temple of the False God,cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df,0.0,,Land,,False
+Explorers of the Deep,Deck,1,Unclaimed Territory,584b15f2-6ae9-413a-8b8d-9244dbea4878,0.0,,Land,,False
+Explorers of the Deep,Deck,7,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+Explorers of the Deep,Deck,13,Island,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.0,,Land,,False
+Veloci-Ramp-Tor,Commander,1,"Pantlaza, Sun-Favored",b828ba28-e98d-498b-9ab4-d4aa7143e407,5.0,,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,"Wayta, Trainer Prodigy",e507df33-d150-4b21-8ddb-90799f412dd8,3.0,3,Creature,Human; Warrior,False
+Veloci-Ramp-Tor,Deck,1,Bronzebeak Foragers,0f5f6f3e-1b3c-43e2-b11d-bd454366845c,4.0,4,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,From the Rubble,76d07c99-8c6b-4c2c-a0f6-47541999015b,6.0,6+,Enchantment,,False
+Veloci-Ramp-Tor,Deck,1,Wrathful Raptors,1ba92b64-d821-4c24-aed6-fc90d0c63c10,5.0,5,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Curious Altisaur,80686908-abb5-4728-a5f6-71baca27f467,4.0,4,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Dinosaur Egg,ac4d5a97-6177-4eac-b0f2-cf10531ad879,2.0,2,Creature,Dinosaur; Egg,False
+Veloci-Ramp-Tor,Deck,1,Scion of Calamity,75fddffb-68f4-4b65-bf3b-4e2ada62a522,5.0,5,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Sunfrill Imitator,2f618a4a-8b76-4c87-baa7-fb6a17f6f51c,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Progenitor's Icon,747f6d0f-3c10-4fef-b7ae-f578c8964ab5,3.0,3,Artifact,,False
+Veloci-Ramp-Tor,Deck,1,Akroma's Will,fd949f82-fc10-4e37-8aa9-6c7569fe3c55,4.0,4,Instant,,False
+Veloci-Ramp-Tor,Deck,1,Kinjalli's Sunwing,b9243163-b726-432e-830f-86132aa7f34a,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Temple Altisaur,1f499d39-b963-45c0-9604-d3cab98c9e05,5.0,5,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Wakening Sun's Avatar,3c2aec69-ffd9-4a34-888c-58adbbb99bb5,8.0,6+,Creature,Avatar; Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,"Zetalpa, Primal Dawn",7da0e5de-3e4c-420a-8685-991206100b9d,8.0,6+,Creature,Dinosaur; Elder,False
+Veloci-Ramp-Tor,Deck,1,Chandra's Ignition,f61680da-606e-4d16-b0a0-361aa5210901,5.0,5,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,"Etali, Primal Storm",078def07-ae5d-4591-8db6-d156834aab97,6.0,6+,Creature,Dinosaur; Elder,False
+Veloci-Ramp-Tor,Deck,1,Fiery Confluence,3c22e031-4804-4c31-bd3c-c3f29d456b34,4.0,4,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Marauding Raptor,b3fe2f61-c58e-4ebc-a5e3-99d6b6f62caf,2.0,2,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Apex Altisaur,fc467fe5-85ab-4c95-8d21-49096778b107,9.0,6+,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Deathgorge Scavenger,17da3654-7517-473b-89e7-0303f6f030cb,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Descendants' Path,ba13cbdb-8043-4c1b-8a85-084c86886ac8,3.0,3,Enchantment,,False
+Veloci-Ramp-Tor,Deck,1,Rampaging Brontodon,bfea2229-a1ca-40c1-aaad-5f97add3f079,7.0,6+,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Regal Behemoth,797c2b1c-c373-4735-b397-f561559c7c61,6.0,6+,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Return of the Wildspeaker,2b76f9e9-cd28-4eaf-8674-215c34263f96,5.0,5,Instant,,False
+Veloci-Ramp-Tor,Deck,1,Ripjaw Raptor,80bb9ce4-1f3c-42ca-b75f-9a6b2f42073b,4.0,4,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Rishkar's Expertise,97407cd0-2bd2-4074-94d3-4ec3d243fa78,6.0,6+,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Runic Armasaur,48e8ae59-a234-498e-9dae-bac8d1424ea5,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Shifting Ceratops,6cac6f76-f3c6-4b00-a468-166b07853401,4.0,4,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Topiary Stomper,e3fc10d2-2733-4265-8275-112c285fd11a,3.0,3,Creature,Dinosaur; Plant,False
+Veloci-Ramp-Tor,Deck,1,Verdant Sun's Avatar,6ee71432-a44d-495e-86ea-d495d891c331,7.0,6+,Creature,Avatar; Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Wayward Swordtooth,3875aef0-3102-4fbf-be90-e4139f7a2348,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Quartzwood Crasher,178a79e2-64fd-4777-95fe-98b7834a642a,5.0,5,Creature,Beast; Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Regisaur Alpha,0673f4e0-66ff-458c-b4ba-eb067e560cce,5.0,5,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,"Xenagos, God of Revels",cb15a8dd-57fe-466f-847e-66476b690a1f,5.0,5,Creature; Enchantment,God,False
+Veloci-Ramp-Tor,Deck,1,"Zacama, Primal Calamity",23270e4a-a222-4ffb-a946-d0e20d665187,9.0,6+,Creature,Dinosaur; Elder,False
+Veloci-Ramp-Tor,Deck,1,Lifecrafter's Bestiary,5f2a3797-28aa-4c7a-ba2b-fd243a1747fd,3.0,3,Artifact,,False
+Veloci-Ramp-Tor,Deck,1,Arch of Orazca,3bb518ff-399b-4ce7-b9ad-a1d563dd7792,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Canopy Vista,dcb7e046-f01b-497c-88e5-57794eb30ce5,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Cinder Glade,dfac0258-e148-4d7d-8ded-fc2466d9caa6,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Clifftop Retreat,d7faa3c8-46cf-46b2-bfa4-89000307cf18,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Exotic Orchard,27b047e3-0d41-45e2-98e9-9391d7923a1e,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Fortified Village,56f1a16a-9f41-41fb-b580-c200bca27cd6,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Furycalm Snarl,651dea9c-2375-4e44-8e65-ba8e40f0c0ef,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Game Trail,00de57d2-7cb6-4337-9bc6-f6711e4dfabf,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Kessig Wolf Run,c6911265-54ef-4c16-bcf2-1ffb24b7d426,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Mosswort Bridge,7cb9e29f-835f-4155-a2a5-4b778866c773,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Bellowing Aegisaur,7063abe1-87dd-4526-9867-f7ce255b2cf0,6.0,6+,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Generous Gift,fae37e28-e137-4177-b973-fa8b4dd8f409,3.0,3,Instant,,False
+Veloci-Ramp-Tor,Deck,1,Majestic Heliopterus,d3b49970-46b7-441b-bff8-8403d982b8a7,4.0,4,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Path to Exile,d683d985-9888-4d21-8b5f-69e69ce4a03b,1.0,0-1,Instant,,False
+Veloci-Ramp-Tor,Deck,1,Earthshaker Dreadmaw,454cbc6a-b7f0-445e-842c-5db267917a18,6.0,6+,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Ixalli's Lorekeeper,a3ce0fa9-8742-4e2c-a8a0-00fc009f998a,1.0,0-1,Creature,Druid; Human,False
+Veloci-Ramp-Tor,Deck,1,Thrashing Brontodon,60bc63dc-ac9f-4a2f-aef5-c90d0aa31553,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Otepec Huntmaster,41623eab-38b5-4058-8de2-e6b8706de7a2,2.0,2,Creature,Human; Shaman,False
+Veloci-Ramp-Tor,Deck,1,"Itzquinth, Firstborn of Gishath",f976a244-1240-4430-9182-bb8d6d932ea0,2.0,2,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Cultivate,8b755881-a72d-4e21-a369-d2924eb4585a,3.0,3,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Drover of the Mighty,6deba6e8-077b-4602-86af-64db766fbbd9,2.0,2,Creature,Druid; Human,False
+Veloci-Ramp-Tor,Deck,1,Farseek,495e52e6-4c2b-4574-9474-eadbdcc8b4ac,2.0,2,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Migration Path,db4907f3-4071-47c4-9329-96b4813435be,4.0,4,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Rampant Growth,8539f295-5d58-4436-a73a-b9277c4c7795,2.0,2,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Ranging Raptors,2a86b70b-34ca-45df-8aa1-c3fb2da72dc3,3.0,3,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Savage Stomp,2ecda58d-9aa9-4857-bdc5-b6b7b70a79c0,3.0,3,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Thunderherd Migration,006bbd8b-2007-419d-8b84-9ff73f2f95b7,2.0,2,Sorcery,,False
+Veloci-Ramp-Tor,Deck,1,Thundering Spineback,c9db31d7-00cf-4200-a11f-74cc2d9e843e,7.0,6+,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Atzocan Seer,affced7f-797d-4e50-8a24-2da14de44e43,3.0,3,Creature,Druid; Human,False
+Veloci-Ramp-Tor,Deck,1,Raging Regisaur,3d563149-7d4e-43e5-b701-28e3212051ec,4.0,4,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Raging Swordtooth,626709bc-6c29-434f-9e3f-b84bb8a5c431,5.0,5,Creature,Dinosaur,False
+Veloci-Ramp-Tor,Deck,1,Rhythm of the Wild,acfa77fd-3610-4f12-9c3c-bd860ce91700,3.0,3,Enchantment,,False
+Veloci-Ramp-Tor,Deck,1,Arcane Signet,0bc7f093-bef0-4f1a-852c-4b75ebf54838,2.0,2,Artifact,,False
+Veloci-Ramp-Tor,Deck,1,Sol Ring,6ad8011d-3471-4369-9d68-b264cc027487,1.0,0-1,Artifact,,False
+Veloci-Ramp-Tor,Deck,1,Command Tower,0895c9b7-ae7d-4bb3-af17-3b75deb50a25,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Evolving Wilds,a75445d3-1303-4bb5-89ad-26ea93fecd48,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Jungle Shrine,2e69537c-c898-4e13-a72d-ce3957a90304,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Myriad Landscape,2549bc57-9ffb-4053-9f10-f2a5f792b845,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Path of Ancestry,b473e293-59e3-4e04-acf2-622604aeb25f,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Rogue's Passage,f29dc596-2121-4421-8463-15f6c2e8b9b3,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Secluded Courtyard,79ba18fd-f184-43c1-86df-56ee18ce806c,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Temple of the False God,cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Terramorphic Expanse,1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Thriving Bluff,91fceb34-0f2d-4392-be27-00dcd765637f,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Thriving Grove,a8052556-8962-4130-86a8-6fb7b6a324f7,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Thriving Heath,d1946630-e224-40db-8f0d-388b09622288,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,1,Unclaimed Territory,584b15f2-6ae9-413a-8b8d-9244dbea4878,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,8,Forest,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,4,Plains,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.0,,Land,,False
+Veloci-Ramp-Tor,Deck,4,Mountain,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.0,,Land,,False
