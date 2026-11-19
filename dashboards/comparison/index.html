@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Compare tools | Commander deck profiles</title></head>
+<body><p><a href="../python/gameplay.html#compare-tools">Open the dashboard comparison</a></p>
+<script>
+const tool=location.hash.slice(1);
+const target=['python','tableau','power-bi'].includes(tool)?'#compare-tools/'+tool+'/printed-curve':'#compare-tools';
+location.replace('../python/gameplay.html'+target);
+</script></body></html>
